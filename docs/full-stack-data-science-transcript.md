@@ -2,7 +2,7 @@
 
 > 原文：<https://web.archive.org/web/20221129045010/https://www.datacamp.com/blog/full-stack-data-science-transcript>
 
-<center>[![](img/41683103ebc516697c6652cd6bfeb226.png)](https://web.archive.org/web/20221010090437/https://www.datacamp.com/community/podcast/full-stack-data-science)</center>
+[![](img/41683103ebc516697c6652cd6bfeb226.png)](https://web.archive.org/web/20221010090437/https://www.datacamp.com/community/podcast/full-stack-data-science)
 
 [https://web.archive.org/web/20221010090437if_/https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/506116350%3Fsecret_token%3Ds-pNcuf&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true](https://web.archive.org/web/20221010090437if_/https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/506116350%3Fsecret_token%3Ds-pNcuf&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true)
 

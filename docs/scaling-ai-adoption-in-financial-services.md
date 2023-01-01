@@ -2,7 +2,7 @@
 
 > 原文：<https://web.archive.org/web/20221129051850/https://www.datacamp.com/blog/scaling-ai-adoption-in-financial-services>
 
-<center>[![](img/896e71402daef60dfb13cdeaf78d9a83.png)](https://web.archive.org/web/20220518121511/https://www.datacamp.com/community/podcast/scaling-ai-adoption-in-financial-services)</center>
+[![](img/896e71402daef60dfb13cdeaf78d9a83.png)](https://web.archive.org/web/20220518121511/https://www.datacamp.com/community/podcast/scaling-ai-adoption-in-financial-services)
 
 [https://web.archive.org/web/20220518121511if_/https://embed.podcasts.apple.com/us/podcast/73-scaling-ai-adoption-in-financial-services-with/id1336150688?i=1000538909250](https://web.archive.org/web/20220518121511if_/https://embed.podcasts.apple.com/us/podcast/73-scaling-ai-adoption-in-financial-services-with/id1336150688?i=1000538909250)
 

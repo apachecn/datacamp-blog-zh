@@ -4,7 +4,7 @@
 
 *我们与 DataCamp Workspace 用户坐下来，详细了解他们在使用该工具时的独特体验..谁会想到一个简单的浏览器内工具可以过渡到这样一个多功能的平台？请继续阅读，找出方法。*
 
-<center>![](img/6a8016ffd4cc6e9956593857434dac2e.png)</center>
+![](img/6a8016ffd4cc6e9956593857434dac2e.png)
 
 ### 创建投资组合的理想工具
 
@@ -36,4 +36,4 @@ Sanjay 关于新冠肺炎数据的 Workspace 出版物基于 Kaggle 的数据集
 
 Workspace 是您编写、运行和共享分析的一站式解决方案。有了这样一个灵活多样的工具，机会是无穷无尽的。
 
-<center>[![](img/442383a7bb64777dbce1ddf8d76d5f80.png)](https://web.archive.org/web/20220529052553/http://workspace.datacamp.com/)</center>
+[![](img/442383a7bb64777dbce1ddf8d76d5f80.png)](https://web.archive.org/web/20220529052553/http://workspace.datacamp.com/)

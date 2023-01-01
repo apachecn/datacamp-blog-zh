@@ -2,7 +2,7 @@
 
 > 原文：<https://web.archive.org/web/20230101103238/https://www.datacamp.com/blog/new-hire-spotlight-ramping-up-at-datacamp-in-a-remote-work-environment>
 
-<center>[![](img/7d186637318a0b47ec4d1aa903d86fdb.png)](https://web.archive.org/web/20220813092546/https://www.datacamp.com/jobs/)</center>
+[![](img/7d186637318a0b47ec4d1aa903d86fdb.png)](https://web.archive.org/web/20220813092546/https://www.datacamp.com/jobs/)
 
 ## 告诉我们你加入 DataCamp 的途径。
 

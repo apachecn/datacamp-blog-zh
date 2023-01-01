@@ -2,16 +2,15 @@
 
 > 原文：<https://web.archive.org/web/20221129033105/https://www.datacamp.com/blog/tableau-desktop-specialist-certification-learn-how-to-use-tableau-and-ace-the-exam>
 
-<center>[![Tableau Skill Track](img/d4cb20e40eca522b830803cd9458ecef.png)](https://web.archive.org/web/20220927022312/https://www.datacamp.com/tracks/tableau-fundamentals)</center>
+[![Tableau Skill Track](img/d4cb20e40eca522b830803cd9458ecef.png)](https://web.archive.org/web/20220927022312/https://www.datacamp.com/tracks/tableau-fundamentals)
 
 ## 什么是 Tableau？
 
 Tableau 是一个商业智能(BI)平台，其功能就像一个增压的 Microsoft Excel。它的用户友好的拖放功能使任何与数据交互的人都可以分析和创建演示就绪的可视化效果——从数据新手到分析师，甚至是商业领袖。使用 Tableau 绝对不需要成为经验丰富的数据科学家！##哪些公司用 Tableau？Tableau 的客户名单是商业世界的名人录，包括亚马逊、益百利和联合利华等知名品牌。但是，不仅仅是全球巨头[使用 Tableau](https://web.archive.org/web/20220927022312/https://www.datacamp.com/learn/tableau) 来民主化他们的数据——超过 [86，000 家企业](https://web.archive.org/web/20220927022312/https://techcrunch.com/2019/06/10/salesforce-is-buying-data-visualization-company-tableau-for-15-7b-in-all-stock-deal/)正在使用 Tableau 从他们的数据中提取和分享见解。##认证概述
 
-<center>[Tableau Desktop Specialist](https://web.archive.org/web/20220927022312/https://www.tableau.com/learn/certification/desktop-specialist)
+[Tableau Desktop Specialist](https://web.archive.org/web/20220927022312/https://www.tableau.com/learn/certification/desktop-specialist)
 Fee: $100
 Title valid for: No expiration
-</CALLOUT BOX></center>
 
 ## 桌面专家考试的要求
 
@@ -45,4 +44,4 @@ Tableau 还提供了一个很好的学习资源选择，您可以使用它来准
 
 觉得这篇文章有用？如果有，请在 [LinkedIn](https://web.archive.org/web/20220927022312/https://www.linkedin.com/company/datacampinc/) 、 [Twitter](https://web.archive.org/web/20220927022312/https://twitter.com/DataCamp) 或[脸书](https://web.archive.org/web/20220927022312/https://www.facebook.com/datacampinc/)上分享。
 
-<center>[![Tableau Skill Track](img/d4cb20e40eca522b830803cd9458ecef.png)](https://web.archive.org/web/20220927022312/https://www.datacamp.com/tracks/tableau-fundamentals)</center>
+[![Tableau Skill Track](img/d4cb20e40eca522b830803cd9458ecef.png)](https://web.archive.org/web/20220927022312/https://www.datacamp.com/tracks/tableau-fundamentals)

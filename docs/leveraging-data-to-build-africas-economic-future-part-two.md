@@ -2,7 +2,7 @@
 
 > 原文：<https://web.archive.org/web/20221129045040/https://www.datacamp.com/blog/leveraging-data-to-build-africas-economic-future-part-two>
 
-<center>[![](img/459c88e1fc0081290068396008d28da7.png)](https://web.archive.org/web/20220630230131/https://s3.amazonaws.com/assets.datacamp.com/email/other/Blossom+Academy.pdf)</center>
+[![](img/459c88e1fc0081290068396008d28da7.png)](https://web.archive.org/web/20220630230131/https://s3.amazonaws.com/assets.datacamp.com/email/other/Blossom+Academy.pdf)
 
 这篇博客文章是一个两部分系列的第二部分，Blossom Academy 的创始人兼首席执行官杰夫阿切姆庞与毕业生交谈，以发现是什么推动了他们对数据工作的兴趣以及他们希望实现什么。 [Blossom Academy](https://web.archive.org/web/20220630230131/https://www.blossomacademy.co/) 是一家技术人才开发公司，招聘和开发非洲分析人才，目标是为他们提供全职工作机会。Blossom Academy [与 DataCamp](https://web.archive.org/web/20220630230131/https://s3.amazonaws.com/assets.datacamp.com/email/other/Blossom+Academy.pdf) 合作扩展他们的培训项目。
 

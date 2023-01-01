@@ -2,9 +2,9 @@
 
 > 原文：<https://web.archive.org/web/20230101103339/https://www.datacamp.com/blog/how-a-non-data-scientist-learned-r-and-delivered-reports-3-days-faster>
 
-<center>[![](img/19f2801ceb080b29a4f6c84f4c4f0e3b.png)](https://web.archive.org/web/20220528203913/http://www.datacamp.com/business)</center>
+[![](img/19f2801ceb080b29a4f6c84f4c4f0e3b.png)](https://web.archive.org/web/20220528203913/http://www.datacamp.com/business)
 
-<center>[![](img/783d0d1a9820c23d32ae029cb143baa4.png)](https://web.archive.org/web/20220528203913/https://www.datacamp.com/business)</center>
+[![](img/783d0d1a9820c23d32ae029cb143baa4.png)](https://web.archive.org/web/20220528203913/https://www.datacamp.com/business)
 
 2016 年，克里斯·卡迪罗(Chris Cardillo)是支持 M & C Saatchi Performance (当时称为 M & C Saatchi Mobile)媒体购买团队的策略师，这是一家拥有 100 多名员工的数字广告公司。他的团队面临一个很多人都熟悉的问题:如何有效地为客户报告聚集数据。
 
@@ -28,4 +28,4 @@ Chris 使用 R，尤其是 Tidyverse 工具来操作和导入不同类型的数�
 
 克里斯在 2017 年被提升为 M&C 盛世长城的战略副总监，但他已经不在那里工作了。现在，[他在 DataCamp](https://web.archive.org/web/20220528203913/https://www.linkedin.com/in/chris-cardillo-3b842410b) 工作，是一名支持企业业务的数据科学家。如果你像 Chris 一样是数据营冠军(现在仍然是)，请在 datacamp.com/business[的](https://web.archive.org/web/20220528203913/http://www.datacamp.com/business)了解更多关于如何让你的团队参加数据营的信息。点击[此处](https://web.archive.org/web/20220528203913/https://www.datacamp.com/business/demo/)安排我们平台的演示。
 
-<center>[![](img/be052005e09620763a37c24706bc96ab.png)](https://web.archive.org/web/20220528203913/https://www.datacamp.com/business/demo)</center>**
+[![](img/be052005e09620763a37c24706bc96ab.png)](https://web.archive.org/web/20220528203913/https://www.datacamp.com/business/demo)**

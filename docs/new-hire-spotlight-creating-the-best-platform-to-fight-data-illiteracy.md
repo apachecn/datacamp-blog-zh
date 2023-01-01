@@ -2,7 +2,7 @@
 
 > 原文：<https://web.archive.org/web/20230101103238/https://www.datacamp.com/blog/new-hire-spotlight-creating-the-best-platform-to-fight-data-illiteracy>
 
-<center>[![](img/a92134559a1b3da75564537545b37269.png)](https://web.archive.org/web/20220713161230/https://www.datacamp.com/jobs/)</center>
+[![](img/a92134559a1b3da75564537545b37269.png)](https://web.archive.org/web/20220713161230/https://www.datacamp.com/jobs/)
 
 ## 告诉我们你加入 DataCamp 的途径。
 

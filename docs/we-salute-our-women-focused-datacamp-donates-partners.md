@@ -31,7 +31,7 @@
 
 你知道任何公立高中或非营利组织可以从与 DataCamp 的合作中获益吗？我们还有 5000 多份套餐可以赠送—请在 [【电子邮件保护】](/web/20221212135912/https://www.datacamp.com/cdn-cgi/l/email-protection#a6c2c9c8c7d2c3e6c2c7d2c7c5c7cbd688c5c9cb) 申请！
 
-<center>[![](img/44eb4f7d57782b9050acdad8dcbb3112.png)](/web/20221212135912/https://www.datacamp.com/cdn-cgi/l/email-protection#eb8f84858a9f8eab8f8a9f8a888a869bc5888486)</center>
+[![](img/44eb4f7d57782b9050acdad8dcbb3112.png)](/web/20221212135912/https://www.datacamp.com/cdn-cgi/l/email-protection#eb8f84858a9f8eab8f8a9f8a888a869bc5888486)
 
 呼吁世界各地所有学生、失业者和低薪的有志数据专业人士:我们的数据营捐赠合作伙伴可能能够为您提供一年的免费数据营，如果您满足他们的资格要求，这因组织而异。访问 [FAQ](https://web.archive.org/web/20221212135912/https://support.datacamp.com/hc/en-us/articles/360051596574) 找到离你最近的组织，直接联系他们获取更多信息。
 

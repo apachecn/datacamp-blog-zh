@@ -2,7 +2,7 @@
 
 > 原文：<https://web.archive.org/web/20221129045128/https://www.datacamp.com/blog/providing-financial-inclusion-with-data-science>
 
-<center>[![](img/8eed8d6171f0bc73408c3fb2ed45bdae.png)](https://web.archive.org/web/20220703051723/https://www.datacamp.com/community/podcast/providing-financial-inclusion-with-data-science)</center>
+[![](img/8eed8d6171f0bc73408c3fb2ed45bdae.png)](https://web.archive.org/web/20220703051723/https://www.datacamp.com/community/podcast/providing-financial-inclusion-with-data-science)
 
 [https://web.archive.org/web/20220703051723if_/https://embed.podcasts.apple.com/us/podcast/76-providing-financial-inclusion-with-data-science/id1336150688?i=1000543340303](https://web.archive.org/web/20220703051723if_/https://embed.podcasts.apple.com/us/podcast/76-providing-financial-inclusion-with-data-science/id1336150688?i=1000543340303)
 

@@ -2,7 +2,7 @@
 
 > 原文：<https://web.archive.org/web/20230101103339/https://www.datacamp.com/blog/how-to-build-a-meaningful-career-in-data-science>
 
-<center>[![](img/bbbd910cfe9424e1ff1cc3f3dbaba813.png)](https://web.archive.org/web/20220518135621/https://omdena.com/projects)</center>
+[![](img/bbbd910cfe9424e1ff1cc3f3dbaba813.png)](https://web.archive.org/web/20220518135621/https://omdena.com/projects)
 
 需要一些灵感来引导您的数据科学职业朝着最有影响力的方向发展吗？
 
@@ -20,7 +20,7 @@ Albert、Kulsoom 和 Anam 都获得了两个月免费参加所有 DataCamp 课�
 
 ## 艾伯特
 
-<center>[![](img/3d3d9288f21cdb119ccd7dad29dc1e7d.png)](https://web.archive.org/web/20220518135621/https://omdena.com/projects)</center>
+[![](img/3d3d9288f21cdb119ccd7dad29dc1e7d.png)](https://web.archive.org/web/20220518135621/https://omdena.com/projects)
 
 17 岁的 Albert 是我们最年轻的合作者，但他对数据的热情和渴望激励了我们 AI 挑战赛中的其他 32 名合作者。用他自己的话说，这是他对这次经历的看法。
 
@@ -40,7 +40,7 @@ Albert、Kulsoom 和 Anam 都获得了两个月免费参加所有 DataCamp 课�
 
 ## 库苏姆
 
-<center>[![](img/c667fa8524c8d2c1d76def1bd3dbc5c4.png)](https://web.archive.org/web/20220518135621/https://omdena.com/our-projects/)</center>
+[![](img/c667fa8524c8d2c1d76def1bd3dbc5c4.png)](https://web.archive.org/web/20220518135621/https://omdena.com/our-projects/)
 
 Kulsoom Abdullah 在 2011 年世界锦标赛上成为第一位代表巴基斯坦参赛的女子举重运动员。
 
@@ -64,7 +64,7 @@ Kulsoom Abdullah 在 2011 年世界锦标赛上成为第一位代表巴基斯坦
 
 ## 阿南
 
-<center>[![](img/eb53058d52f0e34eeae662e0330ad7db.png)](https://web.archive.org/web/20220518135621/https://omdena.com/our-projects/)</center>
+[![](img/eb53058d52f0e34eeae662e0330ad7db.png)](https://web.archive.org/web/20220518135621/https://omdena.com/our-projects/)
 
 当 Anam 加入我们的 [PTSD 人工智能挑战赛](https://web.archive.org/web/20220518135621/https://medium.com/omdena/i-was-struggling-with-ptsd-now-i-help-to-cure-it-through-ai-5bf98fcdd39)时，她几乎没有人工智能经验，但却有着长期与 PTSD 作斗争的个人经历。她加入了我们的 AI 挑战赛，并晋升为初级机器学习工程师。
 

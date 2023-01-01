@@ -2,9 +2,9 @@
 
 > 原文：<https://web.archive.org/web/20221129033105/https://www.datacamp.com/blog/how-data-science-is-used-in-every-step-of-the-automotive-lifecycle>
 
-<center>[![](img/b66f93ebaa2e89163a5cf2d635244046.png)](https://web.archive.org/web/20220630232553/https://www.datacamp.com/groups/business)</center>
+[![](img/b66f93ebaa2e89163a5cf2d635244046.png)](https://web.archive.org/web/20220630232553/https://www.datacamp.com/groups/business)
 
-<center>[![](img/96cc616cd2689d7a70f4899fbbd3d21f.png)](https://web.archive.org/web/20220630232553/https://www.datacamp.com/resources/webinars/data-science-is-driving-the-future-of-automotive)</center>
+[![](img/96cc616cd2689d7a70f4899fbbd3d21f.png)](https://web.archive.org/web/20220630232553/https://www.datacamp.com/resources/webinars/data-science-is-driving-the-future-of-automotive)
 
 福特汽车公司的 T 型车最早建于 1908 年，因其低成本、耐用性、多功能性和易于维护而经久耐用。它被誉为“推动世界前进”，通过制造效率以普通消费者可以承受的价格扩大全球流动性。
 
@@ -20,7 +20,7 @@
 
 这些只是几个例子，但是 Michael 指出，数据科学几乎有无穷无尽的用例，其中许多还有待探索。
 
-<center>[![](img/e2872b0cdec6e507f6f0ea10c01490cc.png)](https://web.archive.org/web/20220630232553/https://www.datacamp.com/resources/webinars/data-science-is-driving-the-future-of-automotive)</center>
+[![](img/e2872b0cdec6e507f6f0ea10c01490cc.png)](https://web.archive.org/web/20220630232553/https://www.datacamp.com/resources/webinars/data-science-is-driving-the-future-of-automotive)
 
 ## 在汽车行业使用数据
 
@@ -54,6 +54,6 @@
 
 除了我们提到的，数据科学还会影响汽车生命周期的许多其他阶段。在营销和销售领域，数据科学预测客户流动和流失。在服务和客户分析方面，数据科学改善了客户的购后体验，并提高了产品质量。要深入了解数据科学如何推动汽车未来的用例，[观看 Michael 的网络研讨会点播](https://web.archive.org/web/20220630232553/https://www.datacamp.com/resources/webinars/data-science-is-driving-the-future-of-automotive)。
 
-<center>[![](img/96cc616cd2689d7a70f4899fbbd3d21f.png)](https://web.archive.org/web/20220630232553/https://www.datacamp.com/resources/webinars/data-science-is-driving-the-future-of-automotive)</center>
+[![](img/96cc616cd2689d7a70f4899fbbd3d21f.png)](https://web.archive.org/web/20220630232553/https://www.datacamp.com/resources/webinars/data-science-is-driving-the-future-of-automotive)
 
-<center>[![](img/b66f93ebaa2e89163a5cf2d635244046.png)](https://web.archive.org/web/20220630232553/https://www.datacamp.com/groups/business)</center>
+[![](img/b66f93ebaa2e89163a5cf2d635244046.png)](https://web.archive.org/web/20220630232553/https://www.datacamp.com/groups/business)

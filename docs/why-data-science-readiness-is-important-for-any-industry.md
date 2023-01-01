@@ -2,9 +2,9 @@
 
 > 原文：<https://web.archive.org/web/20230101103339/https://www.datacamp.com/blog/why-data-science-readiness-is-important-for-any-industry>
 
-<center>[![](img/8646839a6a23b4c5f8c8b3556840fe6b.png)](https://web.archive.org/web/20220819075145/https://www.datacamp.com/discover/enterprise)</center>
+[![](img/8646839a6a23b4c5f8c8b3556840fe6b.png)](https://web.archive.org/web/20220819075145/https://www.datacamp.com/discover/enterprise)
 
-<center>[![](img/0dd8dee6ba11b1edf74ba2c701b4ed63.png)](https://web.archive.org/web/20220819075145/https://www.datacamp.com/discover/enterprise)</center>
+[![](img/0dd8dee6ba11b1edf74ba2c701b4ed63.png)](https://web.archive.org/web/20220819075145/https://www.datacamp.com/discover/enterprise)
 
 ## 数据科学的组织准备情况
 
@@ -34,4 +34,4 @@
 
 如果你是一名对数据科学和分析的组织就绪感兴趣的企业领导者，请在[datacamp.com/business](https://web.archive.org/web/20220819075145/https://www.datacamp.com/discover/enterprise)了解更多信息。点击[此处](https://web.archive.org/web/20220819075145/https://www.datacamp.com/business/demo/)安排我们平台的演示。
 
-<center>[![](img/8393a7fa67360991a68eab87f518762e.png)](https://web.archive.org/web/20220819075145/https://www.datacamp.com/business/demo)</center>
+[![](img/8393a7fa67360991a68eab87f518762e.png)](https://web.archive.org/web/20220819075145/https://www.datacamp.com/business/demo)

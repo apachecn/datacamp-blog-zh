@@ -2,7 +2,7 @@
 
 > 原文：<https://web.archive.org/web/20230101103328/https://www.datacamp.com/blog/data-lakes-vs-data-warehouses>
 
-<center>[![](img/c84902ba97331c52375d23d4ce91f01d.png)](https://web.archive.org/web/20220630234746/https://www.datacamp.com/courses/database-design)</center>
+[![](img/c84902ba97331c52375d23d4ce91f01d.png)](https://web.archive.org/web/20220630234746/https://www.datacamp.com/courses/database-design)
 
 谈到存储大数据，两个最受欢迎的选项是数据湖和数据仓库。数据仓库用于分析归档的结构化数据，而数据湖用于存储所有结构的大数据。
 

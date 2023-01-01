@@ -18,10 +18,10 @@
 
 最后，对于本文中提到的一切，我非常感谢 Marki 和 DataCamp 给了我提高数据分析技能的机会。我等不及要看接下来会发生什么了！
 
-<center>![](img/663c8d2515cb2c177ccbb8f2e499f102.png)</center>
+![](img/663c8d2515cb2c177ccbb8f2e499f102.png)
 
 Sergio Abanto 是一名经济学家，他愿意与秘鲁合作，为秘鲁人民和家庭实现更大的福利和社会发展做出贡献。
 
-<center>![](img/c3e6dcde125965f5b7e51308bf9ac2e0.png)</center>
+![](img/c3e6dcde125965f5b7e51308bf9ac2e0.png)
 
 Marki Perú是一家非营利组织，旨在通过教育促进秘鲁微型和小型企业的数字化。在数字营销和电子商务专家的帮助下，我们对大学生进行培训，让他们自愿评估微型企业家的业务数字化道路。

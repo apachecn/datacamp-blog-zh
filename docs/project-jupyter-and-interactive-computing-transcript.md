@@ -2,7 +2,7 @@
 
 > 原文：<https://web.archive.org/web/20221129045010/https://www.datacamp.com/blog/project-jupyter-and-interactive-computing-transcript>
 
-<center>[![](img/e0446a58033367deb006d9c9ba4ee090.png)](https://web.archive.org/web/20220630224833/https://www.datacamp.com/community/podcast/project-jupyter-interactive-computing)</center>
+[![](img/e0446a58033367deb006d9c9ba4ee090.png)](https://web.archive.org/web/20220630224833/https://www.datacamp.com/community/podcast/project-jupyter-interactive-computing)
 
 [https://web.archive.org/web/20220630224833if_/https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/512942727%3Fsecret_token%3Ds-8dsVb&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true](https://web.archive.org/web/20220630224833if_/https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/512942727%3Fsecret_token%3Ds-8dsVb&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true)
 

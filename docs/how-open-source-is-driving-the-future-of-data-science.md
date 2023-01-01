@@ -2,7 +2,7 @@
 
 > 原文：<https://web.archive.org/web/20230101103238/https://www.datacamp.com/blog/how-open-source-is-driving-the-future-of-data-science>
 
-<center>[![](img/fb4cb0824657d868e3685d4a80f8b268.png)](https://web.archive.org/web/20220525041631/https://www.datacamp.com/groups/business)</center>
+[![](img/fb4cb0824657d868e3685d4a80f8b268.png)](https://web.archive.org/web/20220525041631/https://www.datacamp.com/groups/business)
 
 ## 数据科学中的开源现状
 
@@ -38,4 +38,4 @@
 
 [下载我们的白皮书](https://web.archive.org/web/20220525041631/https://www.datacamp.com/resources/whitepapers/our-guide-to-open-source-in-data-science)了解更多关于开源数据科学的好处。
 
-<center>[![](img/b93c2ecfd9856382cb2177f135b65341.png)](https://web.archive.org/web/20220525041631/https://www.datacamp.com/business/demo)</center>
+[![](img/b93c2ecfd9856382cb2177f135b65341.png)](https://web.archive.org/web/20220525041631/https://www.datacamp.com/business/demo)

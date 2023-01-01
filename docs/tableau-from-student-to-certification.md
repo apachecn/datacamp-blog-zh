@@ -4,7 +4,7 @@
 
 有时回归基础是有益的，因此我们让我们的三名讲师承担角色扮演的任务，让学生通过 Tableau 的官方服务获得 Tableau 桌面专家认证-使用他们在创建我们的 [Tableau 技能跟踪](https://web.archive.org/web/20221212135819/https://www.datacamp.com/tracks/tableau-fundamentals)和我们的新课程[*Tableau*](https://web.archive.org/web/20221212135819/https://www.datacamp.com/courses/statistical-techniques-in-tableau)中的统计技术时所学的知识。既然他们已经从另一边出来了，我们决定采访他们，了解他们的经历！
 
-<center>![DataCamp's Tableau Instructors](img/8b94e1251c894f203713d4075fb0f490.png)</center>
+![DataCamp's Tableau Instructors](img/8b94e1251c894f203713d4075fb0f490.png)
 
 ### DataCamp 是如何帮助你准备 Tableau 认证的？
 
@@ -30,4 +30,4 @@ Maarten:你可以学习统计技术是如何工作的，然后看看它们是如
 
 马腾:我喜欢这门课程教授的预测报告，例如，你会看到我们的虚拟机根据弓的长度预测恐龙的类型，或者预测 YouTube 视频的浏览量。
 
-<center>[![DataCamp Tableau Skill Track](img/5232b685180b27bc9d5eff0981631767.png)](https://web.archive.org/web/20221212135819/https://www.datacamp.com/tracks/tableau-fundamentals)</center>
+[![DataCamp Tableau Skill Track](img/5232b685180b27bc9d5eff0981631767.png)](https://web.archive.org/web/20221212135819/https://www.datacamp.com/tracks/tableau-fundamentals)

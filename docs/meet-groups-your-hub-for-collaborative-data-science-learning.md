@@ -14,20 +14,20 @@ DataCamp 是超过 860 万数据科学学习者的家园。想象一下，有来
 
 每完成一章，你就更接近你的学习目标，更接近排行榜的榜首。所有小组成员都可以看到，排名可以根据时间段、获得的经验或完成的课程数量进行过滤。如果每个人都在看，你确定你想留在排行榜的底部吗？
 
-<center>![](img/ba8d16df1b3ec707107b1d5ff5687a61.png)</center>
+![](img/ba8d16df1b3ec707107b1d5ff5687a61.png)
 
 ### 边走边追踪你的学习进度
 
 学习的真正乐趣是看到自己努力的成果。小组为你提供了两个简单而强大的工具来监控你的技能增长。仪表板为您提供小组活动的快照，从在平台上花费的时间到完成的总单元数。技能矩阵使您能够密切关注个人进步，确定关键技能差距，并创建学习路径以最有效的方式弥补这些差距。
 
-<center>![](img/2296b86624ad003ed6c4124a0dd26398.png)</center>
+![](img/2296b86624ad003ed6c4124a0dd26398.png)
 
 群组对所有 DataCamp 用户都是免费的。虽然您可以邀请不限数量的成员，但我们建议保持较小的规模(5-10 人)，以确保您对小组的学习进度有更有针对性的了解。好奇想看看它是怎么工作的吗？立即加入群组！
 
-<center>[![](img/39c148183b35db543b159f85f1ba0076.png)](https://web.archive.org/web/20220626105139/https://learn.datacamp.com/groups/explore)</center>
+[![](img/39c148183b35db543b159f85f1ba0076.png)](https://web.archive.org/web/20220626105139/https://learn.datacamp.com/groups/explore)
 
 ## 适用于各种规模的团队和组织的高级功能
 
 你想让你的协作学习更上一层楼吗？我们的[业务计划](https://web.archive.org/web/20220626105139/https://www.datacamp.com/groups/business#businessPlans)为您提供更强大的功能，推动跨团队和地域的数据科学学习。
 
-<center>[![](img/b61c6d98087f545e5f92e30191474475.png)](https://web.archive.org/web/20220626105139/https://www.datacamp.com/groups/business)</center>
+[![](img/b61c6d98087f545e5f92e30191474475.png)](https://web.archive.org/web/20220626105139/https://www.datacamp.com/groups/business)

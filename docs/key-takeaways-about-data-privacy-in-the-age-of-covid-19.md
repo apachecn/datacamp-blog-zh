@@ -2,9 +2,9 @@
 
 > 原文：<https://web.archive.org/web/20230101103301/https://www.datacamp.com/blog/key-takeaways-about-data-privacy-in-the-age-of-covid-19>
 
-<center>[![](img/ec4410c2e85206d08b8b7af1a22f934b.png)](https://web.archive.org/web/20220525043538/https://www.datacamp.com/discover/enterprise)</center>
+[![](img/ec4410c2e85206d08b8b7af1a22f934b.png)](https://web.archive.org/web/20220525043538/https://www.datacamp.com/discover/enterprise)
 
-<center>[![](img/ec7cdb09d6e96a6962e381ed569ff416.png)](https://web.archive.org/web/20220525043538/https://www.datacamp.com/discover/enterprise)</center>
+[![](img/ec7cdb09d6e96a6962e381ed569ff416.png)](https://web.archive.org/web/20220525043538/https://www.datacamp.com/discover/enterprise)
 
 在新冠肺炎危机之前，我们已经敏锐地意识到围绕数据隐私进行更广泛对话的必要性:只需看看斯诺登爆料、剑桥分析、纽约时报隐私项目、欧洲通用数据保护法规(GDPR)和加州消费者隐私法案(CCPA)就知道了。在新冠肺炎时代，这些问题要尖锐得多。我们也知道，政府和企业利用危机来巩固和重新安排权力，声称公民需要为了安全而放弃隐私。但是这种权衡是错误的二分法吗？我们正在开发什么样的工具来帮助我们度过这场危机？
 
@@ -54,4 +54,4 @@ Hugo 从 Stuart Russell 的书 [Human Compatible](https://web.archive.org/web/20
 
 如果你喜欢这些内容，请确保通过[播客](https://web.archive.org/web/20220525043538/https://www.datacamp.com/community/podcast/Data-Privacy-Age-of-COVID-19)或[网络研讨会](https://web.archive.org/web/20220525043538/https://www.datacamp.com/resources/webinars/data-privacy-in-the-age-of-covid-19)点播观看完整的对话。此外，请查看凯瑟琳和雨果 2018 年关于[数据安全、数据隐私和 GDPR](https://web.archive.org/web/20220525043538/https://www.datacamp.com/community/podcast/data-security-privacy-gdpr) 的对话。你可以在推特上关注凯瑟琳的 [@kjam](https://web.archive.org/web/20220525043538/https://twitter.com/kjam) 和雨果的 [@hugobowne](https://web.archive.org/web/20220525043538/https://twitter.com/hugobowne) 。如果你对探索自然语言处理的能力感兴趣，我们鼓励你参加 Katharine 的 DataCamp 课程，学习 Python 自然语言处理入门和她的项目，谁在发推特？特朗普还是特鲁多？
 
-<center>[![](img/f6059efbde16ddec64b866c349093d31.png)](https://web.archive.org/web/20220525043538/https://www.datacamp.com/business/demo)</center>
+[![](img/f6059efbde16ddec64b866c349093d31.png)](https://web.archive.org/web/20220525043538/https://www.datacamp.com/business/demo)

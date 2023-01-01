@@ -2,7 +2,7 @@
 
 > 原文：<https://web.archive.org/web/20221129045010/https://www.datacamp.com/blog/andrew-gelman-discusses-election-forecasting-and-polling-transcript>
 
-<center>[![](img/2c7d7099b733525571e8abbaea996739.png)](https://web.archive.org/web/20220630231146/https://www.datacamp.com/community/podcast/election-forecasting-polling)</center>
+[![](img/2c7d7099b733525571e8abbaea996739.png)](https://web.archive.org/web/20220630231146/https://www.datacamp.com/community/podcast/election-forecasting-polling)
 
 [https://web.archive.org/web/20220630231146if_/https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/509583168%3Fsecret_token%3Ds-aSj38&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true](https://web.archive.org/web/20220630231146if_/https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/509583168%3Fsecret_token%3Ds-aSj38&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true)
 

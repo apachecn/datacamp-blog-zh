@@ -2,13 +2,13 @@
 
 > 原文：<https://web.archive.org/web/20230101103227/https://www.datacamp.com/blog/how-data-science-is-transforming-healthcare>
 
-<center>[![](img/975c23e43b2dbd424246ecd117290185.png)](https://web.archive.org/web/20220627141715/https://www.datacamp.com/business/demo)</center>
+[![](img/975c23e43b2dbd424246ecd117290185.png)](https://web.archive.org/web/20220627141715/https://www.datacamp.com/business/demo)
 
 ## 医疗保健中数据科学和机器学习的现状
 
 随着医疗保健通过数字化和数字化转型不断进步，它已经成为最有条件最大限度地利用数据科学和机器学习的行业之一。自 2015 年以来，仅在欧洲，对医疗保健领域人工智能公司的风险投资就增长了 22 倍([麦肯锡](https://web.archive.org/web/20220627141715/https://eithealth.eu/wp-content/uploads/2020/03/EIT-Health-and-McKinsey_Transforming-Healthcare-with-AI.pdf))。
 
-<center>[![](img/1da34164ac28ef41048a344a9c316817.png)](https://web.archive.org/web/20220627141715/https://eithealth.eu/wp-content/uploads/2020/03/EIT-Health-and-McKinsey_Transforming-Healthcare-with-AI.pdf)</center>
+[![](img/1da34164ac28ef41048a344a9c316817.png)](https://web.archive.org/web/20220627141715/https://eithealth.eu/wp-content/uploads/2020/03/EIT-Health-and-McKinsey_Transforming-Healthcare-with-AI.pdf)
 
 数据科学和机器学习正在改变几个垂直领域的医疗保健，从病人护理到制药等等。但是，扩大数据科学在医疗保健领域的影响需要仔细考虑许多挑战，包括合规性、数据治理和监督、数据文化以及数据技能的可用性。
 
@@ -88,4 +88,4 @@
 
 解决数据技能差距是在医疗保健领域实施数据科学和机器学习的基础。据世界经济论坛称，到 2030 年，医疗保健和制药领域的数字和数据培训可以推动全球 GDP 增长超过 4000 亿美元。创造一种持续学习的文化是培养下一代医疗保健领导者的当务之急([麦肯锡](https://web.archive.org/web/20220627141715/https://eithealth.eu/wp-content/uploads/2020/03/EIT-Health-and-McKinsey_Transforming-Healthcare-with-AI.pdf))，他们将结合数据和生物医学科学，以扩展和实现数据科学和机器学习在医疗保健中的价值。
 
-<center>[![](img/975c23e43b2dbd424246ecd117290185.png)](https://web.archive.org/web/20220627141715/https://www.datacamp.com/business/demo)</center>**
+[![](img/975c23e43b2dbd424246ecd117290185.png)](https://web.archive.org/web/20220627141715/https://www.datacamp.com/business/demo)**

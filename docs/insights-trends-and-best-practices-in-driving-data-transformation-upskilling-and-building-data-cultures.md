@@ -2,7 +2,7 @@
 
 > 原文：<https://web.archive.org/web/20230101103145/https://www.datacamp.com/blog/insights-trends-and-best-practices-in-driving-data-transformation-upskilling-and-building-data-cultures>
 
-<center>[![](img/11cfda10508a779cba8a9f5a7126f0f8.png)](https://web.archive.org/web/20220926221945/https://www.datacamp.com/groups/business)</center>
+[![](img/11cfda10508a779cba8a9f5a7126f0f8.png)](https://web.archive.org/web/20220926221945/https://www.datacamp.com/groups/business)
 
 每个组织都在努力成为数据驱动型组织。要做到这一点，您需要用最新的见解和趋势来武装自己，了解如何构建数据转换计划，在团队中扩展数据素养，以及构建可持续的数据文化。在过去的一年中，我们发布了各种网络研讨会和白皮书，其中包含了在创建数据驱动型组织方面开拓创新的行业思想领袖的见解。
 
@@ -70,4 +70,4 @@
 
 L&D 领导人正着手实施过去几十年来最大的技能提升计划。数据流畅性是组织在未来几年希望培养的最重要的技能。在本白皮书中，我们提供了一本无术语指南，概述了数据科学中的八个学习者角色及其需要了解的内容，描述了数据专业人员需要了解的所有工具，
 
-<center>[![](img/11cfda10508a779cba8a9f5a7126f0f8.png)](https://web.archive.org/web/20220926221945/https://www.datacamp.com/groups/business)</center>
+[![](img/11cfda10508a779cba8a9f5a7126f0f8.png)](https://web.archive.org/web/20220926221945/https://www.datacamp.com/groups/business)

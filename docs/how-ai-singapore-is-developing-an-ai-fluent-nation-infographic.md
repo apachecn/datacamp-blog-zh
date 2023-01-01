@@ -6,6 +6,6 @@
 
 ### 人工智能新加坡如何发展成为一个人工智能流畅的国家
 
-<center>[![](img/db517c68237fe097f633727fbc3c4fb3.png)](https://web.archive.org/web/20220626103338/https://res.cloudinary.com/dyd911kmh/image/upload/v1627908420/aisingapore_ma__infographics_yovfac.pdf)</center>
+[![](img/db517c68237fe097f633727fbc3c4fb3.png)](https://web.archive.org/web/20220626103338/https://res.cloudinary.com/dyd911kmh/image/upload/v1627908420/aisingapore_ma__infographics_yovfac.pdf)
 
-<center>[![](img/634186c6b9666d1765414bb59304b7d3.png)](https://web.archive.org/web/20220626103338/https://www.datacamp.com/business/demo)</center>
+[![](img/634186c6b9666d1765414bb59304b7d3.png)](https://web.archive.org/web/20220626103338/https://www.datacamp.com/business/demo)

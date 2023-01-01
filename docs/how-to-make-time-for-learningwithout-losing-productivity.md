@@ -2,9 +2,9 @@
 
 > 原文：<https://web.archive.org/web/20230101103301/https://www.datacamp.com/blog/how-to-make-time-for-learningwithout-losing-productivity>
 
-<center>[![](img/7a70fee50e7d44c55e920c80ce0ffc01.png)](https://web.archive.org/web/20220817154643/https://www.datacamp.com/discover/enterprise)</center>
+[![](img/7a70fee50e7d44c55e920c80ce0ffc01.png)](https://web.archive.org/web/20220817154643/https://www.datacamp.com/discover/enterprise)
 
-<center>[![](img/87f1543faa60aec2a89920ef4db02c17.png)](https://web.archive.org/web/20220817154643/https://www.datacamp.com/discover/enterprise)</center>
+[![](img/87f1543faa60aec2a89920ef4db02c17.png)](https://web.archive.org/web/20220817154643/https://www.datacamp.com/discover/enterprise)
 
 全球转向远程工作可能预示着灵活工作安排的正常化，取代典型的朝九晚五、五天工作制。随着这一转变，我们有机会重新思考如何平衡生产力和技能发展。办公室工作人员面临的挑战是如何安排他们的一天，以有效利用他们的时间，而不是浪费时间。
 
@@ -36,7 +36,7 @@
 *   省钱——在线培训比面授课程更实惠，可扩展性更强
 *   增加灵活性和获得培训的机会
 
-<center>[![](img/7b9436e0d0eeef45173cf909247de895.png)](https://web.archive.org/web/20220817154643/https://www.datacamp.com/business/demo)</center>
+[![](img/7b9436e0d0eeef45173cf909247de895.png)](https://web.archive.org/web/20220817154643/https://www.datacamp.com/business/demo)
 
 ### 2.确保学习支持系统。
 
@@ -70,4 +70,4 @@ DataCamp 提供了一种边做边学的方法来获取和练习数据技能。�
 
 在 datacamp.com/groups/business 了解更多信息。
 
-<center>[![](img/28d61d5e899dd1fb65bda1f59a038161.png)](https://web.archive.org/web/20220817154643/https://www.datacamp.com/business/demo)</center>
+[![](img/28d61d5e899dd1fb65bda1f59a038161.png)](https://web.archive.org/web/20220817154643/https://www.datacamp.com/business/demo)

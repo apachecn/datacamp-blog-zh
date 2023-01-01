@@ -2,9 +2,9 @@
 
 > 原文：<https://web.archive.org/web/20230101103328/https://www.datacamp.com/blog/the-many-business-applications-of-machine-learning>
 
-<center>[![](img/419c3c9db922313181344d4b30ecbf19.png)](https://web.archive.org/web/20220810061137/https://www.datacamp.com/discover/enterprise)</center>
+[![](img/419c3c9db922313181344d4b30ecbf19.png)](https://web.archive.org/web/20220810061137/https://www.datacamp.com/discover/enterprise)
 
-<center>[![](img/50710a5a6c9a2290212c4926213bb6b7.png)](https://web.archive.org/web/20220810061137/https://www.datacamp.com/discover/enterprise)</center>
+[![](img/50710a5a6c9a2290212c4926213bb6b7.png)](https://web.archive.org/web/20220810061137/https://www.datacamp.com/discover/enterprise)
 
 ## 什么是机器学习？
 
@@ -72,10 +72,10 @@ O'Reilly 在 2018 年进行的一项研究发现，51%的组织已经在使用 M
 
 ## 利用我们的机器学习课程提升您团队的技能
 
-<center>[![](img/3de0fb233355711a9c771a83d1669d36.png)](https://web.archive.org/web/20220810061137/https://www.datacamp.com/tracks/machine-learning-scientist-with-python)</center>
+[![](img/3de0fb233355711a9c771a83d1669d36.png)](https://web.archive.org/web/20220810061137/https://www.datacamp.com/tracks/machine-learning-scientist-with-python)
 
-<center>[![](img/35d1cee9ce6b2bd1ffb17995673ce13a.png)](https://web.archive.org/web/20220810061137/https://www.datacamp.com/tracks/machine-learning-scientist-with-r)</center>
+[![](img/35d1cee9ce6b2bd1ffb17995673ce13a.png)](https://web.archive.org/web/20220810061137/https://www.datacamp.com/tracks/machine-learning-scientist-with-r)
 
 如需更多阅读，请查看我们的机器学习教程 [Python](https://web.archive.org/web/20220810061137/https://www.datacamp.com/community/tutorials/machine-learning-python) 和 [R](https://web.archive.org/web/20220810061137/https://www.datacamp.com/community/tutorials/machine-learning-in-r) 。
 
-<center>[![](img/c988f07dced2eb69119caafeeb81f113.png)](https://web.archive.org/web/20220810061137/https://www.datacamp.com/business/demo)</center>
+[![](img/c988f07dced2eb69119caafeeb81f113.png)](https://web.archive.org/web/20220810061137/https://www.datacamp.com/business/demo)

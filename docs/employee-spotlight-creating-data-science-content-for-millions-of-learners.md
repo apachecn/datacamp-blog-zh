@@ -2,7 +2,7 @@
 
 > 原文：<https://web.archive.org/web/20230101103301/https://www.datacamp.com/blog/employee-spotlight-creating-data-science-content-for-millions-of-learners>
 
-<center>[![](img/7157256cff2cb19154fbd67afefdd809.png)](https://web.archive.org/web/20220627142518/https://www.datacamp.com/discover/enterprise)</center>
+[![](img/7157256cff2cb19154fbd67afefdd809.png)](https://web.archive.org/web/20220627142518/https://www.datacamp.com/discover/enterprise)
 
 ## 你加入 DataCamp 的历程是怎样的？
 

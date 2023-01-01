@@ -16,7 +16,7 @@ LaunchCode 的社区参与经理 John Woolbright 表示:“DataCamp 与我们在
 
 ## DataCamp 为工作准备培养技能
 
-<center>[![](img/44056ed7aceaad070687c9fe1ffb9423.png)](https://web.archive.org/web/20220529043357/https://www.launchcode.org/)</center>
+[![](img/44056ed7aceaad070687c9fe1ffb9423.png)](https://web.archive.org/web/20220529043357/https://www.launchcode.org/)
 
 LaunchCode 社区的一些成员甚至利用从 DataCamp 捐赠合作伙伴关系中获得的技能找到了工作。Megan Cullins 第一次开始学习 LaunchCode 和 DataCamp 时，她已经在一家办公家具公司工作了九年。她完成了 50 门 DataCamp 课程，积累了 322，000 XP 来扩展她的 Python 技能。“经过几个月的学习，我有足够的信心去面试，并最终在一家数据分析公司找到了工作！在这门课之前，我对 Python 一无所知，但由于 DataCamp，我能够诚实地告诉面试官我确实有经验，这帮助我在他们公司找到了一份工作。”
 

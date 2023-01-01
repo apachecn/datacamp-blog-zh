@@ -2,7 +2,7 @@
 
 > 原文：<https://web.archive.org/web/20230101103202/https://www.datacamp.com/blog/employee-spotlight-maarten>
 
-<center>![](img/63626704a9aca51ae84fe428c0767669.png)</center>
+![](img/63626704a9aca51ae84fe428c0767669.png)
 
 ### 你在 DataCamp 做些什么，一天是什么样的？
 

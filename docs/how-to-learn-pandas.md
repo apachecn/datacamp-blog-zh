@@ -12,7 +12,7 @@ pandas 是您应该学习的第一批 Python 包之一，因为它易于使用�
 
 pandas 具有许多与 SQL 或 Excel 相同的功能，并且可以接受各种数据类型——从 CSV 和文本文件到 Microsoft Excel 文件、SQL 数据库等等。它还有一个额外的好处，允许您将它们转换为 DataFrame 对象，data frame 对象只是表示类似于 Excel 中的表格数据的列和行——但在 Python 中。
 
-<center>[![](img/69fd481faf72a19f0a43ae0b018227e9.png)](https://web.archive.org/web/20220828175903/https://www.datacamp.com/)</center>
+[![](img/69fd481faf72a19f0a43ae0b018227e9.png)](https://web.archive.org/web/20220828175903/https://www.datacamp.com/)
 
 ##### 活动中的熊猫数据框
 
@@ -70,7 +70,7 @@ pandas 是一个为 Python 构建的包，所以在开始使用 pandas 之前，
 
 继续建立和扩大你的熊猫技能。许多资源涵盖了先进的熊猫主题。例如，Ashish Kumar 的[掌握熊猫](https://web.archive.org/web/20220828175903/https://www.amazon.com/Mastering-pandas-complete-installation-techniques-ebook/dp/B07WFM4JXZ)涵盖了加速和简化你的熊猫工作流程的技术。这篇[真正的 Python 博客文章](https://web.archive.org/web/20220828175903/https://realpython.com/python-pandas-tricks/)涵盖了高级用户的技巧和诀窍。你也可以开始学习 PyData 生态系统中的其他软件包如何扩展你的熊猫能力，如 [seaborn](https://web.archive.org/web/20220828175903/https://seaborn.pydata.org/) 和 [plotly](https://web.archive.org/web/20220828175903/https://plotly.com/) ，用于创建交互式情节。
 
-<center>[![](img/eae791e41db7a07414367d517da3ae73.png)](https://web.archive.org/web/20220828175903/https://www.datacamp.com/)</center>
+[![](img/eae791e41db7a07414367d517da3ae73.png)](https://web.archive.org/web/20220828175903/https://www.datacamp.com/)
 
 ##### 用 Plotly 制作的互动情节
 

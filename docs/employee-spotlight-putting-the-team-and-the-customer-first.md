@@ -2,7 +2,7 @@
 
 > 原文：<https://web.archive.org/web/20230101103301/https://www.datacamp.com/blog/employee-spotlight-putting-the-team-and-the-customer-first>
 
-<center>[![](img/980675184f1169e78212ce42e32d8934.png)](https://web.archive.org/web/20220703054621/https://www.datacamp.com/jobs/)</center>
+[![](img/980675184f1169e78212ce42e32d8934.png)](https://web.archive.org/web/20220703054621/https://www.datacamp.com/jobs/)
 
 ## 你加入 DataCamp 的历程是怎样的？
 

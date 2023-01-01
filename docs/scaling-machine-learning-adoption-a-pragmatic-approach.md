@@ -2,7 +2,7 @@
 
 > 原文：<https://web.archive.org/web/20221129051850/https://www.datacamp.com/blog/scaling-machine-learning-adoption-a-pragmatic-approach>
 
-<center>[![](img/52f6d6feafe2a4f5a77bb4032386409b.png)](https://web.archive.org/web/20220705002325/https://www.datacamp.com/community/podcast/scaling-machine-learning-adoption-a-pragmatic-approach)</center>
+[![](img/52f6d6feafe2a4f5a77bb4032386409b.png)](https://web.archive.org/web/20220705002325/https://www.datacamp.com/community/podcast/scaling-machine-learning-adoption-a-pragmatic-approach)
 
 [https://web.archive.org/web/20220705002325if_/https://embed.podcasts.apple.com/us/podcast/71-scaling-machine-learning-adoption-a-pragmatic-approach/id1336150688?i=1000535980085](https://web.archive.org/web/20220705002325if_/https://embed.podcasts.apple.com/us/podcast/71-scaling-machine-learning-adoption-a-pragmatic-approach/id1336150688?i=1000535980085)
 

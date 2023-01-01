@@ -6,7 +6,7 @@
 
 数据科学是一个蓬勃发展的领域，许多人甚至说数据是新的石油。DataCamp 提供的机会太好了，不能错过，所以我将注册链接转发给了我所知道的所有分享让年轻人获得数字技能愿景的社区。一些社区，如[ingresive For Good](https://web.archive.org/web/20221212135912/https://ingressive.org/)和 [Google 开发者学生俱乐部 Obafemi Awolowo 大学](https://web.archive.org/web/20221212135912/https://dscoau.com/)，已经成为 DataCamp 的合作伙伴，我很高兴看到这么多人通过我的推荐学习数据科学。
 
-<center>[![](img/c76198d633f2b5e196325f3e7733623d.png)](https://web.archive.org/web/20221212135912/http://www.datasciencenigeria.org/)</center>
+[![](img/c76198d633f2b5e196325f3e7733623d.png)](https://web.archive.org/web/20221212135912/http://www.datasciencenigeria.org/)
 
 我特别喜欢使用 DataCamp，因为它的简单性和课程分解的方式。我开始更深刻地理解像熊猫和 Matplotlib 这样的库。到今天为止，我正在参加 DataCamp 的第五次课程，我可以说这是一次伟大的旅程。这些评估是我最喜欢的——它们并不太复杂，帮助我能够一步一步地回忆和实践所学的课程。
 

@@ -2,7 +2,7 @@
 
 > 原文：<https://web.archive.org/web/20221129054701/https://www.datacamp.com/blog/operationalizing-machine-learning-with-mlops>
 
-<center>[![](img/0ff2c6cffdaef87fef7e778c14cb2dd2.png)](https://web.archive.org/web/20220703052910/https://www.datacamp.com/community/podcast/operationalizing-machine-learning-with-mlops)</center>
+[![](img/0ff2c6cffdaef87fef7e778c14cb2dd2.png)](https://web.archive.org/web/20220703052910/https://www.datacamp.com/community/podcast/operationalizing-machine-learning-with-mlops)
 
 [https://web.archive.org/web/20220703052910if_/https://embed.podcasts.apple.com/us/podcast/67-operationalizing-machine-learning-with-mlops/id1336150688?i=1000530032315](https://web.archive.org/web/20220703052910if_/https://embed.podcasts.apple.com/us/podcast/67-operationalizing-machine-learning-with-mlops/id1336150688?i=1000530032315)
 

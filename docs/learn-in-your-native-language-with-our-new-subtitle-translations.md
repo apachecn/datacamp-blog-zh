@@ -2,7 +2,7 @@
 
 > 原文：<https://web.archive.org/web/20230101103301/https://www.datacamp.com/blog/learn-in-your-native-language-with-our-new-subtitle-translations>
 
-<center>[![](img/7fd48138931853c384d7c566379d48d7.png)](https://web.archive.org/web/20220817162835/https://www.datacamp.com/discover/enterprise)</center>
+[![](img/7fd48138931853c384d7c566379d48d7.png)](https://web.archive.org/web/20220817162835/https://www.datacamp.com/discover/enterprise)
 
 ## 世界各地的数据营学习者正在打开母语字幕。
 

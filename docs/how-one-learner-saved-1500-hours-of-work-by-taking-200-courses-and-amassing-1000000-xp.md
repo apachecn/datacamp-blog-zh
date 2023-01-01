@@ -2,9 +2,9 @@
 
 > 原文：<https://web.archive.org/web/20230101103328/https://www.datacamp.com/blog/how-one-learner-saved-1500-hours-of-work-by-taking-200-courses-and-amassing-1000000-xp>
 
-<center>[![](img/69cde52a5a46215706d7277a99dc561e.png)](https://web.archive.org/web/20220817171043/https://www.datacamp.com/groups/business)</center>
+[![](img/69cde52a5a46215706d7277a99dc561e.png)](https://web.archive.org/web/20220817171043/https://www.datacamp.com/groups/business)
 
-<center>[![](img/8feda26d6b9af482d02435770e90b68b.png)](https://web.archive.org/web/20220817171043/https://www.datacamp.com/groups/business)</center>
+[![](img/8feda26d6b9af482d02435770e90b68b.png)](https://web.archive.org/web/20220817171043/https://www.datacamp.com/groups/business)
 
 Cameron White 是 Fruit of the Loom 数据科学团队的分析师，也是数据营的 XP 百万富翁。他的 LinkedIn 自豪地广播:“超过 200 门课程，超过 10，000 次练习，超过 100 万次 XP，几乎所有的技能和职业轨迹都是在 DataCamp 上完成的。”
 
@@ -66,4 +66,4 @@ Cameron 赞赏 DataCamp 平台的灵活性，这使他能够在桌面和移动�
 
 要评估 DataCamp 如何帮助您的团队精通数据科学和分析，请访问[datacamp.com/business](https://web.archive.org/web/20220817171043/https://www.datacamp.com/discover/enterprise)或[安排我们平台的演示](https://web.archive.org/web/20220817171043/https://www.datacamp.com/business/demo)。
 
-<center>[![](img/63dd599113221b128b464c8343e680ad.png)](https://web.archive.org/web/20220817171043/https://www.datacamp.com/business/demo)</center>
+[![](img/63dd599113221b128b464c8343e680ad.png)](https://web.archive.org/web/20220817171043/https://www.datacamp.com/business/demo)

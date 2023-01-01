@@ -16,7 +16,7 @@ DataCamp 目前拥有 1，600 多家企业客户，代表着不同的行业，�
 
 为了这篇博文的目的，我们将关注四个最常见的角色:数据消费者、领导者/经理、数据分析师和数据科学家。
 
-<center>[![](img/8e8549af43d3114a230134f9b1f82e4b.png)](https://web.archive.org/web/20220630220629/https://www.datacamp.com/groups/business)</center>
+[![](img/8e8549af43d3114a230134f9b1f82e4b.png)](https://web.archive.org/web/20220630220629/https://www.datacamp.com/groups/business)
 
 ### 数据消费者
 
@@ -61,7 +61,7 @@ DataCamp 目前拥有 1，600 多家企业客户，代表着不同的行业，�
 
 他们能够理解上下文中的数据或交付所需的报告或模型吗？
 
-<center>[![](img/87d6a8cdd97c68a0dbe8ba1624db6d33.png)](https://web.archive.org/web/20220630220629/https://www.datacamp.com/groups/business)</center>
+[![](img/87d6a8cdd97c68a0dbe8ba1624db6d33.png)](https://web.archive.org/web/20220630220629/https://www.datacamp.com/groups/business)
 
 ## DataCamp 上基于角色的 L&D
 
@@ -71,19 +71,19 @@ DataCamp 在我们的产品体验中就如何为贵公司的每个角色建立�
 
 您可以使用 DataCamp 的团队功能，根据平台上的角色对学员进行细分。
 
-<center>[![](img/aae7478fdc5c42b536534776f1b6db27.png)](https://web.archive.org/web/20220630220629/https://www.datacamp.com/groups/business)</center>
+[![](img/aae7478fdc5c42b536534776f1b6db27.png)](https://web.archive.org/web/20220630220629/https://www.datacamp.com/groups/business)
 
 ### 按角色分配
 
 创建对时间敏感的任务，以保持团队的积极性，并使他们的学习与其数据角色相关的内容保持一致。定制课程让您能够灵活地为每个角色设计合适的学员旅程。
 
-<center>[![](img/096a5d9cc04f0dc683a3007d5c02cb31.png)](https://web.archive.org/web/20220630220629/https://www.datacamp.com/groups/business)</center>
+[![](img/096a5d9cc04f0dc683a3007d5c02cb31.png)](https://web.archive.org/web/20220630220629/https://www.datacamp.com/groups/business)
 
 ### 衡量和评估
 
 管理员可以轻松了解、衡量和报告培训对您的组织的影响，并了解您如何实现学习目标。
 
-<center>[![](img/4b8acb39c6160caab3a41816c6ed2fc2.png)](https://web.archive.org/web/20220630220629/https://www.datacamp.com/groups/business)</center>
+[![](img/4b8acb39c6160caab3a41816c6ed2fc2.png)](https://web.archive.org/web/20220630220629/https://www.datacamp.com/groups/business)
 
 ## 使用人物角色对学习者的好处
 
@@ -91,22 +91,22 @@ DataCamp 在我们的产品体验中就如何为贵公司的每个角色建立�
 
 由于有如此多的主题和技术要学习，在开始的同时还要应付其他的责任可能会让人不知所措。作业为学习者提供了明确的期望。
 
-<center>[![](img/0e33ef641ddd829db8bc0d4fa250c8f1.png)](https://web.archive.org/web/20220630220629/https://www.datacamp.com/groups/business)</center>
+[![](img/0e33ef641ddd829db8bc0d4fa250c8f1.png)](https://web.archive.org/web/20220630220629/https://www.datacamp.com/groups/business)
 
 ### 个性化体验
 
 通过 DataCamp Signal，学习者可以收到个性化的培训建议，从而将他们的数据技能提升到一个新的水平。管理员可以在其技能评估仪表板上跟踪发展。
 
-<center>[![](img/aff7a6f97737fad6013c2f8514b55202.png)](https://web.archive.org/web/20220630220629/https://www.datacamp.com/groups/business)</center>
+[![](img/aff7a6f97737fad6013c2f8514b55202.png)](https://web.archive.org/web/20220630220629/https://www.datacamp.com/groups/business)
 
 ### 专为忙碌的专业人士打造
 
 有了 DataCamp，学习者可以快速推进他们的学习。如果学习者能够通过[信号技能评估](https://web.archive.org/web/20220630220629/https://www.datacamp.com/signal)来证明他们之前对该材料的了解，我们会让他们选择跳过某些不相关的课程。
 
-<center>[![](img/976a69bea7c327a26ef369233c14e420.png)](https://web.archive.org/web/20220630220629/https://www.datacamp.com/groups/business)</center>
+[![](img/976a69bea7c327a26ef369233c14e420.png)](https://web.archive.org/web/20220630220629/https://www.datacamp.com/groups/business)
 
 ## 对你的团队进行技能审核
 
 我们提供免费的[技能审核](https://web.archive.org/web/20220630220629/https://skill-audit.datacamp.com/discover-your-companys-data-skill-level)，这样你就可以衡量你公司的技能。注册后，您还将有机会看到我们最新的技能评估原型，并有机会塑造我们如何构建产品。
 
-<center>[![](img/98c5099ed6986971dc0cbe22ff76b661.png)](https://web.archive.org/web/20220630220629/https://www.datacamp.com/business/demo)</center>
+[![](img/98c5099ed6986971dc0cbe22ff76b661.png)](https://web.archive.org/web/20220630220629/https://www.datacamp.com/business/demo)

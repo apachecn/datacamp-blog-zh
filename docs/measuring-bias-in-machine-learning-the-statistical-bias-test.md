@@ -2,7 +2,7 @@
 
 > 原文：<https://web.archive.org/web/20230101103301/https://www.datacamp.com/blog/measuring-bias-in-machine-learning-the-statistical-bias-test>
 
-<center>[![](img/8bf5b52bf0807ae1d7ae4e30dc28bd20.png)](https://web.archive.org/web/20220529050733/https://www.datacamp.com/discover/enterprise)</center>
+[![](img/8bf5b52bf0807ae1d7ae4e30dc28bd20.png)](https://web.archive.org/web/20220529050733/https://www.datacamp.com/discover/enterprise)
 
 本文由 DataRobot 的数据科学家 Sarah Khatry 和 Haniyeh Mahmoudian 撰写。
 
@@ -118,4 +118,4 @@ B  :  1.0
 
 了解如何使用 [DataRobot](https://web.archive.org/web/20220529050733/https://www.datarobot.com/) 构建你可以信任的人工智能。
 
-<center>[![](img/74a8ee96bad9f336f2463d0ec30afaf0.png)](https://web.archive.org/web/20220529050733/https://www.datacamp.com/business/demo)</center>
+[![](img/74a8ee96bad9f336f2463d0ec30afaf0.png)](https://web.archive.org/web/20220529050733/https://www.datacamp.com/business/demo)

@@ -2,7 +2,7 @@
 
 > 原文：<https://web.archive.org/web/20230101103238/https://www.datacamp.com/blog/achieving-organizational-data-fluency-with-iptop>
 
-<center>[![](img/5b92e8aecb619513a6b4a06d7d599a08.png)](https://web.archive.org/web/20220525042209/https://www.datacamp.com/groups/business)</center>
+[![](img/5b92e8aecb619513a6b4a06d7d599a08.png)](https://web.archive.org/web/20220525042209/https://www.datacamp.com/groups/business)
 
 从为自动驾驶汽车提供动力到征服围棋比赛，组织通过数据科学使以前不可能的任务成为可能而占据了头条新闻。因此，很容易忽视隐藏的数据科学革命，即公司越来越多地将目前可能的东西广泛传播。换句话说，更多的公司正在努力实现更强的组织数据流畅度。据 DataCamp 产品研究副总裁 Ramnath Vaidyanathan 称，一个组织实现数据流畅的途径取决于五个关键支柱:基础设施、人员、工具、组织和流程(IPTOP)。在上个月的[网络研讨会上，他分享了一个数据流畅性框架，任何组织都可以使用该框架来提高数据成熟度，从数据反应到数据扩展、数据渐进和数据流畅性。](https://web.archive.org/web/20220525042209/https://www.datacamp.com/resources/webinars/the-path-to-data-fluency)
 
@@ -16,13 +16,13 @@
 
 考虑到这些缺点，数据扩展公司必须提高其组织数据素养。为此，it 必须通过处理其数据基础架构和构建集中式数据存储来支持数据访问。这种数据基础设施允许将高质量的数据存储在云中，并方便所有利益相关者访问。通过适当的数据存储和访问，员工能够制定数据质量标准。例如，DataCamp 将其数据存储在基于云的集中式数据仓库 Amazon Redshift 中，并使用 Apache Airflow 管理数据管道。这标志着脱离了难以协调的孤立数据，并为单一的真相来源铺平了道路。
 
-<center>[![](img/8187d431907613ce0269b0f3b93e1db8.png)](https://web.archive.org/web/20220525042209/https://www.datacamp.com/resources/webinars/the-path-to-data-fluency)</center>
+[![](img/8187d431907613ce0269b0f3b93e1db8.png)](https://web.archive.org/web/20220525042209/https://www.datacamp.com/resources/webinars/the-path-to-data-fluency)
 
 ##### DataCamp 集中式数据存储的简化视图
 
 作为数据成熟的一部分，数据扩展公司还必须为数据科学家开发一个清晰的组织模型。一些公司选择开发一个以数据科学团队为特征的集中式模型，该模型充当[卓越中心](https://web.archive.org/web/20220525042209/https://hbr.org/2019/01/how-to-set-up-an-ai-center-of-excellence)，处理来自财务、营销和工程等各种职能部门的请求。其他人决定采用分散模型，数据科学家嵌入到功能中，专门处理该功能的数据需求。公司应该采用最适合其数据和业务需求的模型。
 
-<center>[![](img/1905e35d479d010cb93290c46e773481.png)](https://web.archive.org/web/20220525042209/https://www.datacamp.com/groups/business)</center>
+[![](img/1905e35d479d010cb93290c46e773481.png)](https://web.archive.org/web/20220525042209/https://www.datacamp.com/groups/business)
 
 ## 从使用数据工具和流程的数据渐进过渡
 
@@ -34,7 +34,7 @@
 
 公司还可以构建内部数据产品，将数据流程作为其数据素养计划的一部分。这些数据产品可用于提高数据质量标准和监控业务目标。例如，DataCamp 有[内部框架](https://web.archive.org/web/20220525042209/https://www.datacamp.com/open-source),允许涉众用最少的代码创建业务指标的可视化演示。
 
-<center>[![](img/efb9cb62a3368bc30d9d9abc693043a6.png)](https://web.archive.org/web/20220525042209/https://www.datacamp.com/resources/webinars/the-path-to-data-fluency)</center>
+[![](img/efb9cb62a3368bc30d9d9abc693043a6.png)](https://web.archive.org/web/20220525042209/https://www.datacamp.com/resources/webinars/the-path-to-data-fluency)
 
 ##### 使用内部框架轻松开发 DataCamp 仪表盘
 
@@ -48,8 +48,8 @@
 
 显然，一个组织实现数据流畅的途径不是线性的。这需要明确的数据策略和强大的数据素养框架。下图总结了组织使用 IPTOP 框架将其数据读写能力从数据反应式迁移到数据流畅式时应采取的步骤。
 
-<center>[![](img/5bda105529ce77dd95d88b62fbb44003.png)](https://web.archive.org/web/20220525042209/https://res.cloudinary.com/dyd911kmh/image/upload/f_auto,q_auto:best/v1615989330/blueprint_data_fluency_przpge.png)</center>
+[![](img/5bda105529ce77dd95d88b62fbb44003.png)](https://web.archive.org/web/20220525042209/https://res.cloudinary.com/dyd911kmh/image/upload/f_auto,q_auto:best/v1615989330/blueprint_data_fluency_przpge.png)
 
 有关扩展数据成熟度的更多信息，[敬请关注我们的网络研讨会](https://web.archive.org/web/20220525042209/https://www.datacamp.com/resources/webinars/the-path-to-data-fluency)。
 
-<center>[![](img/5b92e8aecb619513a6b4a06d7d599a08.png)](https://web.archive.org/web/20220525042209/https://www.datacamp.com/groups/business)</center>
+[![](img/5b92e8aecb619513a6b4a06d7d599a08.png)](https://web.archive.org/web/20220525042209/https://www.datacamp.com/groups/business)

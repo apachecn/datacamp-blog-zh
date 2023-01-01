@@ -2,7 +2,7 @@
 
 > 原文：<https://web.archive.org/web/20221129041328/https://www.datacamp.com/blog/employee-spotlight-recruiting-instructors-and-building-out-datacamps-live-training-program>
 
-<center>[![](img/3e849acd03805703a855e5ac517ca15d.png)](https://web.archive.org/web/20220525032634/https://www.datacamp.com/jobs)</center>
+[![](img/3e849acd03805703a855e5ac517ca15d.png)](https://web.archive.org/web/20220525032634/https://www.datacamp.com/jobs)
 
 ## 你加入 DataCamp 的历程是怎样的？
 

@@ -8,10 +8,10 @@
 
 在接下来的一年甚至更长的时间里，我们将会看到在数据流畅性方面更好的工具，对技能的更高重视，以及在整个组织中对数据更丰富、更容易的访问。
 
-<center>[![](img/e39871e391115d93b37906eb66cdc011.png)](https://web.archive.org/web/20220525042842/https://www.datacamp.com/resources/whitepapers/data-trends-and-predictions-2021)</center>
+[![](img/e39871e391115d93b37906eb66cdc011.png)](https://web.archive.org/web/20220525042842/https://www.datacamp.com/resources/whitepapers/data-trends-and-predictions-2021)
 
-<center>[![](img/f307bccd628436b1d17d9434785df292.png)](https://web.archive.org/web/20220525042842/https://s3.amazonaws.com/assets.datacamp.com/email/other/Data+Trends+2021_+The+Year+of+Data+Fluency.pdf)</center>
+[![](img/f307bccd628436b1d17d9434785df292.png)](https://web.archive.org/web/20220525042842/https://s3.amazonaws.com/assets.datacamp.com/email/other/Data+Trends+2021_+The+Year+of+Data+Fluency.pdf)
 
 如果您想深入了解我们的 2021 年趋势，请下载我们的白皮书。
 
-<center>[![](img/e39871e391115d93b37906eb66cdc011.png)](https://web.archive.org/web/20220525042842/https://www.datacamp.com/resources/whitepapers/data-trends-and-predictions-2021)</center>
+[![](img/e39871e391115d93b37906eb66cdc011.png)](https://web.archive.org/web/20220525042842/https://www.datacamp.com/resources/whitepapers/data-trends-and-predictions-2021)

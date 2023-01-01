@@ -2,7 +2,7 @@
 
 > 原文：<https://web.archive.org/web/20221129045128/https://www.datacamp.com/blog/telling-effective-data-stories-with-data-narrative-and-visuals>
 
-<center>[![](img/b15281ddad3f0ae5970f222a22600455.png)](https://web.archive.org/web/20221020001916/https://www.datacamp.com/groups/business)</center>
+[![](img/b15281ddad3f0ae5970f222a22600455.png)](https://web.archive.org/web/20221020001916/https://www.datacamp.com/groups/business)
 
 “讲故事是将想法融入当今世界的最有力的方式，”编剧大师罗伯特·麦基说。今天的企业世界充斥着设计糟糕的幻灯片和不合适的图表，而[数据讲述](https://web.archive.org/web/20221020001916/https://www.datacamp.com/data-courses/data-visualization-courses)是将数据转化为推动行动和价值的见解的关键。
 
@@ -10,7 +10,7 @@
 
 在这个框架中，数据故事由三部分组成——叙述、数据和视觉。在本帖中，我们将深入探讨数据故事的每一个组成部分。
 
-<center>![](img/d4f01b5d74776fb6741ea3830eae64b5.png)Figure 1: Narrative, visuals and data are data stories that drive changes</center>
+![](img/d4f01b5d74776fb6741ea3830eae64b5.png)Figure 1: Narrative, visuals and data are data stories that drive changes
 
 ## 叙事结构
 
@@ -18,7 +18,7 @@
 
 数据故事受益于古老的叙事结构。数据故事从设置当前情况的场景开始，通过提供导致核心见解的见解继续，并以相关建议结束。
 
-<center>![](img/d011598e1292e280a60b083d72aec801.png)Figure 2\. The narrative structure of a data story</center>
+![](img/d011598e1292e280a60b083d72aec801.png)Figure 2\. The narrative structure of a data story
 
 ## 数据
 
@@ -26,11 +26,11 @@
 
 这就是为什么在数据故事中选择正确的数据至关重要。Brent Dykes 建议数据说书人删除或汇总次要数据点，如下例所示。
 
-<center>![](img/8f9429a4e2a00afa10ff067979f046bb.png)Figure 3\. Explicitly demonstrating that the revenue per customer is falling (right) is a better choice than plotting the total revenue and customer side-by-side (left)</center>
+![](img/8f9429a4e2a00afa10ff067979f046bb.png)Figure 3\. Explicitly demonstrating that the revenue per customer is falling (right) is a better choice than plotting the total revenue and customer side-by-side (left)
 
-<center>![](img/cf628683dec55cbe4d5ab23533b75184.png)Figure 4\. The market shares of the largest markets become apparent when the smallest markets are aggregated.</center>
+![](img/cf628683dec55cbe4d5ab23533b75184.png)Figure 4\. The market shares of the largest markets become apparent when the smallest markets are aggregated.
 
-<center>![](img/19542f4f2deaf16bb70fae8b65ba0047.png)Figure 5\. Often, less is more when it comes to showing multiple charts in one graph.</center>
+![](img/19542f4f2deaf16bb70fae8b65ba0047.png)Figure 5\. Often, less is more when it comes to showing multiple charts in one graph.
 
 ## 视觉的
 
@@ -42,9 +42,9 @@
 
 例如，在传达比例差异方面，条形图优于饼图(图 6A 与图 6B)。另一方面，当显示不同类别的比例总和时，饼图是更好的选择(图 7A 与图 7B)。
 
-<center>![](img/a32a74f4c425263f9185e7e86666b8ca.png)Figure 6A and 6B</center>
+![](img/a32a74f4c425263f9185e7e86666b8ca.png)Figure 6A and 6B
 
-<center>![](img/2d62a43cfeef55b87056e540ad215641.png)Figure 7A and Figure 7B</center>
+![](img/2d62a43cfeef55b87056e540ad215641.png)Figure 7A and Figure 7B
 
 #### 2.根据信息调整视觉效果
 
@@ -52,15 +52,15 @@
 
 比较图 7A 和 7B，我们观察到水平轴的对齐如何使观众更容易进行快速比较。
 
-<center>![](img/125918cf61da56e5489dcf4e7f82f9eb.png)Figure 8A. A comparison of the total revenue from each country</center>
+![](img/125918cf61da56e5489dcf4e7f82f9eb.png)Figure 8A. A comparison of the total revenue from each country
 
-<center>![](img/6e204fc323fd8837cd0aa331e37ddddc.png)Figure 8B. A comparison of the revenue of individual products across countries, especially for product B</center>
+![](img/6e204fc323fd8837cd0aa331e37ddddc.png)Figure 8B. A comparison of the revenue of individual products across countries, especially for product B
 
 另一方面，根据可视化的目标，图 9A 和 9B 被稍微不同地重新排列。
 
-<center>![](img/42d6346a2bd8c9291af38f3af5b9a04e.png)Figure 9A. A comparison across products for each segment</center>
+![](img/42d6346a2bd8c9291af38f3af5b9a04e.png)Figure 9A. A comparison across products for each segment
 
-<center>![](img/faa8fc9a964503418be2a5ad75d7908b.png)Figure 9B. A comparison across segments for each product</center>
+![](img/faa8fc9a964503418be2a5ad75d7908b.png)Figure 9B. A comparison across segments for each product
 
 #### 3.集中观众的注意力
 
@@ -68,21 +68,21 @@
 
 例如，节约使用颜色(图 10B)和文本(图 10C)可以极大地改善混乱的图表(图 10A)。
 
-<center>![](img/f833868a423d7943bc24ce854880cd8b.png)Figure 10A</center>
+![](img/f833868a423d7943bc24ce854880cd8b.png)Figure 10A
 
-<center>![](img/b6c025f9d3106131376611f97d752388.png)Figure 10B</center>
+![](img/b6c025f9d3106131376611f97d752388.png)Figure 10B
 
-<center>![](img/ba77d2d6db780e02af0ecce61f55e28f.png)Figure 10C</center>
+![](img/ba77d2d6db780e02af0ecce61f55e28f.png)Figure 10C
 
 另一个吸引观众注意力的技巧是使用动画分阶段展示洞察力。在下面的例子中(图 11)，观众能够想象新冠肺炎开始时利润显著下降的影响。
 
-<center>![](img/a36e5173eb85fd0a4134b8da41b8e016.png)</center>
+![](img/a36e5173eb85fd0a4134b8da41b8e016.png)
 
-<center>![](img/8658dd58a7eb3cb1045965c4bf02e5e0.png)</center>
+![](img/8658dd58a7eb3cb1045965c4bf02e5e0.png)
 
-<center>![](img/9fee5ea241ab4c8ce248b0cb2bfcd8af.png)</center>
+![](img/9fee5ea241ab4c8ce248b0cb2bfcd8af.png)
 
-<center>![](img/8fc7895ceafcfd261bee53757803c5d9.png)Fig 11: Revealing insights in stages</center>
+![](img/8fc7895ceafcfd261bee53757803c5d9.png)Fig 11: Revealing insights in stages
 
 ## 结论
 
@@ -90,4 +90,4 @@
 
 无论您是数据故事讲述的新手还是老手，Brent 举办的网络研讨会“[有效的数据故事讲述:如何将见解转化为行动](https://web.archive.org/web/20221020001916/https://www.datacamp.com/resources/webinars/effective-data-storytelling-brent-dykes)”为所有级别的数据故事讲述者提供了宝贵的框架和实用技巧。
 
-<center>[![](img/b15281ddad3f0ae5970f222a22600455.png)](https://web.archive.org/web/20221020001916/https://www.datacamp.com/groups/business)</center>
+[![](img/b15281ddad3f0ae5970f222a22600455.png)](https://web.archive.org/web/20221020001916/https://www.datacamp.com/groups/business)

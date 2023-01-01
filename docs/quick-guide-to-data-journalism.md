@@ -58,7 +58,7 @@
 
 以下是成为数据记者的计划中包含的八个步骤:
 
-<nav>
+
 
 1.  [建立广泛的知识库](#step1)
 2.  [写，写，写](#step2)
@@ -69,10 +69,10 @@
 7.  [继续你的学习](#step7)
 8.  去争取吧！
 
-</nav>
 
-<center>[//web.archive.org/web/20220529063311if_/https://www.slideshare.net/slideshow/embed_code/key/6AQ1IsyTnzVGe4](//web.archive.org/web/20220529063311if_/https://www.slideshare.net/slideshow/embed_code/key/6AQ1IsyTnzVGe4)
-**[Data Journalism: A Quick Start Guide](//web.archive.org/web/20220529063311/https://www.slideshare.net/karlijnwilems/data-journalism-a-quick-start-guide "Data Journalism: A Quick Start Guide")** from **[Karlijn Willems](//web.archive.org/web/20220529063311/https://www.slideshare.net/karlijnwilems)**</center>
+
+[//web.archive.org/web/20220529063311if_/https://www.slideshare.net/slideshow/embed_code/key/6AQ1IsyTnzVGe4](//web.archive.org/web/20220529063311if_/https://www.slideshare.net/slideshow/embed_code/key/6AQ1IsyTnzVGe4)
+**[Data Journalism: A Quick Start Guide](//web.archive.org/web/20220529063311/https://www.slideshare.net/karlijnwilems/data-journalism-a-quick-start-guide "Data Journalism: A Quick Start Guide")** from **[Karlijn Willems](//web.archive.org/web/20220529063311/https://www.slideshare.net/karlijnwilems)**
 
 ### 1.建立广泛的知识库
 

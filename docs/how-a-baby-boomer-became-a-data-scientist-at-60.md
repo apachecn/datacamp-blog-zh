@@ -2,9 +2,9 @@
 
 > 原文：<https://web.archive.org/web/20230101103339/https://www.datacamp.com/blog/how-a-baby-boomer-became-a-data-scientist-at-60>
 
-<center>[![](img/fb97db7939a22642c755013c507439cb.png)](https://web.archive.org/web/20220703053642/https://www.datacamp.com/business)</center>
+[![](img/fb97db7939a22642c755013c507439cb.png)](https://web.archive.org/web/20220703053642/https://www.datacamp.com/business)
 
-<center>[![](img/9c0c86865ae7e02860ed9311b1b809a8.png)](https://web.archive.org/web/20220703053642/https://www.datacamp.com/business)</center>
+[![](img/9c0c86865ae7e02860ed9311b1b809a8.png)](https://web.archive.org/web/20220703053642/https://www.datacamp.com/business)
 
 马克·比格特不是典型的数据科学家。他不是千禧一代，也没有数学或计算机科学的高等学位。马克 62 岁，职业是电气工程师。他还令人耳目一新地谦逊，称自己是“一个相当无趣的人”
 
@@ -34,4 +34,4 @@ Mark 的 DataCamp 之旅让他积累了数据科学和分析技能的深度，�
 
 一如既往，我们会支持你。您现在可以[开始在 DataCamp 上学习](https://web.archive.org/web/20220703053642/https://www.datacamp.com/)，或者利用 [DataCamp for Business](https://web.archive.org/web/20220703053642/https://www.datacamp.com/business) 在数据科学和分析的所有领域提升您团队的技能。点击[此处](https://web.archive.org/web/20220703053642/https://www.datacamp.com/business/demo/)安排我们平台的免费演示。
 
-<center>[![](img/03cd2379b93104740a2a0f3865866d85.png)](https://web.archive.org/web/20220703053642/https://www.datacamp.com/business/demo)</center>
+[![](img/03cd2379b93104740a2a0f3865866d85.png)](https://web.archive.org/web/20220703053642/https://www.datacamp.com/business/demo)

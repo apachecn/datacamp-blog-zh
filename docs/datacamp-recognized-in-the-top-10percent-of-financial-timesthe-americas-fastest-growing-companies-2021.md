@@ -2,7 +2,7 @@
 
 > 原文：<https://web.archive.org/web/20230101103227/https://www.datacamp.com/blog/datacamp-recognized-in-the-top-10percent-of-financial-timesthe-americas-fastest-growing-companies-2021>
 
-<center>[![](img/c883ea390d5bd0b9a284d6e195535f6b.png)](https://web.archive.org/web/20220518122643/https://www.datacamp.com/groups/business)</center>
+[![](img/c883ea390d5bd0b9a284d6e195535f6b.png)](https://web.archive.org/web/20220518122643/https://www.datacamp.com/groups/business)
 
 DataCamp 很荣幸在《金融时报》的 2021 年美国增长最快的公司排名中被评为第 54 位增长最快的公司和第二位增长最快的教育公司。该奖项由英国《金融时报》和全球领先的统计门户和行业排名提供商 [Statista，Inc](https://web.archive.org/web/20220518122643/https://www.statista.com/) 颁发。
 

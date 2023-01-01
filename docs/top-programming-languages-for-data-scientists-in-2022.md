@@ -25,13 +25,13 @@
 
 ## 计算机编程语言
 
-<center>![](img/97884130a79b705cf0015a22b05bd100.png)</center>
+![](img/97884130a79b705cf0015a22b05bd100.png)
 
 在几个编程语言流行指数中排名第一，包括 [TIOBE](https://web.archive.org/web/20221007043919/https://www.tiobe.com/tiobe-index/) 指数和 [PYPL](https://web.archive.org/web/20221007043919/https://pypl.github.io/PYPL.html) 指数，Python 的流行程度在最近几年蓬勃发展。Python 是一种开源的通用编程语言，不仅在数据科学行业，而且在其他领域，如 web 开发和视频游戏开发，都有广泛的适用性。
 
-<center>![](img/bfb40764bc4902b648ea08970ce8efb3.png)</center>
+![](img/bfb40764bc4902b648ea08970ce8efb3.png)
 
-<center>Source: [TIOBE Index](https://web.archive.org/web/20221007043919/https://www.tiobe.com/tiobe-index/)</center>
+Source: [TIOBE Index](https://web.archive.org/web/20221007043919/https://www.tiobe.com/tiobe-index/)
 
 你能想到的任何数据科学任务都可以用 Python 来完成。这主要得益于其丰富的图书馆生态系统。凭借其庞大的用户社区支持的数千个强大的软件包，Python 可以执行各种操作，从数据预处理、可视化和统计分析，到机器学习和深度学习模型的部署。以下是一些最常用于数据科学和机器学习的库:
 
@@ -53,15 +53,15 @@ pandas 是数据科学中的一个关键库，用于执行数据库的各种操�
 
 ## 稀有
 
-<center>![](img/cbb606fad3d321c85887dd7ee3996f3b.png)</center>
+![](img/cbb606fad3d321c85887dd7ee3996f3b.png)
 
 根据流行指数，R 还没有 Python 流行，它是有抱负的数据科学家的首选。经常在数据科学论坛上被描绘成 Python 的主要竞争对手，学习这两种语言中的一种是进入该领域的关键一步。
 
 r 是一种开源的、特定于领域的语言，专门为数据科学而设计。在金融和学术界非常流行，R 是数据操作、处理和可视化以及统计计算和机器学习的完美语言。
 
-<center>![](img/27967d65aba0262e73d40bfb0e4b705c.png)</center>
+![](img/27967d65aba0262e73d40bfb0e4b705c.png)
 
-<center>Source: [KDnuggets](https://web.archive.org/web/20221007043919/https://www.kdnuggets.com/2019/05/poll-top-data-science-machine-learning-platforms.html)</center>
+Source: [KDnuggets](https://web.archive.org/web/20221007043919/https://www.kdnuggets.com/2019/05/poll-top-data-science-machine-learning-platforms.html)
 
 像 Python 一样，R 有一个庞大的用户社区和大量用于数据分析的专用库。一些最著名的属于 Tidyverse 家族，一个数据科学包的集合。它包括用于数据操作的 dplyr 和功能强大的 ggplot2，这是 r 中用于数据可视化的标准库。至于机器学习任务，像 caret 这样的库将使您在开发算法时更加轻松。
 
@@ -71,7 +71,7 @@ r 是一种开源的、特定于领域的语言，专门为数据科学而设计
 
 ## 结构化查询语言
 
-<center>![](img/57dffa3332ffa5efec22b715b3d998e7.png)</center>
+![](img/57dffa3332ffa5efec22b715b3d998e7.png)
 
 世界上的许多数据都存储在数据库中。SQL(结构化查询语言)是一种特定于领域的语言，允许程序员与数据库通信、编辑和提取数据。如果你想成为一名数据科学家，掌握数据库和 SQL 的工作知识是必不可少的。
 
@@ -83,13 +83,13 @@ r 是一种开源的、特定于领域的语言，专门为数据科学而设计
 
 ## Java 语言(一种计算机语言，尤用于创建网站)
 
-<center>![](img/171e6744595fb0a0f97944926a7eb25a.png)</center>
+![](img/171e6744595fb0a0f97944926a7eb25a.png)
 
 在 PYPL 指数中排名第二，在 TIOBE 指数中排名第三，Java 是世界上最流行的编程语言之一。它是一种开源的、面向对象的语言，以其一流的性能和效率而闻名。无尽的技术、软件应用和网站都依赖于 Java 生态系统。
 
-<center>![](img/8a23d344a5cc98d007e6e877d3b674ec.png)</center>
+![](img/8a23d344a5cc98d007e6e877d3b674ec.png)
 
-<center>Source: [PYPL Index](https://web.archive.org/web/20221007043919/https://pypl.github.io/PYPL.html)</center>
+Source: [PYPL Index](https://web.archive.org/web/20221007043919/https://pypl.github.io/PYPL.html)
 
 尽管在开发网站或从头构建应用程序时，Java 是首选，但近年来，Java 在数据科学行业中占据了突出的地位。这主要是因为 Java 虚拟机，它为流行的大数据工具，如 Hadoop、Spark 和 Scala，提供了一个坚实而高效的框架。
 
@@ -97,7 +97,7 @@ r 是一种开源的、特定于领域的语言，专门为数据科学而设计
 
 ## 朱莉娅
 
-<center>![](img/58040cc6983a9744e6c6755fd1211787.png)</center>
+![](img/58040cc6983a9744e6c6755fd1211787.png)
 
 Julia 可以被认为是数据科学的后起之秀。尽管是这个列表中最年轻的语言之一，(该列表于 2011 年发布)，Julia 已经给数值计算界留下了深刻的印象。有时被称为 Python 的继承者，与用于数据分析的其他语言相比，Julia 是一个非常有效的工具。
 
@@ -107,7 +107,7 @@ Julia 可以被认为是数据科学的后起之秀。尽管是这个列表中�
 
 ## 斯卡拉
 
-<center>![](img/4650295ec88bd797267857ec604040b4.png)</center>
+![](img/4650295ec88bd797267857ec604040b4.png)
 
 虽然 Scala 在编程语言的顶级排名中并不常见(它在 PYPL 指数中排名第 18，在 TIOBE 中排名第 33)，但在数据科学的背景下，谈论这种编程语言是不可避免的。
 
@@ -117,7 +117,7 @@ Scala 也运行在 Java 虚拟机上，从而允许与 Java 的互操作性，�
 
 ## #C/C++
 
-<center>![](img/5e6d58300e06290a1599d6413e242b92.png)          ![](img/bb86e43e68b3666c4d43d496ec36da50.png)</center>
+![](img/5e6d58300e06290a1599d6413e242b92.png)          ![](img/bb86e43e68b3666c4d43d496ec36da50.png)
 
 作为两种优化程度最高的语言，熟悉 C 及其近亲 C++，在处理计算密集型数据科学工作时会非常有用。
 
@@ -127,13 +127,13 @@ C 和 C++相对来说比其他编程语言更快，这使得它们非常适合�
 
 ## Java Script 语言
 
-<center>![](img/ed540f6e8bb86e8784c673342e762b9c.png)</center>
+![](img/ed540f6e8bb86e8784c673342e762b9c.png)
 
 根据 2021 年栈溢出开发者调查[显示，JavaScript 居于首选编程语言之首。JavaScript 是一种跨领域、通用的语言，因其构建丰富的交互式网页的能力而广为人知。](https://web.archive.org/web/20221007043919/https://insights.stackoverflow.com/survey/2021)
 
-<center>![](img/b30160ad56be04d16100a6412edb135f.png)</center>
+![](img/b30160ad56be04d16100a6412edb135f.png)
 
-<center>Source: [Stack Overflow](https://web.archive.org/web/20221007043919/https://insights.stackoverflow.com/survey/2021)</center>
+Source: [Stack Overflow](https://web.archive.org/web/20221007043919/https://insights.stackoverflow.com/survey/2021)
 
 尽管大多数 JavaScript 用户都在 web 开发部门工作，但近年来，这种语言在数据科学行业已经声名狼藉。今天，JavaScript 支持流行的机器学习和深度学习库，如 TensorFlow 和 Keras，以及非常强大的可视化工具，如 D3。
 
@@ -141,7 +141,7 @@ C 和 C++相对来说比其他编程语言更快，这使得它们非常适合�
 
 ## 迅速发生的
 
-<center>![](img/8e7ae76616fdef363d7a5d25f82510fd.png)</center>
+![](img/8e7ae76616fdef363d7a5d25f82510fd.png)
 
 Python 和 R 的一个缺点是它们都没有考虑到移动设备。在未来几年，我们可以期待移动设备、可穿戴设备和物联网的更大进步。苹果开发 Swift 是为了让创建应用程序变得更容易，并借此发展其应用程序生态系统和增加客户保留率。在 2014 年发布后不久，苹果和谷歌就开始合作，让它成为移动和机器学习相互作用的关键工具。
 
@@ -151,7 +151,7 @@ Swift 现在与 TensorFlow 兼容，并可与 Python 互操作。Swift 的另一
 
 ## 去
 
-<center>![](img/1f96202e3b9478a5102b99ee97b09e71.png)</center>
+![](img/1f96202e3b9478a5102b99ee97b09e71.png)
 
 Go(或 GoLang)是一种越来越受欢迎的语言，尤其是对于机器学习项目。谷歌在 2009 年引入了类似 C 语言的语法和布局。根据许多开发人员的说法，Go 是 c 语言的 21 世纪版本。
 
@@ -159,7 +159,7 @@ Go(或 GoLang)是一种越来越受欢迎的语言，尤其是对于机器学习
 
 ## 矩阵实验室
 
-<center>![](img/8ace290fa2d463ec78037de9d56f5bea.png)</center>
+![](img/8ace290fa2d463ec78037de9d56f5bea.png)
 
 MATLAB 是一种主要为数值计算而设计的语言。自 1984 年推出以来，MATLAB 在学术界和科学研究中被广泛采用，它提供了强大的工具来执行高级数学和统计运算，使其成为数据科学的重要候选对象。
 
@@ -167,7 +167,7 @@ MATLAB 是一种主要为数值计算而设计的语言。自 1984 年推出以�
 
 ## 斯堪的纳维亚航空公司
 
-<center>![](img/bb47fbc23daa783c8e08288bdacb764d.png)</center>
+![](img/bb47fbc23daa783c8e08288bdacb764d.png)
 
 SAS(统计分析系统)是为商业智能和高级数值计算设计的软件环境。SAS 已经存在很长时间了，它被许多领域的大公司广泛采用，为 SAS 开发者创造了一个巨大的市场。
 

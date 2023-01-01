@@ -2,7 +2,7 @@
 
 > 原文：<https://web.archive.org/web/20221129040116/https://www.datacamp.com/blog/datau-academy-equips-cambodian-youth-with-in-demand-skills-for-the-global-data-revolution>
 
-<center>[![](img/fa48f6b952e8243f87c2fca26e1959e7.png)](https://web.archive.org/web/20220529052311/https://mydatau.org/)</center>
+[![](img/fa48f6b952e8243f87c2fca26e1959e7.png)](https://web.archive.org/web/20220529052311/https://mydatau.org/)
 
 ## 请介绍一下 DataU Academy 以及您与 DataCamp 的合作关系。
 

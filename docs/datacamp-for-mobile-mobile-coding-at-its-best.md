@@ -22,7 +22,7 @@ DataCamp Mobile 拥有全新的、经过改进的用户体验。移动学习不�
 
 > 现在事情应该这样做！—pyggh
 
-<center>[![](img/4b433e909bb9a9fbe0cdc2c28848b896.png)](https://web.archive.org/web/20220524175951/https://datacamp.app.link/MKQyDIGRabb)</center>
+[![](img/4b433e909bb9a9fbe0cdc2c28848b896.png)](https://web.archive.org/web/20220524175951/https://datacamp.app.link/MKQyDIGRabb)
 
 ## 保持技能敏锐的有趣方法
 
@@ -34,4 +34,4 @@ DataCamp Mobile 拥有全新的、经过改进的用户体验。移动学习不�
 
 [开始使用移动设备](https://web.archive.org/web/20220524175951/https://datacamp.app.link/MKQyDIGRabb)我们的 Python 数据科学家、R 数据科学家和 SQL 基础课程，更多课程即将推出！
 
-<center>[![](img/b2963118ff6efedf3ce61cac874e5928.png)](https://web.archive.org/web/20220524175951/https://datacamp.app.link/MKQyDIGRabb)</center>
+[![](img/b2963118ff6efedf3ce61cac874e5928.png)](https://web.archive.org/web/20220524175951/https://datacamp.app.link/MKQyDIGRabb)

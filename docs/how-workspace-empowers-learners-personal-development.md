@@ -12,7 +12,7 @@ Muhammad Salman 是新加坡的一名行为科学从业者，他一直使用 Dat
 
 Muhammad 使用 Workspace 作为工具来继续他的学习之旅，并应用他新获得的数据技能。
 
-<center>![](img/149696950fac5dbcccfde3bc6ec7a9f3.png)</center>
+![](img/149696950fac5dbcccfde3bc6ec7a9f3.png)
 
 ### 理想的个人发展环境
 
@@ -38,4 +38,4 @@ Workspace 提供的独特价值主张，如无需安装的基于云的编码环�
 
 有兴趣了解 Workspace 如何改善您的学习之旅吗？立即开始使用[工作空间](https://web.archive.org/web/20220528193403/http://workspace.datacamp.com/)！
 
-<center>[![](img/8a19239d82ea6a7a4f5d0f0c574d1838.png)](https://web.archive.org/web/20220528193403/http://workspace.datacamp.com/)</center>
+[![](img/8a19239d82ea6a7a4f5d0f0c574d1838.png)](https://web.archive.org/web/20220528193403/http://workspace.datacamp.com/)

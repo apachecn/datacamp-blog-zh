@@ -2,7 +2,7 @@
 
 > 原文：<https://web.archive.org/web/20230101103339/https://www.datacamp.com/blog/why-we-decided-to-give-up-10percent-of-our-revenue>
 
-<center>[![](img/8f6220757c76f44a94cbb5a2b04fcc96.png)](https://web.archive.org/web/20221221030715/https://www.datacamp.com/groups/classrooms)</center>
+[![](img/8f6220757c76f44a94cbb5a2b04fcc96.png)](https://web.archive.org/web/20221221030715/https://www.datacamp.com/groups/classrooms)
 
 当我们开始 [DataCamp](https://web.archive.org/web/20221221030715/https://www.datacamp.com/) 的时候，我们提供了一个 29 美元/月的常规计划(我们今天仍然提供这个计划)和一个 9 美元/月的学术学生计划。学术计划具有与常规计划完全相同的功能，但价格要低得多。通过这种方式，我们希望为资金不足的学生提供通过 DataCamp 学习数据科学的机会。
 

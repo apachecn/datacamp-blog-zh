@@ -2,7 +2,7 @@
 
 > 原文：<https://web.archive.org/web/20221129045010/https://www.datacamp.com/blog/becoming-a-data-scientist-transcript>
 
-<center>[![](img/ac4d4f70e669fd2bc0de7fa19b4f8a11.png)](https://web.archive.org/web/20220703021359/https://www.datacamp.com/community/podcast/becoming-data-scientist)</center>
+[![](img/ac4d4f70e669fd2bc0de7fa19b4f8a11.png)](https://web.archive.org/web/20220703021359/https://www.datacamp.com/community/podcast/becoming-data-scientist)
 
 [https://web.archive.org/web/20220703021359if_/https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/499923051&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true](https://web.archive.org/web/20220703021359if_/https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/499923051&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true)
 

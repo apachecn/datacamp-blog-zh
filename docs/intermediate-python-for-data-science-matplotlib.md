@@ -8,13 +8,13 @@
 
 ## 使用 matplotlib 的基本绘图
 
-<center>[https://web.archive.org/web/20220817160401if_/https://www.youtube.com/embed/SiCyTcudoSE](https://web.archive.org/web/20220817160401if_/https://www.youtube.com/embed/SiCyTcudoSE)</center>
+[https://web.archive.org/web/20220817160401if_/https://www.youtube.com/embed/SiCyTcudoSE](https://web.archive.org/web/20220817160401if_/https://www.youtube.com/embed/SiCyTcudoSE)
 
 大家好，我叫菲利普，是 DataCamp 的一名数据科学家。在这个中级 Python 课程中，您将进一步提高数据科学的 [Python 技能](https://web.archive.org/web/20220817160401/https://www.datacamp.com/learn/python)。您将学习如何可视化数据和在新的数据结构中存储数据。在这个过程中，您将掌握控制结构，您将需要这些结构来定制您的脚本和算法的流程。我们将以一个案例研究来结束这一章，在这个案例中，你将把你所学到的一切融合在一起，来解决一个很酷的问题。
 
 这第一章是关于[数据可视化](https://web.archive.org/web/20220817160401/https://www.datacamp.com/data-courses/data-visualization-courses)，这是数据分析非常重要的一部分。首先，您将持续使用它来探索您的数据集。你对数据理解得越好，你就能更好地获得洞察力。一旦你发现了这些洞见，同样，你将需要视觉化来与其他人分享你宝贵的洞见。举个例子，看看这幅美丽的图。
 
-<center>
+
 
 它是由瑞典教授汉斯·罗斯林制造的。他关于全球发展的演讲已经被观看了数百万次。让它们如此吸引人的是，通过制作美丽的情节，他让数据讲述它们自己的故事。这里我们看到一个气泡图，每个气泡代表一个国家。泡沫越大，这个国家的人口就越多，所以这里最大的两个泡沫是中国和印度。
 
@@ -51,7 +51,7 @@ plt.show()
 
 ## 直方图
 
-<center>[https://web.archive.org/web/20220817160401if_/https://www.youtube.com/embed/Pqu8md5rt-k](https://web.archive.org/web/20220817160401if_/https://www.youtube.com/embed/Pqu8md5rt-k)</center>
+[https://web.archive.org/web/20220817160401if_/https://www.youtube.com/embed/Pqu8md5rt-k](https://web.archive.org/web/20220817160401if_/https://www.youtube.com/embed/Pqu8md5rt-k)
 
 在这个视频中，我将介绍直方图。直方图是一种非常有助于探索数据的可视化形式。它可以帮助你了解变量的分布。为了了解它是如何工作的，想象一下 0 到 6 之间的 12 个值。我把它们放在这里的数字线上。要构建这些值的直方图，您可以将线分成相等的块，称为条块。假设你有 3 个箱子，每个箱子的宽度为 2。接下来，计算每个箱中有多少个数据点。第一个箱中有 4 个数据点，第二个箱中有 6 个数据点，第三个箱中有 2 个数据点。最后，为每个箱子画一条横线。条形的高度对应于落在该条柱中的数据点的数量。结果是一个直方图，它给我们一个关于 12 个值如何分布的很好的概述。大多数值都在中间，但是低于 2 的值比高于 4 的值多。
 
@@ -70,7 +70,7 @@ plt.show()
 
 ## 用户化
 
-<center>[https://web.archive.org/web/20220817160401if_/https://www.youtube.com/embed/aS4WlOJQ4mQ](https://web.archive.org/web/20220817160401if_/https://www.youtube.com/embed/aS4WlOJQ4mQ)</center>
+[https://web.archive.org/web/20220817160401if_/https://www.youtube.com/embed/aS4WlOJQ4mQ](https://web.archive.org/web/20220817160401if_/https://www.youtube.com/embed/aS4WlOJQ4mQ)
 
 创造情节是一回事。制作正确的情节，使信息非常清晰，是真正的挑战。对于每个可视化，您有许多选择。首先，有不同的情节类型。对于每个地块，您可以进行无限数量的定制。您可以更改颜色、形状、标签、轴等。选择取决于，第一，数据，第二，你想用这些数据讲述的故事。因为有这么多可能的定制，最好的学习方法是通过例子。
 
@@ -99,4 +99,3 @@ plt.yticks([0,2,4,6,8,10],['0','2B','4B','6B','8B','10B'])
 plt.show() 
 ```
 
-</center>

@@ -2,11 +2,11 @@
 
 > 原文：<https://web.archive.org/web/20221129044127/https://www.datacamp.com/blog/datacamp-and-tableau-partner-to-teach-young-people-data-visualization>
 
-<center>
+
 
 ![DataCamp and Tableau Partner to Teach Young People Data Visualization](img/a2f4e485ba3c11acaa6e601d92f181fc.png)
 
-</center>
+
 
 ***2022 年 3 月 21 日更新:课堂 x Tableau 教学推广数据营已经结束。感谢所有申请的老师。原公告如下:***
 

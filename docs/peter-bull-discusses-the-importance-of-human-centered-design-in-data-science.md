@@ -2,7 +2,7 @@
 
 > 原文：<https://web.archive.org/web/20221129045010/https://www.datacamp.com/blog/peter-bull-discusses-the-importance-of-human-centered-design-in-data-science>
 
-<center>[![](img/283797f774d6437c055a06e54e0ce708.png)](https://web.archive.org/web/20220524180706/https://www.datacamp.com/community/podcast/human-centered-design-data-science)</center>
+[![](img/283797f774d6437c055a06e54e0ce708.png)](https://web.archive.org/web/20220524180706/https://www.datacamp.com/community/podcast/human-centered-design-data-science)
 
 [https://web.archive.org/web/20220524180706if_/https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/523751268%3Fsecret_token%3Ds-KlZLB&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true](https://web.archive.org/web/20220524180706if_/https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/523751268%3Fsecret_token%3Ds-KlZLB&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true)
 

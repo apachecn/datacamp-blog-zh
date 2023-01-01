@@ -10,7 +10,7 @@ DataCamp 于今年春天启动了我们的赠品计划，旨在为世界各地�
 
 这是一个非常雄心勃勃的目标，但通过适当的培训是可以实现的。“我们的员工和我们的各个社区正在通过在 DataCamp 学习各种数据科学和机器学习课程来武装自己。我在 DataCamp 上学习编程。
 
-<center>[![](img/1bee2df2cd1710ec4e594a2a71fc9cf8.png)](https://web.archive.org/web/20221212135912/https://www.datacamp.com/)</center>
+[![](img/1bee2df2cd1710ec4e594a2a71fc9cf8.png)](https://web.archive.org/web/20221212135912/https://www.datacamp.com/)
 
 ## 使用 DataCamp 实现最高效率
 
@@ -20,7 +20,7 @@ DataCamp 于今年春天启动了我们的赠品计划，旨在为世界各地�
 
 拉多克·阿金托拉理工大学的学生托卢瓦尼·阿德戈克对此表示赞同:“我觉得这很有趣。参与 DataCamp 项目帮助我改善了我的简历和投资组合。”让他们的成员保持积极性和学习的是 DataCamp 的各种课程和活动，这些课程和活动吸引了不同的学习风格。DSN 学习者经常引用我们的指导和非指导[项目](https://web.archive.org/web/20221212135912/https://www.datacamp.com/projects)、[信号评估](https://web.archive.org/web/20221212135912/http://datacamp.com/signal)和[移动应用](https://web.archive.org/web/20221212135912/http://datacamp.com/mobile)体验作为他们最喜欢的功能。
 
-<center>[![](img/b02c3910f603bd5b06e999bdbb67c56b.png)](https://web.archive.org/web/20221212135912/https://www.datacamp.com/)</center>
+[![](img/b02c3910f603bd5b06e999bdbb67c56b.png)](https://web.archive.org/web/20221212135912/https://www.datacamp.com/)
 
 对于 DSN 的数据分析师 Peter Onuoha 来说，DataCamp 的核心功能提供了您在课程中、在您的网络浏览器中学习和实践所需的所有工具。“将开发人员环境集成到他们的学习网站中是非常了不起的。我不必在 Jupyter 笔记本和教学视频之间穿梭，因为所有的东西都在网站上，”他说。
 
@@ -34,13 +34,13 @@ DataCamp 于今年春天启动了我们的赠品计划，旨在为世界各地�
 
 许多 DSN 学习者报告说，DataCamp 帮助他们在编码竞赛中获得更高的名次，获得荣誉和建立信心，并在简历中脱颖而出。Fortune 是一名 DSN 学习者，目前正在寻找工作，她感谢 DataCamp 最近的成功:“凭借通过 Python track 学习机器学习基础知识的各种课程获得的技能，我在 Kaggle 上举办的数据科学尼日利亚黑客马拉松中名列第 10 位。”
 
-<center>[![](img/786284b17ff954e317594bd66f39f1c1.png)](https://web.archive.org/web/20221212135912/https://www.datacamp.com/)</center>
+[![](img/786284b17ff954e317594bd66f39f1c1.png)](https://web.archive.org/web/20221212135912/https://www.datacamp.com/)
 
 但是一整年免费使用 DataCamp 的意义不仅仅是获得奖牌和奖杯。许多 DSN 学习者报告说，他们在 DataCamp 上获得的技能帮助他们获得了实习、带薪工作，甚至改善了他们目前的工作状况。《财富》杂志证实，“在 DataCamp 上的学习帮助我保持了最新的编程技能。它帮助我的大脑在工作中保持敏锐。这帮助我获得了几个自由职业项目。”
 
 DataCamp 的边做边学方法已经帮助许多学习者应用和分享他们的知识。Emmanuel Onwuegbusi 使用他在 DataCamp [中学到的自然语言处理技能建立了](https://web.archive.org/web/20221212135912/https://medium.com/analytics-vidhya/build-an-ocr-and-summarize-webapp-using-pytesseract-gensim-and-django-13d0ff911d93)一个 [OCR 系统](https://web.archive.org/web/20221212135912/https://emmamichael.pythonanywhere.com/)，该系统从图像中提取文本，并使用 GENSIM 包来总结 OCRed 文本。对于 DSN 的常驻数据科学家 Ezekiel 来说，持续的健康危机是最紧迫的应用。“我用 R 在[时间序列中学习了 DataCamp 的技能轨迹，我能够操纵各种新冠肺炎时间序列数据，”他说。“此外，我们刚刚在《数据》杂志上发表了一篇关于疫情期间尼日利亚经济和医疗保健的文章](https://web.archive.org/web/20221212135912/https://datacamp.com/courses/time-series-analysis-in-r)[，使用了在 DataCamp 上获得的技能。”](https://web.archive.org/web/20221212135912/https://doi.org/10.1016/j.dib.2020.106424)
 
-<center>[![](img/f4ac0bcb97847415c059b13ac66b2fdc.png)](https://web.archive.org/web/20221212135912/https://www.datacamp.com/)</center>
+[![](img/f4ac0bcb97847415c059b13ac66b2fdc.png)](https://web.archive.org/web/20221212135912/https://www.datacamp.com/)
 
 DSN 成员将他们的技能带到了学术界，但他们也在努力为大众可视化这些重要的数据。阿库雷联邦理工大学的学生 Precious Ebiendele 在 DataCamp 上只上了两门数据可视化课程，就为全尼日利亚建造了一个[新冠肺炎病例跟踪器](https://web.archive.org/web/20221212135912/https://precious-ebiendele.shinyapps.io/covid9JA)。他说，“对于一个新的或有抱负的数据科学家，我会推荐 DataCamp，因为它的简单性和教学方法。”
 

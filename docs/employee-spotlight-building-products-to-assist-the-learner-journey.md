@@ -2,7 +2,7 @@
 
 > 原文：<https://web.archive.org/web/20221129040116/https://www.datacamp.com/blog/employee-spotlight-building-products-to-assist-the-learner-journey>
 
-<center>[![](img/031dd904535c774a61a29ded2c2b9aea.png)](https://web.archive.org/web/20220819073200/https://www.datacamp.com/careers/)</center>
+[![](img/031dd904535c774a61a29ded2c2b9aea.png)](https://web.archive.org/web/20220819073200/https://www.datacamp.com/careers/)
 
 ## 你加入 DataCamp 的历程是怎样的？
 

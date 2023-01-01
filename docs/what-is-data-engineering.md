@@ -70,25 +70,25 @@ ETL 管道以固定的时间间隔接收复杂的数据，并对其进行处理�
 
 在图 4.1 中，金字塔图显示了数据科学需求的层次结构。在这个层级中，分配给数据工程师的任务位于金字塔的底部，这解释了数据工程师对公司的重要性。
 
-<center>![](img/7a65b6f56eb30e02413a37972ce3ebe0.png)Figure 4.1: The data science hierarchy of needs.</center>
+![](img/7a65b6f56eb30e02413a37972ce3ebe0.png)Figure 4.1: The data science hierarchy of needs.
 
-<center>[Source: hackernoon](https://web.archive.org/web/20220705010745/https://medium.com/hackernoon/the-ai-hierarchy-of-needs-18f111fcc007)</center>
+[Source: hackernoon](https://web.archive.org/web/20220705010745/https://medium.com/hackernoon/the-ai-hierarchy-of-needs-18f111fcc007)
 
 ## 一个数据工程师需要具备哪些技能？
 
 数据工程师的技能通常与软件工程师和数据科学家的技能交织在一起，如图 5.1 所示。
 
-<center>![](img/5883135b758530cc858b13e9bb595c16.png) Figure 5.1: Data roles and skill sets</center>
+![](img/5883135b758530cc858b13e9bb595c16.png) Figure 5.1: Data roles and skill sets
 
-<center>[Source: RyanSwanstrom](https://web.archive.org/web/20220705010745/https://ryanswanstrom.com/2016/11/28/data-scientists-data-engineers-software-engineers-the-difference-according-to-linkedin/)</center>
+[Source: RyanSwanstrom](https://web.archive.org/web/20220705010745/https://ryanswanstrom.com/2016/11/28/data-scientists-data-engineers-software-engineers-the-difference-according-to-linkedin/)
 
 ## 数据工程师的角色更接近软件工程师还是数据科学家？
 
 一组数据工程师以前的职业如图 5.2 所示。根据这个数字，他们中超过 40%的人有软件工程背景。这不仅意味着数据工程和软件工程比我们最初想象的要紧密得多，而且意味着现在的软件工程师比其他任何领域都更有可能转向数据工程。
 
-<center>![](img/502320b2594f68ea94b0556c7e95317f.png) Figure 5.2: Data engineers by prior role (top 10).</center>
+![](img/502320b2594f68ea94b0556c7e95317f.png) Figure 5.2: Data engineers by prior role (top 10).
 
-<center>[Source: stitchdata](https://web.archive.org/web/20220705010745/https://www.stitchdata.com/resources/the-state-of-data-engineering/)</center>
+[Source: stitchdata](https://web.archive.org/web/20220705010745/https://www.stitchdata.com/resources/the-state-of-data-engineering/)
 
 在 DataCamp，我们认为以下是优秀数据工程师的技能:
 

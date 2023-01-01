@@ -2,7 +2,7 @@
 
 > 原文：<https://web.archive.org/web/20230101103026/https://www.datacamp.com/blog/seven-tricks-for-better-data-storytelling-part-i>
 
-<center>[![](img/e45a51ab872eb233dfbc6703d60e3ef8.png)](https://web.archive.org/web/20221001095742/https://www.datacamp.com/groups/business)</center>
+[![](img/e45a51ab872eb233dfbc6703d60e3ef8.png)](https://web.archive.org/web/20221001095742/https://www.datacamp.com/groups/business)
 
 ## 1.在头脑中构思数据故事
 
@@ -10,17 +10,17 @@
 
 一个令人不寒而栗的例子是西蒙·斯卡(Simon Scarr)的《伊拉克血腥死亡人数》(Iraq Bloody Toll)，该书强调了美国在伊拉克的军事行动造成的死亡人数。向下的红色条形图强烈地唤起了人们对伊拉克大屠杀的回忆，这一形象化的比喻让人记忆深刻。有趣的是，一个简单的重新定位和颜色变化完全改变了信息。
 
-<center>![](img/66abb331b6b563d6ac3ce1c6aee26898.png)Figure 1: Iraq’s Bloody Toll by Simon Scarr [[Source](https://web.archive.org/web/20221001095742/http://www.simonscarr.com/iraqs-bloody-toll)]</center>
+![](img/66abb331b6b563d6ac3ce1c6aee26898.png)Figure 1: Iraq’s Bloody Toll by Simon Scarr [[Source](https://web.archive.org/web/20221001095742/http://www.simonscarr.com/iraqs-bloody-toll)]
 
 数据说书人应该运用这种力量，负责任地、有意识地传达观点。在讲述一个理应客观的数据故事时，数据故事讲述者应该注意图表中可能放大偏见的细节。例如，轴应该从零开始，以避免误导的相关性。
 
-<center>![](img/30db5db9c22bc99f7c9f4decf13f0327.png)Figure 2\. The same data points can convey dramatically different results [[Source](https://web.archive.org/web/20221001095742/https://www.datasciencejunction.com/2019/01/how-to-be-cautious-about-misleading.html)]</center>
+![](img/30db5db9c22bc99f7c9f4decf13f0327.png)Figure 2\. The same data points can convey dramatically different results [[Source](https://web.archive.org/web/20221001095742/https://www.datasciencejunction.com/2019/01/how-to-be-cautious-about-misleading.html)]
 
 ## 2.适当定位数据故事中的元素
 
 古腾堡原理指出，当阅读内容时，用户的眼睛按照从左上到右下的 Z 形路径移动。
 
-<center>![](img/503e7ca0624fc3c114759879ec85b586.png)Figure 3\. The Gutenberg principle [[Source](https://web.archive.org/web/20221001095742/https://www.oreilly.com/library/view/practical-game-design/9781787121799/f77e030b-0f77-4774-9025-000c0d7732e6.xhtml)]</center>
+![](img/503e7ca0624fc3c114759879ec85b586.png)Figure 3\. The Gutenberg principle [[Source](https://web.archive.org/web/20221001095742/https://www.oreilly.com/library/view/practical-game-design/9781787121799/f77e030b-0f77-4774-9025-000c0d7732e6.xhtml)]
 
 应用于数据故事，这个原则告诉我们，最重要的信息应该在左上角。更多的细节应该在图表的底部变得更加具体。行动号召也可以包含在终端部分所在的图表的右下角。
 
@@ -38,4 +38,4 @@
 
 本文介绍了数据团队如何通过深思熟虑的设计来增强数据故事。在博文的[第二部分，我们将为展示优秀的数据故事提供更多可行的技巧。](https://web.archive.org/web/20221001095742/https://www.datacamp.com/community/blog/seven-tricks-for-better-data-storytelling-2)
 
-<center>[![](img/e45a51ab872eb233dfbc6703d60e3ef8.png)](https://web.archive.org/web/20221001095742/https://www.datacamp.com/groups/business)</center>
+[![](img/e45a51ab872eb233dfbc6703d60e3ef8.png)](https://web.archive.org/web/20221001095742/https://www.datacamp.com/groups/business)

@@ -2,7 +2,7 @@
 
 > 原文：<https://web.archive.org/web/20221129045010/https://www.datacamp.com/blog/cassie-kozyrkov-discusses-decision-making-and-decision-intelligence>
 
-<center>[![](img/d0c82d6ecdd3316d9197ff5b3c768865.png)](https://web.archive.org/web/20220615200135/https://www.datacamp.com/community/podcast/decision-intelligence-data-science)</center>
+[![](img/d0c82d6ecdd3316d9197ff5b3c768865.png)](https://web.archive.org/web/20220615200135/https://www.datacamp.com/community/podcast/decision-intelligence-data-science)
 
 [https://web.archive.org/web/20220615200135if_/https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/516368949%3Fsecret_token%3Ds-zgV8g&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true](https://web.archive.org/web/20220615200135if_/https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/516368949%3Fsecret_token%3Ds-zgV8g&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true)
 

@@ -4,7 +4,7 @@
 
 *最近，我们采访了两位认证数据营学员，了解获得认证和我们的个性化职业指导如何帮助他们找到理想的工作。*
 
-<center>![](img/2c5f596cdc6c8ea0877aec018774bbd7.png)</center>
+![](img/2c5f596cdc6c8ea0877aec018774bbd7.png)
 
 在 DataCamp 上学习和应用技能后，获得认证是帮助您启动或推进数据科学职业生涯的下一步。
 
@@ -30,4 +30,4 @@ DataCamp 推出认证后，Peter 抓住机会，成功完成了评估。获得�
 
 有兴趣获得 DataCamp 的认证吗？[立即开始](https://web.archive.org/web/20220630041627/http://datacamp.com/certification)您的认证之旅
 
-<center>[![](img/026597fc9806e3f940e42184285893f7.png)](https://web.archive.org/web/20220630041627/http://datacamp.com/certification)</center>
+[![](img/026597fc9806e3f940e42184285893f7.png)](https://web.archive.org/web/20220630041627/http://datacamp.com/certification)

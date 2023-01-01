@@ -2,7 +2,7 @@
 
 > 原文：<https://web.archive.org/web/20221129054701/https://www.datacamp.com/blog/datacamps-professional-data-scientist-certification-program>
 
-<center>![](img/7162ba02adda294059bc18ae4be6eee1.png)</center>
+![](img/7162ba02adda294059bc18ae4be6eee1.png)
 
 我们创办了 DataCamp，帮助数百万学生培养数据技能。虽然我们已经提高了许多学生的技能，但劳动力市场上仍然存在巨大的数据人才技能缺口。
 

@@ -6,7 +6,7 @@
 
 这就是为什么我们为一些最常见的数据角色和身份创建了定制的 LinkedIn 封面图像。作为参考，我的看起来是这样的:
 
-<center>![](img/cbabf46d45800cf5b52d6a439cb38c27.png)</center>
+![](img/cbabf46d45800cf5b52d6a439cb38c27.png)
 
 如果你想像我一样更新你的 LinkedIn 个人资料，只需点击下面最符合你身份的描述来下载封面图片:
 

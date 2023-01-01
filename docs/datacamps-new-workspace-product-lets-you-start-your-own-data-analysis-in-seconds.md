@@ -2,7 +2,7 @@
 
 > 原文：<https://web.archive.org/web/20230101103238/https://www.datacamp.com/blog/datacamps-new-workspace-product-lets-you-start-your-own-data-analysis-in-seconds>
 
-<center>[![](img/1f28d532b69a9e8b8915cd69ff7ac5d6.png)](https://web.archive.org/web/20220528005107/https://www.datacamp.com/workspace)</center>
+[![](img/1f28d532b69a9e8b8915cd69ff7ac5d6.png)](https://web.archive.org/web/20220528005107/https://www.datacamp.com/workspace)
 
 ## 为什么我们要为数据专业人员和数据流畅团队打造协作产品
 

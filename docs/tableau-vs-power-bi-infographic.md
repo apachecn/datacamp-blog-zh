@@ -2,19 +2,19 @@
 
 > 原文：<https://web.archive.org/web/20230101102851/https://www.datacamp.com/blog/tableau-vs-power-bi-infographic>
 
-<center>
+
 
 一个好的决策过程在果断和尽职调查之间找到了平衡，因此快速传达信息在各种业务中都受到高度重视。这个概念是数据可视化的核心；通常，一个图形或图表可以毫不费力地显示和解释成千上万的数字和文字。您可以使用 Tableau 和 Microsoft Power BI 等商业智能工具来创建这样的图表。
 
 在本文中，我们来看看 Power BI vs Tableau，探索它们的相似之处和不同之处，以及它们的优缺点。看完之后，你应该有一个想法，哪一个适合你的需求。
 
-<center>![](img/b4e9140e687246719768317c8bfd9425.png)</center>
+![](img/b4e9140e687246719768317c8bfd9425.png)
 
-<center>*A chart in Power BI*</center>
+*A chart in Power BI*
 
-<center>![](img/bc81802201c297fee20d0ad5275bb644.png)</center>
+![](img/bc81802201c297fee20d0ad5275bb644.png)
 
-<center>*A Tableau Visualization*</center>
+*A Tableau Visualization*
 
 ## 商业智能工具的背景
 
@@ -34,13 +34,13 @@ Tableau 于 2004 年首次推出，为用户提供了一种拖放的方式来创
 
 根据 Gartner 的[数据，Power BI 和 Tableau 分别是市场上最受欢迎的商业智能工具。在 2500 多条评论中，Power BI 的平均评分为 4.4 星，略高于 Tableau，Tableau 在 2100 多条评论中的评分为 4.3 星。](https://web.archive.org/web/20230101105114/https://www.gartner.com/reviews/market/analytics-business-intelligence-platforms)
 
-<center>![](img/dafd33fb7508af6c00b31737ecce0796.png)</center>
+![](img/dafd33fb7508af6c00b31737ecce0796.png)
 
 ### 他们产生了各种不同的视觉效果
 
 Tableau 和 Power BI 都可以帮助您以各种不同的方式展示您的数据。您可以选择可视化，包括条形图和折线图、树状图和地理图。在这两个平台上，您可以与这些可视化进行交互，例如将鼠标悬停在它们上面以获取更多信息和应用过滤器，您还可以将它们组合起来创建交互式仪表板。
 
-<center>![](img/d23b0548b3bdf1ed45ab830094e08f2c.png)</center>
+![](img/d23b0548b3bdf1ed45ab830094e08f2c.png)
 
 ### 他们可以连接到各种数据源
 
@@ -52,7 +52,7 @@ Tableau 和 Power BI 都可以帮助您以各种不同的方式展示您的数�
 
 当然，您还可以使用其他工具，如下图所示。SQL、R 和 Python 也是很有价值的工具，在您的技能组合中增加一个或多个是非常有价值的。
 
-<center>![](img/1119dd5ee3e8d91e3ac51fb76aa611f1.png)</center>
+![](img/1119dd5ee3e8d91e3ac51fb76aa611f1.png)
 
 ### 其他相似之处
 
@@ -60,9 +60,9 @@ Tableau 和 Power BI 都可以帮助您以各种不同的方式展示您的数�
 
 例如，Power BI 曾经在数据准备方面表现出色，因为用户总是能够通过 Power Query 建模、清理和向数据集添加计算列。然而，随着 Tableau Prep 的推出，Tableau 最近也取得了自己的进展。
 
-<center>![](img/a4988a0b2415230593cdfb2181be6bb9.png)</center>
+![](img/a4988a0b2415230593cdfb2181be6bb9.png)
 
-<center>![](img/93be11252bcbfd67f20b640d6a7a71ca.png)</center>
+![](img/93be11252bcbfd67f20b640d6a7a71ca.png)
 
 ## 功率 BI 与 Tableau -差异
 
@@ -93,7 +93,7 @@ Power BI 拥有一项涵盖该平台所有主要功能的认证。还有 PL-300:
 *   **Power BI** :可以使用 Power BI 中的数据分析表达式和 M 语言进行数据操作和数据建模。也可以使用微软 revolution analytics 连接 R 编程语言。
 *   Tableau :你会发现 Tableau 有更多的选择和灵活性。除了更容易与 R 集成，您还可以用 Python、Java、C 和 C++实现 Tableau 软件开发工具包。
 
-<center>![](img/f3f98ac4a8a86b07e2288f0d98a525be.png)</center>
+![](img/f3f98ac4a8a86b07e2288f0d98a525be.png)
 
 ## Tableau vs Power 双价
 
@@ -110,7 +110,7 @@ Power BI 拥有一项涵盖该平台所有主要功能的认证。还有 PL-300:
 
 作为快速参考，我们在下表中列出了这些详细信息:
 
-<center>![](img/a6fe1555db59769051c81d61fa8a43c4.png)</center>
+![](img/a6fe1555db59769051c81d61fa8a43c4.png)
 
 | **许可证名称** | **费用(每月)** | **描述** | **许可证名称** | **费用(按月、按年计费)** | **描述** |
 | Power BI 桌面 | 免费 | 允许您在本地机器上使用所有基本的 Power BI 功能 | Tableau Public | 免费 | 可用于创建连接到 Excel、CSV 和 JSON 文件的可视化效果。所有可视化将公开可见。 |
@@ -169,7 +169,7 @@ DataCamp 提供了一系列课程，包括 [Tableau](https://web.archive.org/web
 
 想从事数据方面的职业？在 Microsoft Power BI 职业跟踪中发现我们的[数据分析师，您将立即为工作做好准备。](https://web.archive.org/web/20230101105114/https://www.datacamp.com/tracks/data-analyst-in-power-bi)
 
-<center>[![](img/8a38b221bff09162979f070b13ac4dac.png)](https://web.archive.org/web/20230101105114/https://www.datacamp.com/groups/business)</center>
+[![](img/8a38b221bff09162979f070b13ac4dac.png)](https://web.archive.org/web/20230101105114/https://www.datacamp.com/groups/business)
 
 这个问题的答案完全取决于你的个人或业务需求。这两种工具都可以创建有用的数据洞察和可视化，并且每种工具都有一系列适合不同环境的功能。
 
@@ -181,4 +181,3 @@ DataCamp 提供了一系列课程，包括 [Tableau](https://web.archive.org/web
 
 通过我们的入门课程，您可以在大约 3-4 个小时内掌握这两种工具的基础知识。然而，要达到流利程度，可能需要相当长的时间，通常需要几个月。Tableau track 中的数据分析师大约需要 42 小时才能完成，而 Power BI 中的数据分析师大约需要 51 小时。
 
-</center>

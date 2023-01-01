@@ -26,7 +26,7 @@
 
 当与这些专家合作时，让他们提前了解项目是很重要的，这样他们就有时间确保当模型准备好被部署时有合适的基础设施。了解工作将如何被使用也很重要——作为产品中的一个特性，API 的一部分，与现有的过程集成，或者从头开始需要一个新的过程。项目的使用将决定谁是最佳的实施专家。
 
-<center>[![](img/a426cf055dd9e6e5003b493d90d5db55.png)](https://web.archive.org/web/20220703055017/https://www.datacamp.com/groups/business)</center>
+[![](img/a426cf055dd9e6e5003b493d90d5db55.png)](https://web.archive.org/web/20220703055017/https://www.datacamp.com/groups/business)
 
 ## 如何有效地与合作者一起工作
 
@@ -36,10 +36,10 @@
 
 该项目将需要首先了解客户保留指标和趋势，收集相关数据，清理和分析数据，建立分类模型，将其集成到自动电子邮件系统中，并将其设置为活动。所有这些步骤可能需要数周时间，并且许多步骤需要前面部分讨论的三个利益相关者的帮助。
 
-<center>![](img/19319434a28951aa26ee5e9b46ce28ff.png)</center>
+![](img/19319434a28951aa26ee5e9b46ce28ff.png)
 
 设定一个初始时间表允许协作者在需要帮助项目时制定路线图。如果出现延迟，应立即通知合作伙伴。如果数据收集阶段出现延迟，实施专家不应该提前一个月出现，因为这将浪费他们的时间，并损害未来与他们合作的机会。
 
 要了解有关数据科学项目管理最佳实践的更多信息，请收听[点播网络研讨会](https://web.archive.org/web/20220703055017/https://www.datacamp.com/resources/webinars/manage-data-science-projects-effectively-1)获取更多深入示例。
 
-<center>[![](img/a426cf055dd9e6e5003b493d90d5db55.png)](https://web.archive.org/web/20220703055017/https://www.datacamp.com/groups/business)</center>
+[![](img/a426cf055dd9e6e5003b493d90d5db55.png)](https://web.archive.org/web/20220703055017/https://www.datacamp.com/groups/business)

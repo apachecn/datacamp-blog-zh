@@ -4,7 +4,7 @@
 
 DataCamp Digest 是我们的月度综述，旨在提供所有数据科学方面的最新见解和新闻。在本期中，我们将讨论为何难以实现数据驱动、面向未来的组织的特征、如何采用产品思维来构建仪表盘等。
 
-<center>[![](img/61acc400fcb0375aa3b7cf164cb6bb0e.png)](https://web.archive.org/web/20220525032256/https://www.datacamp.com/groups/business)</center>
+[![](img/61acc400fcb0375aa3b7cf164cb6bb0e.png)](https://web.archive.org/web/20220525032256/https://www.datacamp.com/groups/business)
 
 ### [为什么成为一家数据驱动的公司如此困难？](https://web.archive.org/web/20220525032256/https://hbr.org/2021/02/why-is-it-so-hard-to-become-a-data-driven-company) |哈佛商业评论
 
@@ -14,7 +14,7 @@ DataCamp Digest 是我们的月度综述，旨在提供所有数据科学方面�
 
 与构建数据文化的主题一致，本文深入探讨了在组织中构建数据素养计划。从评估数据技能到建立学习文化，找出成功的数据素养计划的关键要素。
 
-<center>[![](img/f9d2f1c40f78e10e334c13657f8628ba.png)](https://web.archive.org/web/20220525032256/https://www.datacamp.com/groups/business)</center>
+[![](img/f9d2f1c40f78e10e334c13657f8628ba.png)](https://web.archive.org/web/20220525032256/https://www.datacamp.com/groups/business)
 
 ### [面向未来的公司的九大特征](https://web.archive.org/web/20220525032256/https://www.mckinsey.com/business-functions/organization/our-insights/the-nine-traits-of-future-ready-companies) |麦肯锡
 
@@ -24,7 +24,7 @@ DataCamp Digest 是我们的月度综述，旨在提供所有数据科学方面�
 
 本月我们最喜欢的读物之一，这篇文章深入探讨了不同的沟通方式，以及它们如何改善或恶化远程工作。
 
-<center>[![](img/dbe6b84bc9ed07e64d22174956ebcf08.png)](https://web.archive.org/web/20220525032256/https://www.datacamp.com/groups/business)</center>
+[![](img/dbe6b84bc9ed07e64d22174956ebcf08.png)](https://web.archive.org/web/20220525032256/https://www.datacamp.com/groups/business)
 
 ### [一个问题让您的数据项目价值提高 10 倍](https://web.archive.org/web/20220525032256/https://blog.narrator.ai/one-question-to-make-your-data-project-10x-more-valuable/) |旁白
 
@@ -38,7 +38,7 @@ DataCamp Digest 是我们的月度综述，旨在提供所有数据科学方面�
 
 随着组织开始充分利用他们的数据进行分析和机器学习，他们将需要开始利用外部数据集来完善他们的模型和分析输出。在本文中了解更多关于外部数据集的重要性。
 
-<center>[![](img/7a43ffe92891c2416dd1c4816b67a790.png)](https://web.archive.org/web/20220525032256/https://www.datacamp.com/groups/business)</center>
+[![](img/7a43ffe92891c2416dd1c4816b67a790.png)](https://web.archive.org/web/20220525032256/https://www.datacamp.com/groups/business)
 
 ### [数据可观察性:使用 SQL 构建数据质量监视器](https://web.archive.org/web/20220525032256/https://towardsdatascience.com/data-observability-in-practice-using-sql-755dc6421f59) |巴尔·摩西&瑞安·卡恩斯
 
@@ -48,7 +48,7 @@ DataCamp Digest 是我们的月度综述，旨在提供所有数据科学方面�
 
 在本书中，Christoph Molnar 详细介绍了可解释的机器学习的重要性，数据团队今天可以采用的技术，以及机器学习可解释性的未来。
 
-<center>[![](img/2c39f65506acacaf052e34ba76a41711.png)](https://web.archive.org/web/20220525032256/https://www.datacamp.com/groups/business)</center>
+[![](img/2c39f65506acacaf052e34ba76a41711.png)](https://web.archive.org/web/20220525032256/https://www.datacamp.com/groups/business)
 
 ### [白皮书:我们的数据科学开源指南](https://web.archive.org/web/20220525032256/https://www.datacamp.com/resources/whitepapers/our-guide-to-open-source-in-data-science)
 

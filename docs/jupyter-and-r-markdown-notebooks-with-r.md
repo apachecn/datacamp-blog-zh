@@ -10,14 +10,14 @@
 
 本教程将涵盖以下主题:
 
-<nav>
+
 
 *   在 [Jupyter 笔记本](#jupyter)中使用 R 的实用介绍。您将看到如何安装 R 内核，以及如何使用 R magics 使您的笔记本真正具有交互性，
 *   关于 [R Markdown 笔记本](#markdown)的介绍:您将了解该功能在可再生研究和 R 的历史中是如何发展的，它与其他计算笔记本相比如何，您如何安装和使用它，以及哪些提示和技巧会派上用场，
 *   概述[这两个笔记本之间的异同](#compare)，重点介绍笔记本共享、代码执行、版本控制和项目管理；和
 *   你还将了解在你使用 R 时，Jupyter 和 R Markdown 笔记本的其他[替代品，如 Bookdown、DataCamp Light、Shiny 等。](#alternatives)
 
-</nav>
+
 
 ## r 和朱庇特笔记本
 

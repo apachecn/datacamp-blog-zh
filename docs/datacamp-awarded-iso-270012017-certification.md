@@ -2,7 +2,7 @@
 
 > 原文：<https://web.archive.org/web/20221129041328/https://www.datacamp.com/blog/datacamp-awarded-iso-270012017-certification>
 
-<center>[![DataCamp is ISO 27001: 2017 Certified | DataCamp](img/933ec07516bd83ab5e9a32963290734f.png)](https://web.archive.org/web/20220627140353/https://www.datacamp.com/discover/enterprise)</center>
+[![DataCamp is ISO 27001: 2017 Certified | DataCamp](img/933ec07516bd83ab5e9a32963290734f.png)](https://web.archive.org/web/20220627140353/https://www.datacamp.com/discover/enterprise)
 
 DataCamp 很荣幸获得 ISO 27001:2017 认证，这是一项全球信息技术安全标准。这反映了 DataCamp 团队的辛勤工作，以及我们在信息安全领域对最佳实践和高标准的执着追求。
 

@@ -14,11 +14,11 @@
 2.  相对于进入市场的新竞争对手的优势:制定数据驱动的决策是与具有颠覆性数据和分析驱动的商业模式的新竞争对手竞争的必要条件。
 3.  扩展核心业务的新可能性:通过为核心业务做出更明智的决策，资源开放以扩展到当今核心业务之外的新业务模式。凯捷[在此](https://web.archive.org/web/20220819082937/https://worldinsurancereport.com/wp-content/uploads/sites/6/2020/05/World-Insurance-Report-2020.pdf)介绍了其中一些新一代服务。
 
-<center>![](img/16c94216ca831be560eddc997cb2d0e8.png)</center>
+![](img/16c94216ca831be560eddc997cb2d0e8.png)
 
 然而，目前存在明显的障碍，阻止保险公司扩展分析工厂。以下是网上研讨会中列出的几个例子
 
-<center>[![](img/17dc80cf38d4f4445f9e5b8ae863fac5.png)](https://web.archive.org/web/20220819082937/https://www.datacamp.com/groups/business)</center>
+[![](img/17dc80cf38d4f4445f9e5b8ae863fac5.png)](https://web.archive.org/web/20220819082937/https://www.datacamp.com/groups/business)
 
 ## 障碍 1:治理不清晰
 
@@ -46,4 +46,4 @@
 
 要了解更多关于保险公司如何将其分析库扩展到工厂的信息，请务必收听[点播网络研讨会](https://web.archive.org/web/20220819082937/https://www.datacamp.com/resources/webinars/future-of-data-science-in-insurance-1)。
 
-<center>[![](img/17dc80cf38d4f4445f9e5b8ae863fac5.png)](https://web.archive.org/web/20220819082937/https://www.datacamp.com/groups/business)</center>
+[![](img/17dc80cf38d4f4445f9e5b8ae863fac5.png)](https://web.archive.org/web/20220819082937/https://www.datacamp.com/groups/business)

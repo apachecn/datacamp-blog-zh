@@ -12,7 +12,7 @@
 
 Omdena 的平台提供了与合适的人和环境的即时接触，在这里，最佳创意通过自下而上的协作而胜出。
 
-<center>[![](img/9ac0bf5d38703f8fe4f6925d7a330953.png)](https://web.archive.org/web/20220522132302/https://www.datacamp.com/groups/business)</center>
+[![](img/9ac0bf5d38703f8fe4f6925d7a330953.png)](https://web.archive.org/web/20220522132302/https://www.datacamp.com/groups/business)
 
 ##### 资料来源:omna
 
@@ -20,7 +20,7 @@ Omdena 社区将世界各地的人们联系在一起，就有意义的问题进�
 
 ## 八周从问题到复杂的人工智能模型
 
-<center>[![](img/d4886c0ae6533a0334e82018f8b9c387.png)](https://web.archive.org/web/20220522132302/https://www.datacamp.com/groups/business)</center>
+[![](img/d4886c0ae6533a0334e82018f8b9c387.png)](https://web.archive.org/web/20220522132302/https://www.datacamp.com/groups/business)
 
 ##### 资料来源:omna
 

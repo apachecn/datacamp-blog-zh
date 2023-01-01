@@ -2,7 +2,7 @@
 
 > 原文：<https://web.archive.org/web/20230101103202/https://www.datacamp.com/blog/bridging-the-communications-gap-with-data-literacy>
 
-<center>[![](img/91e127e74b6284a007905c6aa52275cc.png)](https://web.archive.org/web/20220518120831/https://www.datacamp.com/webinars/bridging-the-communications-gap-with-data-literacy)</center>
+[![](img/91e127e74b6284a007905c6aa52275cc.png)](https://web.archive.org/web/20220518120831/https://www.datacamp.com/webinars/bridging-the-communications-gap-with-data-literacy)
 
 数据素养的真正商业价值来自于让组织成员能够理解数据并从中提取真知灼见。当数据素养融入公司文化时，它可以作为一个强大的工具来打破分析孤岛，并在整个组织中实现可扩展的数据故事。
 

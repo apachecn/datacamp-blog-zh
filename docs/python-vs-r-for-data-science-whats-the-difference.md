@@ -2,7 +2,7 @@
 
 > 原文：<https://web.archive.org/web/20230101103328/https://www.datacamp.com/blog/python-vs-r-for-data-science-whats-the-difference>
 
-<center>[![](img/1c5de5c4d1b8d170eb45c0d68a395c2c.png)](https://web.archive.org/web/20220525171448/https://www.datacamp.com/courses/)</center>
+[![](img/1c5de5c4d1b8d170eb45c0d68a395c2c.png)](https://web.archive.org/web/20220525171448/https://www.datacamp.com/courses/)
 
 如果您是数据科学的新手，或者您的组织是新手，您需要选择一种语言来分析您的数据，并选择一种深思熟虑的方式来做出决策。完全公开:虽然我会写 Python，但我的背景主要是 R 社区——但我会尽最大努力做到无党派。
 

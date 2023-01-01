@@ -2,7 +2,7 @@
 
 > 原文：<https://web.archive.org/web/20221129041328/https://www.datacamp.com/blog/data-privacy-in-the-age-of-covid-19>
 
-<center>[![](img/d430a965ceb2b565727e2582097e9db7.png)](https://web.archive.org/web/20220525171530/https://www.datacamp.com/community/podcast/Data-Privacy-Age-of-COVID-19)</center>
+[![](img/d430a965ceb2b565727e2582097e9db7.png)](https://web.archive.org/web/20220525171530/https://www.datacamp.com/community/podcast/Data-Privacy-Age-of-COVID-19)
 
 DataCamp 播客 DataFramed 的主持人 Hugo Bowne-Anderson 最近采访了 Cape Privacy 的产品负责人 Katharine Jarmul。
 

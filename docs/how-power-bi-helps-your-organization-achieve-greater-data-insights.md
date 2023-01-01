@@ -2,7 +2,7 @@
 
 > 原文：<https://web.archive.org/web/20230101103145/https://www.datacamp.com/blog/how-power-bi-helps-your-organization-achieve-greater-data-insights>
 
-<center>[![](img/aac0e16aad92a315040374b302cf4536.png)](https://web.archive.org/web/20220518141052/https://www.datacamp.com/groups/business)</center>
+[![](img/aac0e16aad92a315040374b302cf4536.png)](https://web.archive.org/web/20220518141052/https://www.datacamp.com/groups/business)
 
 ## 在数字时代保持竞争力
 
@@ -54,9 +54,9 @@ Power BI 是一个 BI 和数据可视化工具，它利用可视化分析来帮�
 
 此外，Power BI Pro 是[微软 365 E5 订阅](https://web.archive.org/web/20220518141052/https://www.microsoft.com/en/microsoft-365/enterprise/e5?rtc=1&activetab=pivot%3Aoverviewtab&market=af)的一部分，所以如果你在使用微软 Office 的组织中，你可能已经可以访问它了。
 
-<center>![](img/5ee05712f1c8cbb892c720c2f90a4dc9.png)</center>
+![](img/5ee05712f1c8cbb892c720c2f90a4dc9.png)
 
-<center>*A Power BI Dashboard in Action*</center>
+*A Power BI Dashboard in Action*
 
 ## Power BI 有什么用？
 
@@ -86,9 +86,9 @@ Power BI 附带了许多报告功能，用户可以轻松创建设计良好的�
 
 将高级可视化编织成连贯的数据叙述的能力是 Power BI 区别于 Excel 等其他工具的地方。这些数据故事在构建令人信服的案例以向决策者传达可操作的见解方面非常有效，这与商业智能的主要目标相一致。
 
-<center>![](img/af19558e1fc0dce1f9a255a880a3982f.png)</center>
+![](img/af19558e1fc0dce1f9a255a880a3982f.png)
 
-<center>[A Power BI Data Story on the impact covid-19 had on public transportation in NSW](https://web.archive.org/web/20220518141052/https://community.powerbi.com/t5/Data-Stories-Gallery/COVID-19-NSW-Transport-Impact/td-p/1193474)</center>
+[A Power BI Data Story on the impact covid-19 had on public transportation in NSW](https://web.archive.org/web/20220518141052/https://community.powerbi.com/t5/Data-Stories-Gallery/COVID-19-NSW-Transport-Impact/td-p/1193474)
 
 ## 借助 Power BI 和 DataCamp 实现数据科学的民主化
 
@@ -98,4 +98,4 @@ Power BI 是一款广泛使用的商业智能和分析软件，受到亚马逊�
 
 了解更多关于 [DataCamp](https://web.archive.org/web/20220518141052/https://www.datacamp.com/discover/power-bi-essential-training?utm_source=fb_paid&utm_medium=cpc&utm_campaign=Prospecting&utm_term=prospecting&utm_content=powerBI) 如何为您的团队提供强大的 BI 技能，以大规模普及数据科学的信息。
 
-<center>[![](img/aac0e16aad92a315040374b302cf4536.png)](https://web.archive.org/web/20220518141052/https://www.datacamp.com/groups/business)</center>*
+[![](img/aac0e16aad92a315040374b302cf4536.png)](https://web.archive.org/web/20220518141052/https://www.datacamp.com/groups/business)*

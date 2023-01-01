@@ -6,4 +6,4 @@
 
 非常感谢整个# datacamp 社区今年对您的支持。我们鼓励你在 2021 年加入 [DataCamp Slack 社区](https://web.archive.org/web/20220813100551/https://support.datacamp.com/hc/en-us/articles/360001915993-The-DataCamp-Slack-Community-An-Overview)与其他学习者一起交流。
 
-<center>[![](img/267049373ebfa56c06274769d428e6ad.png)](https://web.archive.org/web/20220813100551/https://s3.amazonaws.com/assets.datacamp.com/email/other/DataCamp+2020+by+the+numbers.pdf)</center>
+[![](img/267049373ebfa56c06274769d428e6ad.png)](https://web.archive.org/web/20220813100551/https://s3.amazonaws.com/assets.datacamp.com/email/other/DataCamp+2020+by+the+numbers.pdf)

@@ -2,7 +2,7 @@
 
 > 原文：<https://web.archive.org/web/20221129040116/https://www.datacamp.com/blog/why-its-okay-if-your-model-isnt-the-most-accurate>
 
-<center>[![](img/8cd26b92d661d833fd25362783f4bdb7.png)](https://web.archive.org/web/20220808004505/https://www.datacamp.com/groups/business)</center>
+[![](img/8cd26b92d661d833fd25362783f4bdb7.png)](https://web.archive.org/web/20220808004505/https://www.datacamp.com/groups/business)
 
 当构建一个 ML 模型时，你必须指定一个*评估指标*，它告诉算法你在优化什么。一个常用的评估标准是准确性，也就是说，您的模型对多大比例的数据做出了正确的预测。这似乎是一个很好的选择:谁会想要一个*不是*最准确的模型呢？
 
@@ -15,7 +15,7 @@
 *   真正的否定(正确分类的非垃圾邮件)
 *   真阳性(垃圾邮件被正确分类)
 
-<center>[![](img/e20842c8b5839769b3c7d1c4ed2e9279.png)](https://web.archive.org/web/20220808004505/https://www.datacamp.com/resources/ebooks/definitive-guide-to-machine-learning-for-business-leaders)</center>
+[![](img/e20842c8b5839769b3c7d1c4ed2e9279.png)](https://web.archive.org/web/20220808004505/https://www.datacamp.com/resources/ebooks/definitive-guide-to-machine-learning-for-business-leaders)
 
 来源:[玻璃盒药](https://web.archive.org/web/20220808004505/https://glassboxmedicine.com/2019/02/17/measuring-performance-the-confusion-matrix/)
 
@@ -27,4 +27,4 @@
 
 在[商业领袖机器学习权威指南](https://web.archive.org/web/20220808004505/https://www.datacamp.com/resources/ebooks/definitive-guide-to-machine-learning-for-business-leaders)中找到更多关于机器学习的最佳实践。
 
-<center>[![](img/076f4bbe8c5cbdcc2a2a37d16facf7f9.png)](https://web.archive.org/web/20220808004505/https://www.datacamp.com/business/demo)</center>
+[![](img/076f4bbe8c5cbdcc2a2a37d16facf7f9.png)](https://web.archive.org/web/20220808004505/https://www.datacamp.com/business/demo)

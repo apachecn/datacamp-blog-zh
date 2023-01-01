@@ -2,7 +2,7 @@
 
 > 原文：<https://web.archive.org/web/20221129045010/https://www.datacamp.com/blog/uncertainty-in-data-science-transcript>
 
-<center>[![](img/fe232025a03aaeeacbb9682b7ef0d160.png)](https://web.archive.org/web/20220703063315/https://www.datacamp.com/community/podcast/uncertainty-data-science)</center>
+[![](img/fe232025a03aaeeacbb9682b7ef0d160.png)](https://web.archive.org/web/20220703063315/https://www.datacamp.com/community/podcast/uncertainty-data-science)
 
 [https://web.archive.org/web/20220703063315if_/https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/502660623%3Fsecret_token%3Ds-2gCsr&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true](https://web.archive.org/web/20220703063315if_/https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/502660623%3Fsecret_token%3Ds-2gCsr&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true)
 

@@ -22,27 +22,27 @@
 
 ### 不确定性的圆锥体
 
-<figure>![spaghetti plot python](img/0523b9b9b7924ec1b28c128dd44cefc9.png)
+![spaghetti plot python](img/0523b9b9b7924ec1b28c128dd44cefc9.png)
 
-<figcaption>Caption: From [the National Hurricane Center](https://web.archive.org/web/20220626103721/http://www.nhc.noaa.gov/aboutcone.shtml).</figcaption>
+Caption: From [the National Hurricane Center](https://web.archive.org/web/20220626103721/http://www.nhc.noaa.gov/aboutcone.shtml).
 
-</figure>
+
 
 ### 意大利面条图(I 型)
 
-<figure>![spaghetti plot hurricane](img/0f80cbb496c6bf4d340709fba06e6ded.png)
+![spaghetti plot hurricane](img/0f80cbb496c6bf4d340709fba06e6ded.png)
 
-<figcaption>From [South Florida Water Management District](https://web.archive.org/web/20220626103721/https://www.sfwmd.gov/) via [fivethirtyeight](https://web.archive.org/web/20220626103721/https://fivethirtyeight.com/features/hurricane-irma-will-be-dangerous-no-matter-where-it-makes-landfall/).</figcaption>
+From [South Florida Water Management District](https://web.archive.org/web/20220626103721/https://www.sfwmd.gov/) via [fivethirtyeight](https://web.archive.org/web/20220626103721/https://fivethirtyeight.com/features/hurricane-irma-will-be-dangerous-no-matter-where-it-makes-landfall/).
 
-</figure>
+
 
 ### 意大利面条样地(类型二)
 
-<figure>![](img/f268e001023a5d5abb719d0508108635.png)
+![](img/f268e001023a5d5abb719d0508108635.png)
 
-<figcaption>From [The New York Times](https://web.archive.org/web/20220626103721/https://www.nytimes.com/interactive/2017/09/05/us/hurricane-irma-map.html). Surrounding text tells us 'One of the best hurricane forecasting systems is a model developed by an independent intergovernmental organization in Europe, according to Jeff Masters, a founder of the Weather Underground. The system produces 52 distinct forecasts of the storm’s path, each represented by a line [above].'</figcaption>
+From [The New York Times](https://web.archive.org/web/20220626103721/https://www.nytimes.com/interactive/2017/09/05/us/hurricane-irma-map.html). Surrounding text tells us 'One of the best hurricane forecasting systems is a model developed by an independent intergovernmental organization in Europe, according to Jeff Masters, a founder of the Weather Underground. The system produces 52 distinct forecasts of the storm’s path, each represented by a line [above].'
 
-</figure>
+
 
 ## 飓风预测路径可视化的解释和影响
 

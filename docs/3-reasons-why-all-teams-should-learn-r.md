@@ -2,7 +2,7 @@
 
 > 原文：<https://web.archive.org/web/20230101103145/https://www.datacamp.com/blog/3-reasons-why-all-teams-should-learn-r>
 
-<center>[![](img/f3200629ca8c7b9854fe3094a30be8fd.png)](https://web.archive.org/web/20220529054229/https://www.datacamp.com/groups/business)</center>
+[![](img/f3200629ca8c7b9854fe3094a30be8fd.png)](https://web.archive.org/web/20220529054229/https://www.datacamp.com/groups/business)
 
 ## 现代时代的数字化转型
 
@@ -46,9 +46,9 @@ R 还被普遍认为是数据操作更容易的编程语言之一，因此学习
 
 虽然 Excel 等电子表格软件可以执行数据分析，但它很难处理涉及大数据集的长期重复数据操作任务。如果您尝试过在 Excel 中处理超过 100，000 行的大型数据集，您就会理解程序会变得多么缓慢。
 
-<center>[![](img/368b5998bb5cdf39002e21d3a344792a.png)](https://web.archive.org/web/20220529054229/https://www.datacamp.com/courses/introduction-to-r)</center>
+[![](img/368b5998bb5cdf39002e21d3a344792a.png)](https://web.archive.org/web/20220529054229/https://www.datacamp.com/courses/introduction-to-r)
 
-<center>*With 3 intuitive lines of code, you can filter a dataset based on column condition, and arrange it by another column condition*</center>
+*With 3 intuitive lines of code, you can filter a dataset based on column condition, and arrange it by another column condition*
 
 相反，R 可以有效地产生详细的分析，即使是对于大型数据集。这对于那些需要重复处理大量复杂的大型数据集，并且不能消耗太多时间或计算资源的项目很有帮助。
 
@@ -64,9 +64,9 @@ Tidyverse 集合包含为数据相关任务设计的包，包括一些流行的�
 
 当串联使用时，这些软件包允许用户有效地执行数据操作和分析，并以高度精确和信息丰富的可视化方式有效地呈现见解。
 
-<center>[![](img/7c6bffa0a828b76bc62972c65c0500e3.png)](https://web.archive.org/web/20220529054229/https://www.datacamp.com/courses/introduction-to-r)</center>
+[![](img/7c6bffa0a828b76bc62972c65c0500e3.png)](https://web.archive.org/web/20220529054229/https://www.datacamp.com/courses/introduction-to-r)
 
-<center>*From the ggplot2 plot above, we can readily glean insights about the GDP per capita across continents over time.*</center>
+*From the ggplot2 plot above, we can readily glean insights about the GDP per capita across continents over time.*
 
 ### ㈢报告和仪表板
 
@@ -78,9 +78,9 @@ Shiny 是一个优秀的 R 包，它使人们能够轻松地构建和发布仪�
 
 以下是一个用于监控新西兰贸易信息的闪亮仪表板示例:
 
-<center>![](img/9c2d2b3fd8cc76cc4a640bce4166a5d6.png)</center>
+![](img/9c2d2b3fd8cc76cc4a640bce4166a5d6.png)
 
-<center>**Source:** [RStudio Shiny Gallery](https://web.archive.org/web/20220529054229/https://shiny.rstudio.com/gallery/nz-trade-dash.html)</center>
+**Source:** [RStudio Shiny Gallery](https://web.archive.org/web/20220529054229/https://shiny.rstudio.com/gallery/nz-trade-dash.html)
 
 ## 用 R 民主化数据科学
 
@@ -90,4 +90,4 @@ Shiny 是一个优秀的 R 包，它使人们能够轻松地构建和发布仪�
 
 r 对于技术和非技术员工来说是一种实用而直观的技能，因为它的准入门槛相对较低。有了这些有价值的数据技能，企业就能以数据驱动型公司的方式实现积极的业务成果。
 
-<center>[![](img/f3200629ca8c7b9854fe3094a30be8fd.png)](https://web.archive.org/web/20220529054229/https://www.datacamp.com/groups/business)</center>
+[![](img/f3200629ca8c7b9854fe3094a30be8fd.png)](https://web.archive.org/web/20220529054229/https://www.datacamp.com/groups/business)

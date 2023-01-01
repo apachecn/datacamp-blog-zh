@@ -2,7 +2,7 @@
 
 > 原文：<https://web.archive.org/web/20221129054701/https://www.datacamp.com/blog/employee-spotlight-jeremaia>
 
-<center>![](img/7cb7ef3e4fc07924322bedf622612087.png)</center>
+![](img/7cb7ef3e4fc07924322bedf622612087.png)
 
 #### 你在 DataCamp 做些什么，一天是什么样的？
 

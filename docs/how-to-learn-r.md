@@ -22,7 +22,7 @@ CRAN 提供了一个类似的 [FAQ 资源](https://web.archive.org/web/202207050
 *   Coursera 的 [R 编程](https://web.archive.org/web/20220705000442/https://www.coursera.org/learn/r-programming)涵盖了 R 语言的基础知识，深入到具有挑战性的概念，并使用了具体的例子。
 *   LinkedIn Learning 的[数据科学硕士 R](https://web.archive.org/web/20220705000442/https://www.linkedin.com/learning/paths/master-r-for-data-science)路径最适合已经有编程或数据科学经验的学习者。
 
-<center>[![interactive visualization with R](img/0cfe328b7b22392adcb5d30c38384c59.png)](https://web.archive.org/web/20220705000442/https://www.datacamp.com/)</center>
+[![interactive visualization with R](img/0cfe328b7b22392adcb5d30c38384c59.png)](https://web.archive.org/web/20220705000442/https://www.datacamp.com/)
 
 ##### r 包使得创建像这样的交互式可视化和地图变得容易。来源:[传单](https://web.archive.org/web/20220705000442/https://leafletjs.com/) | [OpenStreetMap](https://web.archive.org/web/20220705000442/https://www.openstreetmap.org/) 投稿人， [CC-BY-SA](https://web.archive.org/web/20220705000442/https://creativecommons.org/licenses/by-sa/2.0/)
 

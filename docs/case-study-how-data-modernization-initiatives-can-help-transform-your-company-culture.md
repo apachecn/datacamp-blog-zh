@@ -2,9 +2,9 @@
 
 > 原文：<https://web.archive.org/web/20230101103339/https://www.datacamp.com/blog/case-study-how-data-modernization-initiatives-can-help-transform-your-company-culture>
 
-<center>[![](img/cc1da3e340919742d63756c5f12c69d0.png)](https://web.archive.org/web/20220705004133/https://www.datacamp.com/discover/enterprise)</center>
+[![](img/cc1da3e340919742d63756c5f12c69d0.png)](https://web.archive.org/web/20220705004133/https://www.datacamp.com/discover/enterprise)
 
-<center>[![](img/9380a8abc159f9a8620e7810c3cab182.png)](https://web.archive.org/web/20220705004133/https://www.datacamp.com/discover/enterprise)</center>
+[![](img/9380a8abc159f9a8620e7810c3cab182.png)](https://web.archive.org/web/20220705004133/https://www.datacamp.com/discover/enterprise)
 
 根据我们最近进行的一项调查, 81%的公司专注于实施流程重新设计和文化变革，以建立数据流畅性。但是说起来容易做起来难。
 
@@ -36,4 +36,4 @@
 
 您可以以我们的客户为榜样，通过 DataCamp 采用数据科学和分析来实现公司的现代化。让我们来帮忙。了解如何在[datacamp.com/business](https://web.archive.org/web/20220705004133/https://www.datacamp.com/discover/enterprise)或[安排我们平台的演示](https://web.archive.org/web/20220705004133/https://www.datacamp.com/business/demo/)。
 
-<center>[![](img/99ed5671160b289ef4c134926b20050f.png)](https://web.archive.org/web/20220705004133/https://www.datacamp.com/business/demo)</center>
+[![](img/99ed5671160b289ef4c134926b20050f.png)](https://web.archive.org/web/20220705004133/https://www.datacamp.com/business/demo)

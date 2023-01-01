@@ -2,7 +2,7 @@
 
 > 原文：<https://web.archive.org/web/20230101103301/https://www.datacamp.com/blog/employee-spotlight-pursuing-a-tech-career-from-brazil-to-the-uk>
 
-<center>[![](img/2d09fd4ef62ceedf9b25492dcd8b2f13.png)](https://web.archive.org/web/20220703032058/https://www.datacamp.com/discover/enterprise)</center>
+[![](img/2d09fd4ef62ceedf9b25492dcd8b2f13.png)](https://web.archive.org/web/20220703032058/https://www.datacamp.com/discover/enterprise)
 
 ## 你加入 DataCamp 的历程是怎样的？
 

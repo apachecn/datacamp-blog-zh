@@ -2,7 +2,7 @@
 
 > 原文：<https://web.archive.org/web/20221129051850/https://www.datacamp.com/blog/building-high-performing-data-teams>
 
-<center>[![](img/2b86590361c35f5aa60e099fed2254fc.png)](https://web.archive.org/web/20221129054715/https://www.datacamp.com/community/podcast/building-high-performing-data-teams)</center>
+[![](img/2b86590361c35f5aa60e099fed2254fc.png)](https://web.archive.org/web/20221129054715/https://www.datacamp.com/community/podcast/building-high-performing-data-teams)
 
 [https://web.archive.org/web/20221129054715if_/https://embed.podcasts.apple.com/us/podcast/72-building-high-performing-data-teams-with-syafri/id1336150688?i=1000537446823](https://web.archive.org/web/20221129054715if_/https://embed.podcasts.apple.com/us/podcast/72-building-high-performing-data-teams-with-syafri/id1336150688?i=1000537446823)
 

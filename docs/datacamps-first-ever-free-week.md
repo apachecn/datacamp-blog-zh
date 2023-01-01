@@ -2,7 +2,7 @@
 
 > 原文：<https://web.archive.org/web/20230101103301/https://www.datacamp.com/blog/datacamps-first-ever-free-week>
 
-<center>[![](img/164b9da18ce7fde73a04ad58d32f4718.png)](https://web.archive.org/web/20220703061653/https://www.datacamp.com/freeweek)</center>
+[![](img/164b9da18ce7fde73a04ad58d32f4718.png)](https://web.archive.org/web/20220703061653/https://www.datacamp.com/freeweek)
 
 从一开始，DataCamp 将数据科学和分析教育带给全球学习者的使命就从未动摇过。现在，大多数人都在尽自己最大的努力在家里帮助他们的当地社区和整个世界，我们觉得我们有责任尽可能方便地为更多的人提供服务。仅仅因为事情似乎停滞不前，并不意味着我们不能作为个人和团队成长。
 

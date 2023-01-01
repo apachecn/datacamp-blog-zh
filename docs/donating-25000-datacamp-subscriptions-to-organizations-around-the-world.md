@@ -34,7 +34,7 @@
 *   接下来，将邀请合格的组织填写一份正式的申请表。
 *   如果选中，最后一步是在 Zoom 上召开会议，最终确定合作条款。然后，我们在一周内将许可证捐赠给我们的新合作伙伴组织。
 
-<center>[![](img/472311edef869222493934b9234f3da7.png)](/web/20221212135912/https://www.datacamp.com/cdn-cgi/l/email-protection#f0949f9e918495b09491849193919d80de939f9d)</center>
+[![](img/472311edef869222493934b9234f3da7.png)](/web/20221212135912/https://www.datacamp.com/cdn-cgi/l/email-protection#f0949f9e918495b09491849193919d80de939f9d)
 
 ## DataCamp 的合作伙伴捐赠
 
@@ -44,4 +44,4 @@
 
 [查看我们的完整合作伙伴列表](https://web.archive.org/web/20221212135912/https://support.datacamp.com/hc/en-us/articles/360051596574)，包括他们的网站、按国家划分的 DataCamp 捐赠范围以及关于该计划具体条款的常见问题解答。非常感谢我们所有的合作伙伴帮助我们实现数据科学教育民主化的目标。
 
-<center>[![](img/9b9e3fd22ea0f5ab8e595af54f9586a9.png)](https://web.archive.org/web/20221212135912/https://www.datacamp.com/donates)</center>
+[![](img/9b9e3fd22ea0f5ab8e595af54f9586a9.png)](https://web.archive.org/web/20221212135912/https://www.datacamp.com/donates)

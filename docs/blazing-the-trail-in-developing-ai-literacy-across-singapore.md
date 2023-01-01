@@ -38,7 +38,7 @@
 
 #### 来自教师和学生的反馈
 
-<center>[![](img/7dfbf25052c9007cd16d23728f18fe66.png)](https://web.archive.org/web/20221129052945/https://www.aisingapore.org/)</center>
+[![](img/7dfbf25052c9007cd16d23728f18fe66.png)](https://web.archive.org/web/20221129052945/https://www.aisingapore.org/)
 
 ### 工业人工智能(AI4I)
 
@@ -46,7 +46,7 @@
 
 #### AI4I 参与者的反馈
 
-<center>[![](img/1c3c09c6a1e0ffb43b8047a23fff7bb0.png)](https://web.archive.org/web/20221129052945/https://www.aisingapore.org/)</center>
+[![](img/1c3c09c6a1e0ffb43b8047a23fff7bb0.png)](https://web.archive.org/web/20221129052945/https://www.aisingapore.org/)
 
 ## 你会对考虑与 DataCamp 合作的其他人说些什么？
 

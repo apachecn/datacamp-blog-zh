@@ -2,7 +2,7 @@
 
 > 原文：<https://web.archive.org/web/20221129054701/https://www.datacamp.com/blog/how-to-manage-ai-projects-effectively>
 
-<center>[![](img/202711770f9b97ddcaa418a1526f188a.png)](https://web.archive.org/web/20220808002102/https://www.datacamp.com/groups/business)</center>
+[![](img/202711770f9b97ddcaa418a1526f188a.png)](https://web.archive.org/web/20220808002102/https://www.datacamp.com/groups/business)
 
 87%的数据科学项目[从未投入生产](https://web.archive.org/web/20220808002102/https://venturebeat.com/2019/07/19/why-do-87-of-data-science-projects-never-make-it-into-production/)。一些失败是因为缺乏管理支持，另一些是因为缺乏高质量的数据和适当的基础设施。希望从人工智能和机器学习中获得价值的组织应该知道在界定和管理人工智能项目时的常见陷阱。然而，说起来容易做起来难。即使是那些熟悉实现传统软件项目的人，由于其独特的性质，在实现人工智能项目时可能仍然会面临困难。
 
@@ -18,7 +18,7 @@
 
 这三个特征为公司的第一批人工智能项目的成功奠定了基础。原因如下。
 
-*<u>AI 项目应该可行</u>*
+*AI 项目应该可行*
 
 在开始新的人工智能项目之前，组织应该在将资源投入到不可行的项目之前，衡量自己的数据成熟度。数据成熟度的支柱包括基础设施、人员、工具、组织和流程。围绕这些支柱的有用问题可以使组织更好地确定哪些项目是最可行的:
 
@@ -27,11 +27,11 @@
 *   团队是否具备交付可靠、准确的模型结果的必备技能？
 *   公司是否有流程、工具和技能来监控生产中的模型？
 
-*<u>AI 项目要简单</u>*
+*AI 项目要简单*
 
 对于数据成熟度相对较低的组织来说，技术上简单的项目更容易管理。快速交付的简单项目有助于产生立竿见影的效果，积累团队的经验。这为未来的人工智能项目建立了动力，刺激了一个良性循环，在公司中建立了兴奋感，为技术上更先进的人工智能项目产生了买入。随着公司在人工智能成熟度方面的进步，它可以从低挂的水果转向更复杂的项目。
 
-*<u>AI 项目应该是有价值的</u>*
+*AI 项目应该是有价值的*
 
 《哈佛商业评论》声称，强大的人工智能项目的特征之一是它创造的价值。这可以有三种形式——人工智能可以帮助做出更好的决策，通过自动化重复的手动任务来降低成本，或者用于新产品。从成功的人工智能项目中获得的这种价值可以帮助说服利益相关者投资于公司的人工智能能力。
 
@@ -53,7 +53,7 @@
 
 在这个过程中，利润曲线的使用有助于定量地建立业务和技术指标之间的关系，正如《商业数据科学》一书中所建议的那样。这将技术进步转化为商业术语，使领导者能够回答诸如“准确度提高 1%会产生多少额外收入？”
 
-<center>![](img/5a9102bf0f5e1224b7274894f6f2fd83.png)</center>
+![](img/5a9102bf0f5e1224b7274894f6f2fd83.png)
 
 Figure 1: An illustration of a profit curve that links the accuracy of an AI system with the resulting profit
 
@@ -73,7 +73,7 @@ Figure 1: An illustration of a profit curve that links the accuracy of an AI sys
 
 这是一个计算机视觉系统的 ML 流水线的例子，它检测手机制造过程中的异常。这种简化的 ML 管道使用照片检测手机缺陷，并促进质量保证团队的工作。
 
-<center>![](img/6d39e8ceff7d7c56afb0874b7f5c098c.png)</center>
+![](img/6d39e8ceff7d7c56afb0874b7f5c098c.png)
 
 Figure 2: A simplified ML pipeline of a phone manufacturer
 
@@ -97,4 +97,4 @@ Veljko Krunic 称这个过程为“ML 管道的僵化”。改变的惰性来自
 
 这就是 [DataCamp for Business](https://web.archive.org/web/20220808002102/https://www.datacamp.com/groups/business) 可以提供帮助的地方，它为那些需要提高和重新提高员工数据技能的公司提供了一个交互式学习平台。主题从数据工程到机器学习，超过 1，600 家公司信任 DataCamp for Business 来提升他们的人才技能。
 
-<center>[![](img/202711770f9b97ddcaa418a1526f188a.png)](https://web.archive.org/web/20220808002102/https://www.datacamp.com/groups/business)</center>
+[![](img/202711770f9b97ddcaa418a1526f188a.png)](https://web.archive.org/web/20220808002102/https://www.datacamp.com/groups/business)

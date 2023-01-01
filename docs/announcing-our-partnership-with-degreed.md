@@ -2,7 +2,7 @@
 
 > 原文：<https://web.archive.org/web/20230101103202/https://www.datacamp.com/blog/announcing-our-partnership-with-degreed>
 
-<center>![](img/4cebde66dbac850283c77b12c4560924.png)</center>
+![](img/4cebde66dbac850283c77b12c4560924.png)
 
 DataCamp 很高兴地宣布，我们已经与 Degreed 合作，为组织提供[免费的数据素养培训，无论他们是否已经订阅了 DataCamp。](https://web.archive.org/web/20220808011354/http://www.datacamp.com/degreed-data-science-training)
 

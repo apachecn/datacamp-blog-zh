@@ -2,7 +2,7 @@
 
 > 原文：<https://web.archive.org/web/20221129045128/https://www.datacamp.com/blog/how-to-ship-data-science-projects-quickly>
 
-<center>[![](img/41149d2103b030ea389a25e19934df04.png)](https://web.archive.org/web/20220522133123/https://www.datacamp.com/groups/business)</center>
+[![](img/41149d2103b030ea389a25e19934df04.png)](https://web.archive.org/web/20220522133123/https://www.datacamp.com/groups/business)
 
 数据科学项目有许多组件需要协作才能成功部署。有了这些相互关联的部分，敏捷方法对于开发和部署过程是必要的。这种方法允许组织快速学习和迭代。在最近的 DataCamp 网络研讨会中，Lucid Software 内部工程部门的工程经理 Brian Campbell 讨论了成功部署数据科学项目的最佳实践。
 
@@ -26,7 +26,7 @@ Brian 解释说，在一个项目的早期，可以采取两个关键步骤来�
 
 Brian 讨论了他在 Lucid 的团队如何使用基线和原型来加速产品、设计和工程团队使用的便笺产品的集群模型的开发。这些团队经常举行设计思考会议，在会议中，主持人需要手动将相似类型的便笺聚集到给定的类别下。该系统的目标是通过自动将想法分类并删除重复项来减少头脑风暴和讨论之间的时间。
 
-<center>![](img/29c4bfc81142ba0af5897c4e86a1cefb.png)</center>
+![](img/29c4bfc81142ba0af5897c4e86a1cefb.png)
 
 基线模型接受随机的想法，并为它们生成随机的类别。然后，他们创建了这个模型的原型，使实现专家能够在开发过程的早期开始工作。随着时间的推移，他们通过利用自然语言处理和机器学习将类似的便笺聚集在一起，改进了基线模型。
 
@@ -38,4 +38,4 @@ Brian 讨论了他在 Lucid 的团队如何使用基线和原型来加速产品�
 
 要了解从项目中学到的经验教训，以及如何有效地管理复杂的数据科学项目，请务必收听[点播网络研讨会](https://web.archive.org/web/20220522133123/https://www.datacamp.com/resources/webinars/manage-data-science-projects-effectively)。
 
-<center>[![](img/41149d2103b030ea389a25e19934df04.png)](https://web.archive.org/web/20220522133123/https://www.datacamp.com/groups/business)</center>
+[![](img/41149d2103b030ea389a25e19934df04.png)](https://web.archive.org/web/20220522133123/https://www.datacamp.com/groups/business)

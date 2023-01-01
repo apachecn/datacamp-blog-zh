@@ -10,7 +10,7 @@
 
 为了说明成为认证数据科学家的过程，以下是 DataCamp 数据科学认证的工作方式:
 
-<center>![](img/67d9edd902b94d0906d2a98d980723b3.png)
+![](img/67d9edd902b94d0906d2a98d980723b3.png)
 
 ### 1.定时评估:
 
@@ -64,4 +64,3 @@
 
 [Tableau:从学生到认证](https://web.archive.org/web/20220525032714/https://www.datacamp.com/community/blog/tableau-student-to-certification)和 [Tableau 桌面专家认证:了解如何使用 Tableau 并通过考试](https://web.archive.org/web/20220525032714/https://www.datacamp.com/community/blog/Tableau-desktop-specialist-certification)了解如何在 BI 工具中获得认证。
 
-</center>

@@ -2,7 +2,7 @@
 
 > 原文：<https://web.archive.org/web/20230101103145/https://www.datacamp.com/blog/how-tableau-helps-your-organization-achieve-greater-data-insights>
 
-<center>[![](img/bc2aca694c3f5ae2cdb7208b41a83c40.png)](https://web.archive.org/web/20221212135819/https://www.datacamp.com/groups/business)</center>
+[![](img/bc2aca694c3f5ae2cdb7208b41a83c40.png)](https://web.archive.org/web/20221212135819/https://www.datacamp.com/groups/business)
 
 ## 在数字时代保持竞争力
 
@@ -46,9 +46,9 @@ Tableau 始于 2003 年斯坦福大学的一个项目，旨在通过可视化让
 
 在市场上的商业智能工具中，Tableau 可能是最受欢迎的。Enlyft 报告称，Tableau 在 BI 类别的技术中拥有最大的市场份额(16.3%)。
 
-<center>![](img/2a65ed749d4c399b88bb7c23a6a005c6.png)</center>
+![](img/2a65ed749d4c399b88bb7c23a6a005c6.png)
 
-<center>*Survey on the market share of BI tools | Source: [Enlyft](https://web.archive.org/web/20221212135819/https://enlyft.com/tech/products/tableau)*</center>
+*Survey on the market share of BI tools | Source: [Enlyft](https://web.archive.org/web/20221212135819/https://enlyft.com/tech/products/tableau)*
 
 ## Tableau 怎么用？
 
@@ -68,9 +68,9 @@ Tableau 附带了许多工作簿功能，用户可以轻松创建设计良好的
 
 这些仪表板在协调组织的战略努力、揭示关键见解和加速企业范围的决策方面大有帮助。当许多用户接受创建这种仪表板的培训时，数据洞察可以大规模民主化，以帮助企业转型为数据驱动的公司。
 
-<center>![](img/4e003d614e2bf9579139d5ab22bf539c.png)</center>
+![](img/4e003d614e2bf9579139d5ab22bf539c.png)
 
-<center>*Example of a sales dashboard built with Tableau | Source: [DataCamp's Tableau Fundamentals Track](https://web.archive.org/web/20221212135819/https://www.datacamp.com/tracks/tableau-fundamentals)*</center>
+*Example of a sales dashboard built with Tableau | Source: [DataCamp's Tableau Fundamentals Track](https://web.archive.org/web/20221212135819/https://www.datacamp.com/tracks/tableau-fundamentals)*
 
 ### 3.借助高级数据可视化讲述数据故事
 
@@ -80,9 +80,9 @@ Tableau 附带了许多工作簿功能，用户可以轻松创建设计良好的
 
  *Tableau 允许用户将一系列可视化效果(包括仪表板)串连起来，形成一个可视化的故事，以交流数据见解，提供背景，并演示决策与结果之间的关系。将高级可视化(例如地理空间映射)编织成连贯的数据叙述的能力是 Tableau 区别于 Excel 等其他工具的地方。这些数据故事在构建令人信服的案例以向决策者传达可操作的见解方面非常有效，这与商业智能的主要目标相一致。
 
-<center>![](img/8db311956a42086bb4b4fbbb8a964a64.png)</center>
+![](img/8db311956a42086bb4b4fbbb8a964a64.png)
 
-<center>*Example of a Tableau data story created to answer questions relating to bike-sharing data | Source: [Creating Dashboards in Tableau](https://web.archive.org/web/20221212135819/https://www.datacamp.com/courses/creating-dashboards-in-tableau)*</center>
+*Example of a Tableau data story created to answer questions relating to bike-sharing data | Source: [Creating Dashboards in Tableau](https://web.archive.org/web/20221212135819/https://www.datacamp.com/courses/creating-dashboards-in-tableau)*
 
 ## 通过 Tableau 和 DataCamp 实现数据科学的民主化
 
@@ -92,4 +92,4 @@ Tableau 是一个广泛使用的商业智能和分析软件，受到亚马逊、
 
 [DataCamp 的 Tableau 基础技能课程](https://web.archive.org/web/20221212135819/https://www.datacamp.com/tracks/tableau-fundamentals)将帮助您的团队掌握大规模数据民主化的技能，并通过 Tableau 的桌面专家认证。
 
-<center>[![](img/bc2aca694c3f5ae2cdb7208b41a83c40.png)](https://web.archive.org/web/20221212135819/https://www.datacamp.com/groups/business)</center>*
+[![](img/bc2aca694c3f5ae2cdb7208b41a83c40.png)](https://web.archive.org/web/20221212135819/https://www.datacamp.com/groups/business)*

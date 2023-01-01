@@ -69,4 +69,4 @@ DataCamp 是首个专注于为数据科学打造最佳学习体验的在线学�
 
 [![](img/c2d96c1a261595c54f84eb03fc9cb9c0.png)](https://web.archive.org/web/20220810132206/https://www.datacamp.com/groups/business/?utm_source=tutorial&utm_medium=community&utm_campaign=groups)
 
-<center>Interested in learning more? Feel free to reach out at [[email protected]](/web/20220810132206/https://www.datacamp.com/cdn-cgi/l/email-protection#244e454f416440455045474549540a474b49)</center>
+Interested in learning more? Feel free to reach out at [[email protected]](/web/20220810132206/https://www.datacamp.com/cdn-cgi/l/email-protection#244e454f416440455045474549540a474b49)

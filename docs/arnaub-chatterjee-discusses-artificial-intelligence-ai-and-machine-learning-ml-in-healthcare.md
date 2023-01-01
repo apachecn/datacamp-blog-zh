@@ -2,7 +2,7 @@
 
 > 原文：<https://web.archive.org/web/20221129045010/https://www.datacamp.com/blog/arnaub-chatterjee-discusses-artificial-intelligence-ai-and-machine-learning-ml-in-healthcare>
 
-<center>[![](img/a90463f220936250078a644327e54b11.png)](https://web.archive.org/web/20220529064349/https://www.datacamp.com/community/podcast/ai-healthcare)</center>
+[![](img/a90463f220936250078a644327e54b11.png)](https://web.archive.org/web/20220529064349/https://www.datacamp.com/community/podcast/ai-healthcare)
 
 [https://web.archive.org/web/20220529064349if_/https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/520227201%3Fsecret_token%3Ds-Mfbd0&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true](https://web.archive.org/web/20220529064349if_/https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/520227201%3Fsecret_token%3Ds-Mfbd0&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true)
 

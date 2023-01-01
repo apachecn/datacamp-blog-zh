@@ -2,7 +2,7 @@
 
 > 原文：<https://web.archive.org/web/20221129045010/https://www.datacamp.com/blog/angela-bassa-discusses-managing-data-science-teams-and-much-more>
 
-<center>[![](img/e7c7fa6e45f2c3b03fd840fe687a3e7c.png)](https://web.archive.org/web/20220630214915/https://www.datacamp.com/community/podcast/managing-data-science-teams)</center>
+[![](img/e7c7fa6e45f2c3b03fd840fe687a3e7c.png)](https://web.archive.org/web/20220630214915/https://www.datacamp.com/community/podcast/managing-data-science-teams)
 
 [https://web.archive.org/web/20220630214915if_/https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/526639653%3Fsecret_token%3Ds-30jxj&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true](https://web.archive.org/web/20220630214915if_/https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/526639653%3Fsecret_token%3Ds-30jxj&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true)
 

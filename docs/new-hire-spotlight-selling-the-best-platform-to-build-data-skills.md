@@ -2,7 +2,7 @@
 
 > 原文：<https://web.archive.org/web/20221129054647/https://www.datacamp.com/blog/new-hire-spotlight-selling-the-best-platform-to-build-data-skills>
 
-<center>[![](img/a72e46cc606a63337ffabfce159945c7.png)](https://web.archive.org/web/20220813084642/https://www.datacamp.com/jobs/)</center>
+[![](img/a72e46cc606a63337ffabfce159945c7.png)](https://web.archive.org/web/20220813084642/https://www.datacamp.com/jobs/)
 
 ## 告诉我们你加入 DataCamp 的途径。
 

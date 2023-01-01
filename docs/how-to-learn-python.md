@@ -10,7 +10,7 @@ Python 是当今最流行的编程语言，广泛应用于软件和 web 开发�
 
 Python 是一种高度通用的编程语言，有许多用例。在开始学习 Python 的过程中，有一个明确的动机是很重要的。瞄准感兴趣的领域将帮助你更快地开始，并过滤掉不适合你的用例的学习资源。当我需要在学校使用 Python 进行数据科学项目时，我开始了自己的 Python 学习之旅。我没有 Python 或编程经验，需要快速上手。幸运的是，通过一些在线资源，我能够在短短几个月内熟练掌握。这里列出了 Python 有帮助的相关领域:
 
-<center>[![](img/b3d17c8719188abc6240072d40f017d2.png)](https://web.archive.org/web/20220630225156/https://datacamp.com/)</center>
+[![](img/b3d17c8719188abc6240072d40f017d2.png)](https://web.archive.org/web/20220630225156/https://datacamp.com/)
 
 ### 1.数据科学和机器学习
 
@@ -34,7 +34,7 @@ Python 受欢迎程度的上升可以归因于其丰富的数据科学和机器�
 
 ## Python 学习之旅的 6 个步骤
 
-<center>[![](img/94f94d188be60a34979ecc28867ac13c.png)](https://web.archive.org/web/20220630225156/https://datacamp.com/)</center>
+[![](img/94f94d188be60a34979ecc28867ac13c.png)](https://web.archive.org/web/20220630225156/https://datacamp.com/)
 
 ### 1.在基本语法上花尽可能少的时间
 
@@ -51,7 +51,7 @@ Python 受欢迎程度的上升可以归因于其丰富的数据科学和机器�
 
 要获得关于使用 Anaconda 设置 Python 环境的入门知识，请观看我的[实践培训](https://web.archive.org/web/20220630225156/https://www.datacamp.com/resources/webinars/setting-up-your-python-environment)的分步教程。你也可以按照初学者指南在 [Windows](https://web.archive.org/web/20220630225156/https://www.datacamp.com/community/tutorials/installing-anaconda-windows) 和 [Mac OS X](https://web.archive.org/web/20220630225156/https://www.datacamp.com/community/tutorials/installing-anaconda-mac-os-x) 上安装 Anaconda。
 
-<center>[![](img/d4740f30774b2f0d2a4c66232348c84f.png)](https://web.archive.org/web/20220630225156/https://www.spyder-ide.org/)</center>
+[![](img/d4740f30774b2f0d2a4c66232348c84f.png)](https://web.archive.org/web/20220630225156/https://www.spyder-ide.org/)
 
 ##### [Spyder 集成开发环境的图像](https://web.archive.org/web/20220630225156/https://www.spyder-ide.org/)
 

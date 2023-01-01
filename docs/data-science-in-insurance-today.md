@@ -10,9 +10,9 @@
 
 个人客户可用数据的大规模增长以及机器学习和资源的进步，使得需求和关系的这些变化成为可能。在本文的[中，IBM 讨论了保险公司在创建相对于吸引大众的产品的个性化服务时，如何观察到盈利时间提高了 22-25%。这些产品只能使用机器学习进行规模化开发。](https://web.archive.org/web/20220809202103/https://www.ibm.com/thought-leadership/institute-business-value/report/insurance-data-personalization)
 
-<center>![](img/9b81491f5aa0dab6921357004d117a4f.png)</center>
+![](img/9b81491f5aa0dab6921357004d117a4f.png)
 
-<center>[![](img/d057e3963e2f5863d196fab18387cc72.png)](https://web.archive.org/web/20220809202103/https://www.datacamp.com/groups/business)</center>
+[![](img/d057e3963e2f5863d196fab18387cc72.png)](https://web.archive.org/web/20220809202103/https://www.datacamp.com/groups/business)
 
 ## 保险数据科学的现状
 
@@ -40,4 +40,4 @@ Sudaman 在网上研讨会中解释说，当机器学习用于预测而不是因
 
 如果您想了解更多关于保险数据科学的未来，请点击此处收听网络研讨会[。](https://web.archive.org/web/20220809202103/https://www.datacamp.com/resources/webinars/future-of-data-science-in-insurance-1)
 
-<center>[![](img/d057e3963e2f5863d196fab18387cc72.png)](https://web.archive.org/web/20220809202103/https://www.datacamp.com/groups/business)</center>
+[![](img/d057e3963e2f5863d196fab18387cc72.png)](https://web.archive.org/web/20220809202103/https://www.datacamp.com/groups/business)

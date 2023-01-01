@@ -2,7 +2,7 @@
 
 > 原文：<https://web.archive.org/web/20221129045128/https://www.datacamp.com/blog/how-data-storytelling-could-save-lives-the-case-study-of-semmelweis>
 
-<center>[![](img/9ca81987f221f50ffdba70805fda6a34.png)](https://web.archive.org/web/20220817155801/https://www.datacamp.com/groups/business)</center>
+[![](img/9ca81987f221f50ffdba70805fda6a34.png)](https://web.archive.org/web/20220817155801/https://www.datacamp.com/groups/business)
 
 数据故事讲述是一种结构化的方法，使用叙事元素和探索性视觉效果来交流数据见解。那些希望将数据转化为见解和决策的人将从掌握讲述数据故事的艺术中受益。
 
@@ -10,7 +10,7 @@
 
 数据故事由三个关键要素组成— [数据、视觉和叙事](https://web.archive.org/web/20220817155801/https://www.datacamp.com/community/blog/telling-effective-data-stories-with-data-narrative-and-visuals)。要讲述一个好的数据故事，需要选择正确的数据，使用引导数据故事流程的叙述结构，并用引人注目的视觉效果来说明数据故事。
 
-<center>![](img/cbadf9b0fb545ee56efe5ee356553f7e.png)Figure 1: Narrative, visuals and data are data stories that drive changes</center>
+![](img/cbadf9b0fb545ee56efe5ee356553f7e.png)Figure 1: Narrative, visuals and data are data stories that drive changes
 
 ## Semmelweis 的案例研究
 
@@ -22,13 +22,13 @@
 
 在诊所工作期间，Semmelweis 被一种特殊的趋势所吸引。**医生和医学生经营的诊所的死亡率与助产士经营的诊所的死亡率(3.9%)相比，产床热的死亡率(9.9%)明显较高(图 2)** 。与内科医生和医科学生不同，助产士在分娩前不做任何尸检。这使他得出结论，来自尸体的物质增加了这些女性的死亡风险。
 
-<center>![](img/03ae36918d67fe8a479b25d7969672fe.png)Figure 2\. Clinics operated by doctors who did not wash their hands caused more deaths.</center>
+![](img/03ae36918d67fe8a479b25d7969672fe.png)Figure 2\. Clinics operated by doctors who did not wash their hands caused more deaths.
 
 知道了这一点，他提出了洗手的习惯，这大大降低了死亡率。然而，这些发现并没有帮助他说服他的导师克莱恩教授相信他的理论。
 
 Semmelweis 在他的余生中一直是洗手的强烈支持者，但却无济于事。1861 年，Semmelweis 向医学界发表了他的著作《产床热的病因、概念和预防》,医学界对他的学说作出了批判性的回应。1865 年，塞麦尔维斯在精神病院去世，远在细菌理论被广泛接受之前。
 
-<center>![](img/356315a784a88341b7032b193eab5650.png)Figure 3\. The Etiology, Concept, and Prophylaxis of Childbed Fever have hundreds of pages and no charts</center>
+![](img/356315a784a88341b7032b193eab5650.png)Figure 3\. The Etiology, Concept, and Prophylaxis of Childbed Fever have hundreds of pages and no charts
 
 ## 为什么他没能说服社区？
 
@@ -36,14 +36,14 @@ Brent 用这个案例研究证明了数据叙事的三个组成部分——数�
 
 回想起来，Semmelweis 本可以用数据故事更令人信服地传达他的信息。这里有一个 Brent Dykes 的折线图的例子，它结合了数据、叙述和视觉效果来讲述一个令人信服的数据故事。
 
-<center>![](img/9318de1c9f8f5433fd9e13e16b5cfd0a.png)Figure 4\. A data story by Dykes that better illustrates Semmelweis’ point.</center>
+![](img/9318de1c9f8f5433fd9e13e16b5cfd0a.png)Figure 4\. A data story by Dykes that better illustrates Semmelweis’ point.
 
 Semmelweis 的方法与英国医生 John Snow 的方法形成了直接对比，他研究了 1854 年 Broad Street 霍乱爆发，并假设细菌污染的水导致了霍乱。在证明了水泵附近的死亡率很高之后，斯诺说服了地方议会关闭了水泵。
 
-<center>![](img/3b7e0306abf7312b9d87dbb9a16816a3.png)FIgure 5: John Snow’s data visualization</center>
+![](img/3b7e0306abf7312b9d87dbb9a16816a3.png)FIgure 5: John Snow’s data visualization
 
 ## 结论
 
 与 Semmelweis 不同，今天的数据故事讲述者可以使用大量工具来创建引人入胜的数据故事，从 Tableau 等商业智能工具到 T2【python 等编程语言。对于现代数据从业者来说，掌握数据叙事的艺术和科学来推动行动才是明智的。
 
-<center>[![](img/9ca81987f221f50ffdba70805fda6a34.png)](https://web.archive.org/web/20220817155801/https://www.datacamp.com/groups/business)</center>
+[![](img/9ca81987f221f50ffdba70805fda6a34.png)](https://web.archive.org/web/20220817155801/https://www.datacamp.com/groups/business)

@@ -6,7 +6,7 @@
 
 IPTOP 代表基础设施、人员、工具、组织和流程。这个由三部分组成的网络研讨会系列详细介绍了组织如何利用这些手段来实现数据科学的民主化，并在此过程中实现数据流畅。下面是这些杠杆的细目分类:
 
-<center>[![](img/f5defa994aaafb7421e82a5e6ab875cd.png)](https://web.archive.org/web/20220525040729/https://www.datacamp.com/groups/business)</center>
+[![](img/f5defa994aaafb7421e82a5e6ab875cd.png)](https://web.archive.org/web/20220525040729/https://www.datacamp.com/groups/business)
 
 ## 1 -基础设施
 

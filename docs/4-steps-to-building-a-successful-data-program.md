@@ -2,9 +2,9 @@
 
 > 原文：<https://web.archive.org/web/20230101103301/https://www.datacamp.com/blog/4-steps-to-building-a-successful-data-program>
 
-<center>[![](img/339f748ac285174897f8afa09d465930.png)](https://web.archive.org/web/20220819084250/https://www.datacamp.com/discover/enterprise)</center>
+[![](img/339f748ac285174897f8afa09d465930.png)](https://web.archive.org/web/20220819084250/https://www.datacamp.com/discover/enterprise)
 
-<center>[![](img/165c410334083cedca48524cbe8c538e.png)](https://web.archive.org/web/20220819084250/https://www.datacamp.com/groups/business)</center>
+[![](img/165c410334083cedca48524cbe8c538e.png)](https://web.archive.org/web/20220819084250/https://www.datacamp.com/groups/business)
 
 启动数据程序可能是一项挑战，但是没有数据程序，您的企业可能无法综合重要数据来得出有意义的见解。我们最近的 DCVirtual 会议深入探讨了如何实施和衡量成功的数据驱动文化。DataCamp 的课程架构师 Richie Cotton 就此话题与 AXA XL 的战略设计、数据、定价和分析主管 Rachel Alt-Simmons 进行了交谈。请继续阅读，了解为什么每个人都需要数据驱动，如何确定您的数据目标，以及如何实施数据计划。
 
@@ -73,4 +73,4 @@ Rachel 说，通过回答这个问题，很容易衡量你的数据程序是否�
 
 欲了解有关构建成功的数据程序的更多信息，请观看在线研讨会点播。
 
-<center>[![](img/7839b8c757ac3f37708938e8a505e3e2.png)](https://web.archive.org/web/20220819084250/https://www.datacamp.com/business/demo)</center>
+[![](img/7839b8c757ac3f37708938e8a505e3e2.png)](https://web.archive.org/web/20220819084250/https://www.datacamp.com/business/demo)

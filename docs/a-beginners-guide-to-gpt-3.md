@@ -255,8 +255,7 @@ OpenAI 社区大使 Bram Adams 创建了 [Stenograph](https://web.archive.org/we
 
 Shubham Saboo 在全球知名公司担任过从数据科学家到人工智能传播者的多重角色。他作为人工智能传播者的工作使他建立了社区，接触到更广泛的受众，以促进新兴人工智能领域的想法和思想交流。作为他学习新事物和与社区分享知识的热情的一部分，他写关于人工智能进步及其经济影响的技术博客。他是《GPT-3:使用大型语言模型构建创新的自然语言处理产品》的合著者。
 
-<section>
+
 
 Sandra 是一名作家、福音传道者、社区建设者，也是人工智能主题的积极发言人，尤其是 GPT-3、无代码和合成媒体。她运营着一个 YouTube 频道，采访生态系统的利益相关者，讨论开创性的人工智能趋势。你可以看看她的书， [GPT-3:用大型语言模型构建 NLP 产品](https://web.archive.org/web/20221126195342/https://www.amazon.com/GPT-3-Building-Innovative-Products-Language/dp/1098113624)。
 
-</section>

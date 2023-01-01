@@ -4,17 +4,17 @@
 
 当我们结束 2021 年的最后一章时，DataCamp 希望尽一切努力将免费的世界级数据科学教育提供给最需要它的弱势群体。这就是为什么我们将 Q1 2022 数据营捐赠合作伙伴队列的申请截止日期延长了整整一周。新的截止时间是美国东部时间 2022 年 1 月 31 日 11:59。代表您的非营利组织申请为您的整个社区赢得一年的免费专业数据营！看看我们从[数据营每周捐赠](https://web.archive.org/web/20220810054207/http://www.datacamp.com/donates)学员那里获得的许多成功案例中的一些吧:
 
-<center>[![](img/67d28075d53334aae37aae3198f7e920.png)](https://web.archive.org/web/20220810054207/https://datacamp.com/donates)</center>
+[![](img/67d28075d53334aae37aae3198f7e920.png)](https://web.archive.org/web/20220810054207/https://datacamp.com/donates)
 
 “我通过 GDSC 国际律师协会获得了免费使用 DataCamp 的许可，目的是学习目前全世界急需的技能。在 DataCamp 上完成 Python 和 SQL 课程一个月后，我在 Growthhopper 找到了一份数据分析师的工作。感谢 DataCamp 提供这个机会！”
 
-<center>![](img/5d8e318dba84062d510b06ac225b828a.png)</center>
+![](img/5d8e318dba84062d510b06ac225b828a.png)
 
 ~ Shehroze Shahid，学生，巴基斯坦卡拉奇
 
 “我对 DataCamp 在学习数据科学和编程方面的出色表现感到震惊。我发现 DataCamp 是一个非常棒的学习论坛，因为你可以实际尝试你在整个赛道中学到的概念。无论您阅读了多少数据科学博客或书籍，没有什么比实际编写解决方案和完成项目更有学习价值。DataCamp 打破了我的预期，帮我在耐克找到了一份灰色市场数据分析师的工作。”
 
-<center>![](img/b40a45a90378391e15b98ee5b2cd82c5.png)</center>
+![](img/b40a45a90378391e15b98ee5b2cd82c5.png)
 
 ——蒙大拿州比尔格，美国陆军老兵，暴线学员，华盛顿州范沃弗
 
@@ -22,7 +22,7 @@
 
 来自纽约的海伦娜·希尔(Helena Hill)参加了此次活动，她说:“了解更多关于数据库和电子表格的知识，对我在 Per Scholas 担任经理的新职位有所帮助。她接着描述了她新发现的知识如何影响她的日常生活，甚至是工作之外的生活:“数据营让我成为一个更聪明的信息消费者。我更加意识到操纵和歪曲图表中的数据是多么容易，例如，有时是无意的。”Per Scholas 的业务解决方案高级总监 Tiernan Walsh 收到了 60 多份 Helena 职位的申请，她将自己的成功归功于使用 DataCamp 获得的知识。
 
-<center>![](img/50a4ba25aea75ed8df04000c32c86422.png)(From left to right) Rachel Provost (Women in Data), Nathaniel Taylor-Leach (Director of Social Impact, DataCamp), Helena Hill, Terrence X. Daniels, and Tiernan Walsh (Per Scholas)</center>
+![](img/50a4ba25aea75ed8df04000c32c86422.png)(From left to right) Rachel Provost (Women in Data), Nathaniel Taylor-Leach (Director of Social Impact, DataCamp), Helena Hill, Terrence X. Daniels, and Tiernan Walsh (Per Scholas)
 
 ## 三个月。20 个合伙人。2500 多条生命
 
@@ -47,4 +47,4 @@
 
 [在 2022 年 1 月 31 日前代表组织](https://web.archive.org/web/20220810054207/http://www.datacamp.com/donates/apply)申请成为 DataCamp 捐赠合作伙伴。。Q2 2022 的申请将于 2022 年 2 月 14 日开始。我们期待在 2022 年支持你！
 
-<center>[![](img/f836ce00ab63b12128658639b08445d6.png)](https://web.archive.org/web/20220810054207/https://datacamp.com/donates)</center>
+[![](img/f836ce00ab63b12128658639b08445d6.png)](https://web.archive.org/web/20220810054207/https://datacamp.com/donates)

@@ -8,11 +8,11 @@
 
 数据工程师的角色逐渐成为人们关注的焦点。
 
-<nav>
+
 
 今天的博客文章将展示数据科学家和数据工程师之间最重要的区别，重点是[职责](#responsibilities)、[工具、语言&软件](#tools)、[教育背景](#education)、[薪水&招聘](#salaries)、[工作前景](#job)和[资源](#resources)，您可以使用它们开始数据科学或工程工作！
 
-</nav>
+
 
 如果您更喜欢看可视化演示和参考资料，请务必查看相应的信息图“[数据工程与数据科学](https://web.archive.org/web/20220818122742/https://www.datacamp.com/community/blog/data-engineering-vs-data-science-infographic/)”。
 

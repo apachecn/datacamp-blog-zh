@@ -2,7 +2,7 @@
 
 > 原文：<https://web.archive.org/web/20221129054701/https://www.datacamp.com/blog/the-path-to-building-data-cultures>
 
-<center>[![](img/bb322b6e42bff20f161704749124ab5a.png)](https://web.archive.org/web/20220704233716/https://www.datacamp.com/community/podcast/the-path-to-building-data-cultures)</center>
+[![](img/bb322b6e42bff20f161704749124ab5a.png)](https://web.archive.org/web/20220704233716/https://www.datacamp.com/community/podcast/the-path-to-building-data-cultures)
 
 [https://web.archive.org/web/20220704233716if_/https://open.spotify.com/embed/episode/3oRqTkPmtlOHnuO0dX6LDk](https://web.archive.org/web/20220704233716if_/https://open.spotify.com/embed/episode/3oRqTkPmtlOHnuO0dX6LDk)
 

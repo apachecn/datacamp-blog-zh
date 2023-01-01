@@ -2,7 +2,7 @@
 
 > 原文：<https://web.archive.org/web/20230101103301/https://www.datacamp.com/blog/dont-make-arrogant-models>
 
-<center>[![](img/e6af7b319ae4b8bdf9120c0e93f52219.png)](https://web.archive.org/web/20221210082657/https://www.datacamp.com/groups/business)</center>
+[![](img/e6af7b319ae4b8bdf9120c0e93f52219.png)](https://web.archive.org/web/20221210082657/https://www.datacamp.com/groups/business)
 
 ## 傲慢对你的模特来说可不是什么好品质。
 

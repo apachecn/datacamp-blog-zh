@@ -8,7 +8,7 @@
 
 有时候，小事情会让很多学生心烦意乱。在[数据科学工具箱(第一部分)](https://web.archive.org/web/20220817160804/https://www.datacamp.com/courses/python-data-science-toolbox-part-1)中，学生们学习如何使用基于 J.R.R .托尔金的《指环王》三部曲中的《指环王》的数据集编写 Python lambda 函数。不幸的是，数据集遗漏了甘道夫和皮聘。我们的学生很有理由抱怨，所以我们倾听并解决了问题。
 
-<center>![](img/b894bd0ec3fbe7342ffcf99d0c356d52.png)</center>
+![](img/b894bd0ec3fbe7342ffcf99d0c356d52.png)
 
 分析许多练习的反馈可以揭示学生的误解模式。许多数据分析以矩形形式保存数据，每行是一些记录，每列是属于该记录的一个值。例如，每行可以对应一个人，列可以是他们的名字、身高和他们最喜欢的颜色。
 
@@ -24,21 +24,21 @@
 
 所有 DataCamp 练习都使用我们的内容工程团队开发的软件自动评分。如果学生答错了，这允许他们得到即时的智能反馈。这可能是我们平台最大的特点。最难的部分之一是预测学生将会做错什么，以便给他们好的建议，告诉他们下次应该做什么。这意味着有时一个正确的解决方案会被标记为不正确。出现这种情况，学生真的很讨厌。有一次，一名学生抱怨说:
 
-<center>![](img/223e460f104b1fb74a8d6ca42e59f05a.png)</center>
+![](img/223e460f104b1fb74a8d6ca42e59f05a.png)
 
 在我们的 R 课程中的[聚类分析中，许多学生发现，尽管一个练习的建议解决方案使用了众所周知的 min()函数来计算最小值，但还有一个更简单、更优雅的解决方案，它使用了鲜为人知的并行最小值函数 pmin()。](https://web.archive.org/web/20220817160804/https://www.datacamp.com/courses/cluster-analysis-in-r)
 
-<center>![](img/e6b44dbdc6a86608872146be8b02d82d.png)</center>
+![](img/e6b44dbdc6a86608872146be8b02d82d.png)
 
 最初，这个练习只允许一个解决方案，但是基于学生们的巧妙想法，两个解决方案现在都被接受了。内容工程团队开发 DataCamp 反馈系统的目标之一是提高评分的灵活性，允许学生以自己的方式解决问题。
 
 学生在使用我们的自动反馈时可能遇到的另一个挫折是，在做练习时重复看到相同的反馈。原理如下图所示，要求学生创建一个包含三个元素的 Python 数组。
 
-<center>![](img/8aa0ec2d05dd1e7aa598a1cc36fc2bae.png)</center>
+![](img/8aa0ec2d05dd1e7aa598a1cc36fc2bae.png)
 
 通过提供更细致的反馈来解决学生答案中的具体问题，我们可以提供更积极的学习体验。反馈改善的结果令人鼓舞。在我们的[中级 Python for Data Science](https://web.archive.org/web/20220817160804/https://www.datacamp.com/courses/intermediate-python-for-data-science) 课程的一个练习中，切换到粒度反馈意味着学生不止一次看到相同反馈消息的比例从大约 65%下降到 10%以下。
 
-<center>![](img/068b4128ed087dc0ec2b76b7077a53e8.png)</center>
+![](img/068b4128ed087dc0ec2b76b7077a53e8.png)
 
 不止一次看到相同反馈信息的用户百分比是我们对所有练习和课程进行监控的指标。结合课程的受欢迎程度，我们创建了一种数据驱动的方式，以最具影响力的方式不断改善学习体验。
 

@@ -2,7 +2,7 @@
 
 > 原文：<https://web.archive.org/web/20221129033105/https://www.datacamp.com/blog/datacamp-donates-spotlight-ingressive-for-good>
 
-<center>[![](img/19a556e280109415d8e682ae71023f08.png)](https://web.archive.org/web/20221212135912/https://techcabal.com/2020/11/24/ingressive-for-good-partners-with-datacamp-to-provide-free-data-skills-training-for-african-youth)</center>
+[![](img/19a556e280109415d8e682ae71023f08.png)](https://web.archive.org/web/20221212135912/https://techcabal.com/2020/11/24/ingressive-for-good-partners-with-datacamp-to-provide-free-data-skills-training-for-african-youth)
 
 我们非常感激[菲利克斯·阿尤拉](https://web.archive.org/web/20221212135912/https://www.datacamp.com/community/blog/felix-ayoola)给我们介绍了《永远的入侵》(I4G)。我们很荣幸能够帮助 I4G 实现其培训 100 万非洲青年并帮助 5000 人找到工作的使命。
 
